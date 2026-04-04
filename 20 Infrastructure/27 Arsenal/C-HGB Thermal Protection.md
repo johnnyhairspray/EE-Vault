@@ -1,10 +1,14 @@
 ---
 type: Infrastructure
 sub_type: Arsenal
-tags: [superalloys, thermal-protection, Mar-M247, nose-cone]
+tags:
+  - superalloys
+  - thermal-protection
+  - Mar-M247
+  - nose-cone
 material_base: Nickel-based Superalloy
 links:
-  - "[[Common Hypersonic Glide Body (C-HGB)]]"
+  - "[[C-HGB]]"
   - "[[Lockheed Martin]]"
   - "[[Dynetics]]"
 status: "#evergreen"
