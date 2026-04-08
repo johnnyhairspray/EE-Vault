@@ -219,7 +219,5 @@ async def write_note(path: str, content: str, vault: str = "", commit_message: s
         return f"{action}: {repo['name']}/{path}"
     return f"Write error {r.status_code}: {r.text[:200]}"
 
-
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))
-    mcp.run(transport="streamable-http", host="0.0.0.0", port=port)
+    mcp.run(transport="streamable-http")
