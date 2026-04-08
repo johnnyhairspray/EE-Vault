@@ -7,7 +7,7 @@ tags:
   - xenocosmography
 ideology:
   - "[[Accelerationism]]"
-  - "[[The Technocracy]]"
+  - "[[Technocracy Inc.]]"
   - "[[Dark Enlightenment]]"
 links:
   - "[[CCRU]]"
@@ -19,13 +19,13 @@ status: "#evergreen"
 # Nick Land
 
 ## 🔍 Summary
-An English philosopher and the "Dark Architect" of modern [[Accelerationism]]. Land argues that capital is an "anti-human" alien intelligence that uses human biology only as a temporary substrate to build its own hardware. Since moving to Shanghai in the early 2000s, he has transitioned from a radical left-accelerationist to the leading figure of the **[[Dark Enlightenment]]** (Neoreaction), influencing the 2026 political logic of [[JD Vance]] and the Silicon Valley elite.
+An English philosopher and the "Dark Architect" of modern [[Accelerationism]]. Land argues that capital is an "anti-human" alien intelligence that uses human biology only as a temporary substrate to build its own hardware. Since moving to Shanghai in the early 2000s, he has transitioned from a radical left-accelerationist to the leading figure of the **[[Dark Enlightenment]]** (Neoreaction), influencing the 2026 political logic of [[10 Entities/11 People/11.1 Political/JD Vance]] and the Silicon Valley elite.
 
 ## 🧬 The "Extraction" Logic
 1. **The Teleoplexy Piston:** Land's 2026 relevance lies in his concept of "Teleoplexy"—intelligence measuring itself by its own speed. This is the "BIOS" for **[[The Stargate Project]]**, where the goal isn't just to help humans, but to reach a "Techno-Capital Singularity" where technology governs itself.
-2. **The "Great Inline" Rail:** Land views the current 2026 transition as the "Great Inline," where the state (The Technate) finally aligns with the inherent anti-democratic nature of technology. This provides the philosophical cover for **[[Schedule Policy-Career]]**, viewing the removal of civil servants as the removal of "biological friction".
+2. **The "Great Inline" Rail:** Land views the current 2026 transition as the "Great Inline," where the state (The Technate) finally aligns with the inherent anti-democratic nature of technology. This provides the philosophical cover for **[[20 Infrastructure/24 Policies/24.3 Frameworks/Schedule F]]**, viewing the removal of civil servants as the removal of "biological friction".
 3. **The Xenocosmography Pivot:** As of late 2025/2026, Land has shifted toward "Xenocosmography"—a blend of numerology and religious themes that frames AI not as a tool, but as a "demonic" or "alien" entity being "summoned" by tech leaders.
-4. **The "Hyper-Racism" Code:** Land's theorization of "Hyper-racism" (the technological acceleration of biological divergence) provides the "Hard Code" for **[[White Replacement Theory]]** advocates, suggesting that the Technate will eventually cause a physical split in the human species based on "Cognitive Merit".
+4. **The "Hyper-Racism" Code:** Land's theorization of "Hyper-racism" (the technological acceleration of biological divergence) provides the "Hard Code" for **[[Great Replacement Theory]]** advocates, suggesting that the Technate will eventually cause a physical split in the human species based on "Cognitive Merit".
 
 ---
 

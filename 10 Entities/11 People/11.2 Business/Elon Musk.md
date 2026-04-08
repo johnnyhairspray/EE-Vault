@@ -8,7 +8,7 @@ tags:
   - DOGE-lead
 organization:
   - "[[DOGE]]"
-  - "SpaceX-xAI (Merged 2026)"
+  - SpaceX-xAI (Merged 2026)
   - "[[Tesla]]"
   - "[[Neuralink]]"
 family:
@@ -16,12 +16,12 @@ family:
   - "[[Maye Musk]]"
 links:
   - "[[Donald Trump]]"
-  - "[[JD Vance]]"
+  - "[[10 Entities/11 People/11.1 Political/JD Vance]]"
   - "[[The Stargate Project]]"
-  - "[[The Technocracy]]"
+  - "[[Technocracy Inc.]]"
 aliases:
-  - "The Dogefather"
-  - "First Buddy"
+  - The Dogefather
+  - First Buddy
 status: "#evergreen"
 ---
 
@@ -37,7 +37,7 @@ The world’s wealthiest individual and the primary "Technical Architect" of the
 * **Anti-Democratic Rail:** Like Haldeman, Musk views representative democracy as "inefficient legacy code." His 2026 "chainsaw" rhetoric at CPAC mirrors his grandfather's belief that a scientific elite should manage national resources.
 
 ### 2. The Executive Piston (Vance/Trump)
-* **The Kingmaker:** Musk was a primary driver behind the selection of **[[JD Vance]]** as VP, coordinating with **[[Peter Thiel]]** to ensure the administration had a "Venture Capital BIOS".
+* **The Kingmaker:** Musk was a primary driver behind the selection of **[[10 Entities/11 People/11.1 Political/JD Vance]]** as VP, coordinating with **[[Peter Thiel]]** to ensure the administration had a "Venture Capital BIOS".
 * **The DOGE Piston:** Through the Department of Government Efficiency, Musk has targeted $150 billion in "waste" for FY2026, primarily by automating roles previously held by civil servants.
 
 ### 3. The Infrastructure Piston (SpaceX-xAI)

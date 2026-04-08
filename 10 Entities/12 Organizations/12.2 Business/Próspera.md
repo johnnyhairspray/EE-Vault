@@ -15,7 +15,7 @@ partners:
   - "[[Pronomos Capital]]"
   - "[[Infinita City]]"
 links:
-  - "[[The Network State]]"
+  - "[[Network State]]"
   - "[[Neocameralism]]"
   - "[[Transhumanism]]"
   - "[[Bitcoin]]"
@@ -25,7 +25,7 @@ status: "#evergreen"
 # Próspera
 
 ## 🔍 Summary
-A privately-managed "Startup City" and autonomous jurisdiction located on the island of Roatán, Honduras. Operating under the **ZEDE** (Zone for Employment and Economic Development) framework, Próspera is the most advanced physical implementation of **[[The Network State]]** and **[[Neocameralism]]**. It functions as a "Governance Platform" where residents and businesses choose their own regulatory and legal "BIOS" from a menu of international standards.
+A privately-managed "Startup City" and autonomous jurisdiction located on the island of Roatán, Honduras. Operating under the **ZEDE** (Zone for Employment and Economic Development) framework, Próspera is the most advanced physical implementation of **[[Network State]]** and **[[Neocameralism]]**. It functions as a "Governance Platform" where residents and businesses choose their own regulatory and legal "BIOS" from a menu of international standards.
 
 ---
 

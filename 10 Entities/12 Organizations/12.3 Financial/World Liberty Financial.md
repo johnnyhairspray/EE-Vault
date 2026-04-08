@@ -15,7 +15,7 @@ partners:
   - "[[Securitize]]"
   - "[[DarGlobal]]"
 links:
-  - "[[The Technocracy]]"
+  - "[[Technocracy Inc.]]"
   - "[[Peter Thiel]]"
 status: "#evergreen"
 ---

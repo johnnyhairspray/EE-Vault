@@ -1,12 +1,15 @@
 ---
 type: Consequence
 sub_type: Legal
-tags: [pre-trial-detention, material-support, domestic-terrorism]
+tags:
+  - pre-trial-detention
+  - material-support
+  - domestic-terrorism
 jurisdiction: Domestic
 links:
   - "[[NSPM-7]]"
   - "[[14321 - Ending Crime and Disorder on America's Streets]]"
-  - "[[Accountability Centers]]"
+  - "[[Accountability Centers 1]]"
   - "[[Sparta]]"
 status: "#evergreen"
 ---

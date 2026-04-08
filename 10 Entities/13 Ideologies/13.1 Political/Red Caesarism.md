@@ -19,6 +19,6 @@ The "Post-Democratic" theory that a strong, charismatic leader (a "Caesar") must
 ---
 
 ### 🧬 The "Convergence" Logic
-1. **The "Cathedral" Extraction:** Identifies the "Cathedral" (Media, Academia, Civil Service) as the enemy. **[[Schedule Policy-Career]]** is the tactical tool used to "burn the Cathedral" by firing the bureaucrats who maintain the old order.
+1. **The "Cathedral" Extraction:** Identifies the "Cathedral" (Media, Academia, Civil Service) as the enemy. **[[20 Infrastructure/24 Policies/24.3 Frameworks/Schedule F]]** is the tactical tool used to "burn the Cathedral" by firing the bureaucrats who maintain the old order.
 2. **The Unitary Executive:** Asserts that the "Caesar" is above the law if his actions are for the "salvation of the country." This is the legal "BIOS" for the aggressive use of **[[14171 - Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce]]** and internal military deployments.
-3. **The Technocray Alliance:** While Caesarism provides the *Power*, **[[The Technocray]]** provides the *Efficiency*. The Caesar breaks the system so the Technocrats can install the **[[Palantir Foundry]]** grid in its place.
+3. **The Technocray Alliance:** While Caesarism provides the *Power*, **[[The Technocray]]** provides the *Efficiency*. The Caesar breaks the system so the Technocrats can install the **[[Foundry]]** grid in its place.

@@ -13,7 +13,7 @@ partners:
   - "[[The Stargate Project]]"
 links:
   - "[[Transhumanism]]"
-  - "[[The Technocracy]]"
+  - "[[Technocracy Inc.]]"
   - "[[Joshua Haldeman]]"
 status: "#evergreen"
 ---

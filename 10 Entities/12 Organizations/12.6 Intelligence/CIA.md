@@ -9,8 +9,8 @@ key_figures:
   - "[[Peter Thiel]]"
   - "[[Larry Ellison]]"
 software:
-  - "[[Palantir Gotham]]"
-  - "[[Palantir Foundry]]"
+  - "[[Gotham]]"
+  - "[[Foundry]]"
 status: "#evergreen"
 ---
 
@@ -23,7 +23,7 @@ The "Invisible Architect" of the Extraction Engine. Through its venture capital 
 
 ### 🧬 The "Convergence" Logic
 1. **The In-Q-Tel Piston:** Functions as the "Vesting Room" for the Technate. It identifies dual-use technologies (AI, biometrics, IoT) in the private sector and funds their development to ensure they are "Foundry-ready" for state use.
-2. **Project Maven Integration:** As of March 2026, the CIA and NGA have fully transitioned **Project Maven** (AI targeting) into a "Program of Record." This locks in [[Palantir Gotham]] as the permanent "Combat HUD" for the agency's global and domestic operations.
+2. **Project Maven Integration:** As of March 2026, the CIA and NGA have fully transitioned **Project Maven** (AI targeting) into a "Program of Record." This locks in [[Gotham]] as the permanent "Combat HUD" for the agency's global and domestic operations.
 3. **The Unclassified Bridge:** In April 2026, the CIA initiated a new **Basic Ordering Agreement (BOA)** with [[Oracle]] to enable seamless data sharing between "Unclassified" consumer data and "Top Secret" intelligence domains.
 
 ---

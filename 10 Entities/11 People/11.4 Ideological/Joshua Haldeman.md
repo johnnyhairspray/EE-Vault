@@ -6,7 +6,7 @@ tags:
   - pilot
   - anti-democracy
 ideology:
-  - "[[The Technocracy]]"
+  - "[[Technocracy Inc.]]"
   - "[[Apartheid]]"
 family:
   - "[[Elon Musk]]"
@@ -20,7 +20,7 @@ status: "#evergreen"
 The maternal grandfather of [[Elon Musk]] and a Canadian-South African chiropractor, pilot, and political radical. Haldeman was a high-ranking leader in **Technocracy Inc.** during the 1930s and 40s, serving as the chairman of the movement's Canadian branch. He eventually emigrated to South Africa in 1950, citing a desire to escape the "socialist" drift of Canada and live under the apartheid system.
 
 ## 🧬 The "Legacy BIOS"
-1. **The Technate Piston:** Haldeman was a devotee of Howard Scott’s **[[The Technocracy]]** movement, which proposed replacing elected politicians with a "Technical Alliance" of engineers and scientists. This is the direct ancestor of Musk’s 2026 **[[DOGE]]** initiative, which views the federal government as "corrupted code" to be debugged by tech experts.
+1. **The Technate Piston:** Haldeman was a devotee of Howard Scott’s **[[Technocracy Inc.]]** movement, which proposed replacing elected politicians with a "Technical Alliance" of engineers and scientists. This is the direct ancestor of Musk’s 2026 **[[DOGE]]** initiative, which views the federal government as "corrupted code" to be debugged by tech experts.
 2. **The Anti-Democracy Rail:** Haldeman was arrested and his movement banned in Canada in 1940 for "subversive" anti-war and anti-democratic rhetoric. He believed that democracy was a "wasteful" system that put incompetent people in power—a view echoed in Musk's 2026 statements that "the bureaucracy is the enemy of the people".
 3. **The Frontier Mentality:** An avid aviator who flew a single-engine plane across Africa and Australia, Haldeman instilled the "Risk-Positive" and "Fortress Mentality" that defines Musk’s 2026 approach to **[[The Stargate Project]]** and Mars colonization.
 

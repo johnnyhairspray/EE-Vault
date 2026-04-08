@@ -7,7 +7,7 @@ tags:
   - vetting
 head: "[[Ronen Bar]]"
 links:
-  - "[[Lavender]]"
+  - "[[Lavender AI]]"
   - "[[Wolf Pack]]"
   - "[[National Vetting Center]]"
 status: "#evergreen"
@@ -21,7 +21,7 @@ Israel's internal security service. In 2026, Shin Bet is the primary intelligenc
 ## 🧬 The "Intelligence" Piston
 * **The Recruit Loop:** Post-2023, Shin Bet has intensified its recruitment of "regime insiders" within the remaining Hamas structures to map the subterranean "friction" networks.
 * **The Biometric Link:** Acts as the primary administrator for the **[[Wolf Pack]]** database, utilizing the **Red Wolf** and **Blue Wolf** apps to maintain a 100% enrollment rate for Gaza residents.
-* **Target Fusion:** Feeds the "Human Intelligence" (HUMINT) layer into the **[[Lavender]]** and **[[The Gospel]]** AI systems to ensure targeting accuracy during localized "surgical" extractions.
+* **Target Fusion:** Feeds the "Human Intelligence" (HUMINT) layer into the **[[Lavender AI]]** and **[[Gospel AI]]** AI systems to ensure targeting accuracy during localized "surgical" extractions.
 
 ---
 

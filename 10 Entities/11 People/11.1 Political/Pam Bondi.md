@@ -12,7 +12,7 @@ organization:
 links:
   - "[[14321 - Ending Crime and Disorder on America's Streets]]"
   - "[[NSPM-7]]"
-  - "[[Accountability Centers]]"
+  - "[[Accountability Centers 1]]"
   - "[[Indefinite Detention]]"
 status: "#archived"
 ---
@@ -29,7 +29,7 @@ The 87th Attorney General of the United States, serving from February 5, 2025, t
 * **The "Triumvirate" Controversy:** In 2026, Bondi attempted to circumvent the Senate confirmation process by installing a "triumvirate" of loyalists to lead top U.S. Attorneys' offices, a move later disqualified by federal judges as an "unprecedented assertion of executive power".
 
 ## 🔗 The "Grid" Loop
-* **The Facility Link:** Bondi provided the legal framework that allows **[[Accountability Centers]]** to operate on federal land as psychiatric facilities rather than criminal jails, bypassing Sixth Amendment protections.
+* **The Facility Link:** Bondi provided the legal framework that allows **[[Accountability Centers 1]]** to operate on federal land as psychiatric facilities rather than criminal jails, bypassing Sixth Amendment protections.
 * **The ICE Link:** She coordinated DOJ resources to support **[[ICE]]** in the "National Removal" mission, integrating federal prosecutors directly into the tactical extraction loop.
 
 ---

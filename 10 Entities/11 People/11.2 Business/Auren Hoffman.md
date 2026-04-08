@@ -1,7 +1,11 @@
 ---
 type: Person
 sub_type: Business
-tags: [serial-entrepreneur, identity-resolution, angel-investor, geospatial-data]
+tags:
+  - serial-entrepreneur
+  - identity-resolution
+  - angel-investor
+  - geospatial-data
 organization:
   - "[[SafeGraph]]"
   - "[[Flex Capital]]"

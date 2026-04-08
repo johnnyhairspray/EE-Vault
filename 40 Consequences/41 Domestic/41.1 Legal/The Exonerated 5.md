@@ -23,5 +23,5 @@ The 1989 wrongful conviction and 2002 exoneration of five Black and Latino teena
 ---
 
 ### 🔗 Active 2026 Connections
-* **Administrative:** Used as a rhetorical "Piston" to justify the dismantling of the "woke" DOJ and the implementation of **[[Schedule Policy-Career]]** to install loyalist prosecutors.
-* **Ideological:** Directly linked to **[[White Replacement Theory]]**, where the "victimization" of white women (the jogger) is used to fuel the demand for "Total Extraction" of non-white populations.
+* **Administrative:** Used as a rhetorical "Piston" to justify the dismantling of the "woke" DOJ and the implementation of **[[20 Infrastructure/24 Policies/24.3 Frameworks/Schedule F]]** to install loyalist prosecutors.
+* **Ideological:** Directly linked to **[[Great Replacement Theory]]**, where the "victimization" of white women (the jogger) is used to fuel the demand for "Total Extraction" of non-white populations.

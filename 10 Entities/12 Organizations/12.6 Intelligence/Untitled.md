@@ -1,13 +1,17 @@
 ---
 type: Entity
 sub_type: Organization
-tags: [venture-capital, national-security, startup-incubation, CIA]
+tags:
+  - venture-capital
+  - national-security
+  - startup-incubation
+  - CIA
 established: 1999
 links:
   - "[[Palantir Technologies]]"
   - "[[Project Maven]]"
   - "[[Unit 8200]]"
-  - "[[The Technocracy]]"
+  - "[[Technocracy Inc.]]"
 status: "#evergreen"
 ---
 
@@ -24,7 +28,7 @@ In-Q-Tel is a non-profit strategic investment firm that serves as the venture ca
 
 ### 2. The 2026 Sovereign AI Mission
 * **Sovereign Cloud:** In 2026, IQT’s primary focus is "Sovereign AI"—investing in startups that allow the government to host LLMs and mass-surveillance data on private, air-gapped infrastructure rather than commercial clouds.
-* **Space-Based IoT:** IQT is currently funding low-bandwidth satellite connectivity solutions that enable real-time tracking of assets (and people) in "austere environments," directly supporting the border-monitoring goals of the **[[One Big Beautiful Bill]]**.
+* **Space-Based IoT:** IQT is currently funding low-bandwidth satellite connectivity solutions that enable real-time tracking of assets (and people) in "austere environments," directly supporting the border-monitoring goals of the **[[One Big Beautiful Bill 1]]**.
 
 ### 3. Cross-Theater Intelligence (Unit 8200)
 * **Global Liaison:** IQT facilitates the "Tech-Transfer" between the U.S. and Israel, often co-investing in the same cyber-security and AI firms developed by veterans of **[[Unit 8200]]**.

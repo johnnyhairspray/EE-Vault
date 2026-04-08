@@ -8,14 +8,14 @@ tags:
   - tactical-deployment
 location: Minneapolis–Saint Paul, MN
 date: 2025-12-04 – 2026-02-28
-commander: 
+commander:
   - "[[Gregory Bovino]]"
   - "[[Todd Lyons]]"
 links:
   - "[[ICE]]"
-  - "[[One Big Beautiful Bill]]"
+  - "[[One Big Beautiful Bill 1]]"
   - "[[Mass Deportation]]"
-  - "[[Accountability Centers]]"
+  - "[[Accountability Centers 1]]"
 status: "#archived"
 ---
 
@@ -42,8 +42,8 @@ Announced on December 4, 2025, and expanded on January 6, 2026, **Operation Metr
 * **Civil Disruption:** Schools transitioned to remote learning as agents photographed license plates and parents at drop-off points; food insecurity affected an estimated 76,000 residents during the siege.
 
 ## 🔗 The "Technate" Loop
-* **Targeting Source:** Removals were driven by **[[ImmigrationOS]]** and address-matching kernels funded by the **[[One Big Beautiful Bill]]**.
-* **Processing Hub:** Detainees were funneled through regional warehouse hubs before being transferred to long-term **[[Accountability Centers]]** or put on "Removal Flights" which doubled in frequency during the operation.
+* **Targeting Source:** Removals were driven by **[[ImmigrationOS]]** and address-matching kernels funded by the **[[One Big Beautiful Bill 1]]**.
+* **Processing Hub:** Detainees were funneled through regional warehouse hubs before being transferred to long-term **[[Accountability Centers 1]]** or put on "Removal Flights" which doubled in frequency during the operation.
 
 ---
 

@@ -1,11 +1,14 @@
 ---
 type: Infrastructure
 sub_type: Policy
-tags: [civil-commitment, institutionalization, public-disorder]
+tags:
+  - civil-commitment
+  - institutionalization
+  - public-disorder
 issued_by: "[[Donald Trump]]"
 date: 2025-07-24
 links:
-  - "[[Accountability Centers]]"
+  - "[[Accountability Centers 1]]"
   - "[[Todd Blanche]]"
   - "[[NSPM-7]]"
 status: "#evergreen"
@@ -18,7 +21,7 @@ Issued in July 2025, EO 14321 establishes the legal mandate for **Mass Involunta
 
 ## 🧬 The "Policy" Piston
 * **Judicial Override:** Directs the Attorney General (**[[Todd Blanche]]**) to challenge precedents and consent decrees (e.g., *Martin v. Boise*) to remove legal barriers to clearing encampments and committing individuals without consent.
-* **Federal Land Utilization:** Directs the GSA to identify federal lands for the immediate construction of large-scale **[[Accountability Centers]]**, bypassing local zoning and environmental reviews.
+* **Federal Land Utilization:** Directs the GSA to identify federal lands for the immediate construction of large-scale **[[Accountability Centers 1]]**, bypassing local zoning and environmental reviews.
 * **Conditional Funding:** Conditions federal grants from HHS and HUD on the enforcement of anti-vagrancy laws, forcing states to comply with the federal removal mission or forfeit billions in aid.
 
 ---

@@ -7,7 +7,7 @@ tags:
   - crypto
   - sovereign-individual
 links:
-  - "[[The Network State]]"
+  - "[[Network State]]"
   - "[[Próspera]]"
   - "[[Elon Musk]]"
   - "[[Peter Thiel]]"

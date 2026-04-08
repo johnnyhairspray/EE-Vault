@@ -9,7 +9,7 @@ date: 2026-02-28 (Commencement)
 links:
   - "[[Todd Blanche]]"
   - "[[Project Maven]]"
-  - "[[Lavender]]"
+  - "[[Lavender AI]]"
   - "[[Operation Epic Fury (Digital)]]"
 status: "#active"
 ---

@@ -10,12 +10,12 @@ tags:
 founders:
   - "[[Peter Thiel]]"
   - "[[Auren Hoffman]]"
-  -   "[[Raffi Grinberg]]"
+  - "[[Raffi Grinberg]]"
 location:
-  - "Virginia (Permanent Campus)"
-  - "Various (Annual Retreats)"
+  - Virginia (Permanent Campus)
+  - Various (Annual Retreats)
 links:
-  - "[[The Technocracy]]"
+  - "[[Technocracy Inc.]]"
   - "[[Institutional Capture]]"
   - "[[Auren Hoffman]]"
   - "[[Peter Thiel]]"
@@ -37,7 +37,7 @@ A secretive, invite-only assembly often described as the **"Tech-era Bilderberg"
 
 ### 2. The 2026 Attendee Matrix
 The retreat functions as a cross-domain "Logic Bridge." Notable reported attendees and members in 2026 include:
-* **Political:** **[[JD Vance]]**, Tulsi Gabbard (DNI), Scott Bessent (Treasury), Sen. Ted Cruz, and Maryland Gov. Wes Moore.
+* **Political:** **[[10 Entities/11 People/11.1 Political/JD Vance]]**, Tulsi Gabbard (DNI), Scott Bessent (Treasury), Sen. Ted Cruz, and Maryland Gov. Wes Moore.
 * **Business/Finance:** **[[Elon Musk]]**, **[[Sam Altman]]**, Henry Kravis (KKR), and Chamath Palihapitiya.
 * **Ideological/Academic:** **[[Auren Hoffman]]**, Jonathan Haidt, and Garry Kasparov.
 

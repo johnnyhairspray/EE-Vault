@@ -13,7 +13,7 @@ status: "#evergreen"
 # World Economic Forum (WEF)
 
 ## 🔍 Summary
-The "Global BIOS" for the management of the 21st-century state. While often used as a rhetorical target for [[Red Caesarism]], the WEF’s "Great Reset" and "Stakeholder Capitalism" models provide the actual organizational blueprints for the [[The Technocracy]]'s "Resource Management".
+The "Global BIOS" for the management of the 21st-century state. While often used as a rhetorical target for [[Red Caesarism]], the WEF’s "Great Reset" and "Stakeholder Capitalism" models provide the actual organizational blueprints for the [[Technocracy Inc.]]'s "Resource Management".
 
 ---
 

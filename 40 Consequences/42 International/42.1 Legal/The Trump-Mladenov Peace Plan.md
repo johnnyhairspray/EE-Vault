@@ -1,13 +1,17 @@
 ---
 type: Consequence
 sub_type: Legal
-tags: [ceasefire, disarmament, stabilization, board-of-peace]
+tags:
+  - ceasefire
+  - disarmament
+  - stabilization
+  - board-of-peace
 date: 2025-11-17 (Endorsed by UNSC)
 links:
   - "[[Board of Peace]]"
   - "[[International Stabilization Force]]"
   - "[[Gaza Interim Government]]"
-  - "[[The Gospel]]"
+  - "[[Gospel AI]]"
 status: "#evergreen"
 ---
 

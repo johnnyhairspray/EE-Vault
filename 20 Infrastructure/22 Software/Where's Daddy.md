@@ -9,8 +9,8 @@ tags:
 developer: "[[Unit 8200]]"
 links:
   - "[[Palantir Technologies]]"
-  - "[[Lavender]]"
-  - "[[The Gospel]]"
+  - "[[Lavender AI]]"
+  - "[[Gospel AI]]"
   - "[[Wolf Pack]]"
 status: "#evergreen"
 ---
@@ -18,7 +18,7 @@ status: "#evergreen"
 # Where's Daddy?
 
 ## 🔍 Summary
-A specialized AI geolocation and tracking system developed by **[[Unit 8200]]** (IDF Signals Intelligence). While systems like **[[Lavender]]** identify *who* to target, "Where's Daddy?" is designed to determine *where* they are in real-time, specifically flagging when a target enters a private residence or family home to facilitate a strike.
+A specialized AI geolocation and tracking system developed by **[[Unit 8200]]** (IDF Signals Intelligence). While systems like **[[Lavender AI]]** identify *who* to target, "Where's Daddy?" is designed to determine *where* they are in real-time, specifically flagging when a target enters a private residence or family home to facilitate a strike.
 
 ## 🧬 The "Tracking" Piston
 * **Home-Entry Triggers:** The system uses cell tower triangulation, WiFi signals, and mass surveillance data to notify operators the moment a "profiled" individual arrives at a designated geolocation.

@@ -11,7 +11,7 @@ key_figures:
   - "[[Donald Trump]]"
   - "[[Elon Musk]]"
 software:
-  - "[[Palantir Foundry]]"
+  - "[[Foundry]]"
 status: "#evergreen"
 ---
 

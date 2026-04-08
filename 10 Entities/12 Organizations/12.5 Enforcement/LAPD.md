@@ -5,7 +5,7 @@ tags:
   - surveillance-lab
   - data-driven-policing
 software:
-  - "[[Palantir Gotham]]"
+  - "[[Gotham]]"
 operations:
   - "[[Operation LASER]]"
 status: "#evergreen"
@@ -19,7 +19,7 @@ The primary testing ground for "Predictive Policing" in the United States. Throu
 ---
 
 ### 🧬 The "Convergence" Logic
-1. **The COMPSTAT Piston:** The Computer Statistics Division (COMPSTAT) serves as the department's "Brain," using [[Palantir Gotham]] to weekly audit crime analysis and generate predictive reports.
+1. **The COMPSTAT Piston:** The Computer Statistics Division (COMPSTAT) serves as the department's "Brain," using [[Gotham]] to weekly audit crime analysis and generate predictive reports.
 2. **Social Media Extraction:** Since at least 2021, the LAPD has collected millions of tweets and social media handles from users nationwide, integrating this "digital sentiment" into their surveillance database.
 3. **The 2028 Olympic Pivot:** As of 2026, the LAPD is actively seeking advanced AI platforms (e.g., Cobwebs) to further automate its "Threat Detection" in preparation for the 2028 Olympic Games, effectively turning the city into a permanent [[Technate]]-style security zone.
 

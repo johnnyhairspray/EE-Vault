@@ -23,4 +23,4 @@ Senior aerospace engineer and Technical Fellow at **Aerojet Rocketdyne**. Reza w
 
 ## 🔗 The 2026 Connection
 * **Institutional Link:** Reza worked directly within the research structures overseen by **[[William Neil McCasland]]** at the Air Force Research Laboratory (AFRL).
-* **Strategic Timing:** Her removal occurred exactly as the **[[One Big Beautiful Bill]]** began accelerating the mass production of the **[[Dark Eagle]]** system for the Iran escalation.
+* **Strategic Timing:** Her removal occurred exactly as the **[[One Big Beautiful Bill 1]]** began accelerating the mass production of the **[[Dark Eagle]]** system for the Iran escalation.

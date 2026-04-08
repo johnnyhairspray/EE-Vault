@@ -6,7 +6,7 @@ tags:
   - sentiment-control
 links:
   - "[[Facebook (Meta)]]"
-  - "[[The Technocracy]]"
+  - "[[Technocracy Inc.]]"
 status: "#evergreen"
 ---
 

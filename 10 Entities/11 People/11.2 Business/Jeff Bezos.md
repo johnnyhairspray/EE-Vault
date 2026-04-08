@@ -11,7 +11,7 @@ organization:
   - "[[Blue Origin]]"
   - "[[Project Prometheus]]"
 links:
-  - "[[The Technocracy]]"
+  - "[[Technocracy Inc.]]"
   - "[[Elon Musk]]"
   - "[[Blue Moon]]"
 status: "#evergreen"

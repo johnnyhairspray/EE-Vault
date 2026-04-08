@@ -9,7 +9,7 @@ architects:
   - "[[Nick Land]]"
   - "[[Elon Musk]]"
 links:
-  - "[[The Technocracy]]"
+  - "[[Technocracy Inc.]]"
   - "[[Accelerationism]]"
   - "[[Neuralink]]"
   - "[[Joshua Haldeman]]"

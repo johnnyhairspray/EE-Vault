@@ -25,7 +25,7 @@ Executive Vice President of the Trump Organization and Co-Founder of **[[World L
 ### 🧬 The "Convergence" Logic
 1. **The RWA Piston:** On February 18, 2026, Eric unveiled the first major "Extraction" of real estate value into the grid: the tokenization of the **Trump International Hotel & Resort, Maldives**. This allows global investors to buy "Loan Revenue Interests" in physical assets via the WLF platform.
 2. **The "TradFi" Handshake:** Unlike the more "DeFi-native" Barron or Don Jr., Eric is the face of the partnership with **[[Securitize]]**. He frames this as "opening up finance," but technically it creates a liquid secondary market for Trump-branded debt that was previously illiquid.
-3. **The Continental Manager:** While his father manages the **[[Red Caesarism]]** political layer, Eric maintains the "Physical BIOS" of the family business, ensuring that the **[[The Technocracy]]**'s digital ledgers are physically backed by "Bricks and Mortar" assets.
+3. **The Continental Manager:** While his father manages the **[[Red Caesarism]]** political layer, Eric maintains the "Physical BIOS" of the family business, ensuring that the **[[Technocracy Inc.]]**'s digital ledgers are physically backed by "Bricks and Mortar" assets.
 
 ---
 

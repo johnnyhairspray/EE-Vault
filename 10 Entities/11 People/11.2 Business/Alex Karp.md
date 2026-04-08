@@ -9,14 +9,14 @@ organization:
   - "[[Palantir Technologies]]"
   - "[[Bilderberg Group]]"
   - "[[World Economic Forum]]"
-  - "Palantir Technologies GmbH (Frankfurt)"
-  - "Palantir Technologies UK Ltd."
+  - Palantir Technologies GmbH (Frankfurt)
+  - Palantir Technologies UK Ltd.
 links:
   - "[[Peter Thiel]]"
-  - "[[Palantir Gotham]]"
-  - "[[Palantir Foundry]]"
-  - "[[White Replacement Theory]]"
-  - "[[The Technocracy]]"
+  - "[[Gotham]]"
+  - "[[Foundry]]"
+  - "[[Great Replacement Theory]]"
+  - "[[Technocracy Inc.]]"
 status: "#evergreen"
 ---
 
@@ -30,7 +30,7 @@ Co-founder and CEO of [[Palantir Technologies]]. Holding a Ph.D. in neoclassical
 2. **The Caedmon Rail:** Before Palantir, Karp founded the London-based **Caedmon Group**, a discreet money management firm. He utilized an inheritance from his grandfather to invest in startups and stocks, honing the "Extraction" of capital from elite European networks.
 3. **The European Command:** Karp maintains deep operational ties to Europe as the **Co-Managing Director** of **Palantir Technologies GmbH** in Frankfurt and previously served as a **Board Member** for **Palantir Technologies UK Ltd.** (resigned Dec 2021).
 4. **The Nationalization Ultimatum:** In March 2026, Karp warned Silicon Valley that firms refusing to cooperate with government surveillance or military requests should face "Nationalization". 
-5. **The Post-Immigration Piston:** At the 2026 Davos summit, Karp argued that "Peak AI" will make mass immigration "obsolete" by automating labor, a narrative that fuels [[White Replacement Theory]] justifications for border closure.
+5. **The Post-Immigration Piston:** At the 2026 Davos summit, Karp argued that "Peak AI" will make mass immigration "obsolete" by automating labor, a narrative that fuels [[Great Replacement Theory]] justifications for border closure.
 
 ---
 

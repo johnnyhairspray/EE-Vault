@@ -8,7 +8,7 @@ tags:
 organization:
   - "[[Meta]]"
 links:
-  - "[[The Technocracy]]"
+  - "[[Technocracy Inc.]]"
   - "[[Llama]]"
   - "[[Donald Trump]]"
 status: "#evergreen"

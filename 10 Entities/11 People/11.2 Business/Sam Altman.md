@@ -6,7 +6,7 @@ tags:
   - AGI-lead
 ideology:
   - "[[Accelerationism]]"
-  - "[[The Technocracy]]"
+  - "[[Technocracy Inc.]]"
 organization:
   - "[[OpenAI]]"
 status: "#evergreen"

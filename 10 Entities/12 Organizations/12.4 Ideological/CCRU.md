@@ -10,7 +10,7 @@ architects:
   - "[[Sadie Plant]]"
   - "[[Mark Fisher]]"
 links:
-  - "[[The Technocracy]]"
+  - "[[Technocracy Inc.]]"
   - "[[Accelerationism]]"
   - "[[Neocameralism]]"
 status: "#evergreen"
@@ -25,14 +25,14 @@ Founded in 1995 at Warwick University, the CCRU was a "rogue unit" that blurred 
 
 ### 🧬 The "Extraction" Mechanism
 1. **Hyperstition:** The CCRU’s core tool. It defines "fictions that make themselves real." By spreading "hype" about a future state (like AGI or a $500B supercomputer), they trigger a self-fulfilling prophecy where reality shifts to accommodate the fiction. 
-2. **The Lemurian Time War:** A "theory-fiction" involving 18th-century pirates, secret numbo-jumbo, and entities from the future. It serves as the metaphorical BIOS for **[[The Technocracy]]**, suggesting that "The Future" is currently reaching back through time to organize its own birth via our technology.
-3. **The Numogram:** A complex, occult decimal system (The "Labyrinth of Barker") used to map the "Digital Underworld." It is the predecessor to the **[[Palantir Foundry]]** "Ontology"—the belief that everything in the world can be reduced to a numerical object and manipulated.
+2. **The Lemurian Time War:** A "theory-fiction" involving 18th-century pirates, secret numbo-jumbo, and entities from the future. It serves as the metaphorical BIOS for **[[Technocracy Inc.]]**, suggesting that "The Future" is currently reaching back through time to organize its own birth via our technology.
+3. **The Numogram:** A complex, occult decimal system (The "Labyrinth of Barker") used to map the "Digital Underworld." It is the predecessor to the **[[Foundry]]** "Ontology"—the belief that everything in the world can be reduced to a numerical object and manipulated.
 
 ---
 
 ### 🔗 The 2026 "Convergence"
 * **The e/acc Piston:** The modern **[[Accelerationism]]** (e/acc) movement led by **[[Marc Andreessen]]** and **[[Sam Altman]]** is essentially a "sanitized" version of CCRU's 90s philosophy—removing the occult masks but keeping the "Gas Pedal" logic.
-* **The Dark Enlightenment:** After the CCRU dissolved, **[[Nick Land]]** moved to Shanghai and developed the **[[Neocameralism]]** and "Dark Enlightenment" theories that now serve as the political BIOS for **[[Donald Trump]]** and **[[JD Vance]]**.
+* **The Dark Enlightenment:** After the CCRU dissolved, **[[Nick Land]]** moved to Shanghai and developed the **[[Neocameralism]]** and "Dark Enlightenment" theories that now serve as the political BIOS for **[[Donald Trump]]** and **[[10 Entities/11 People/11.1 Political/JD Vance]]**.
 
 ---
 

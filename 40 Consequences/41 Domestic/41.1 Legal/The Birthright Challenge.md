@@ -1,13 +1,17 @@
 ---
 type: Consequence
 sub_type: Legal
-tags: [birthright-citizenship, 14th-amendment, SCOTUS, class-action]
+tags:
+  - birthright-citizenship
+  - 14th-amendment
+  - SCOTUS
+  - class-action
 jurisdiction: Domestic
 links:
   - "[[Todd Blanche]]"
   - "[[14321 - Ending Crime and Disorder on America's Streets]]"
   - "[[ICE]]"
-  - "[[One Big Beautiful Bill]]"
+  - "[[One Big Beautiful Bill 1]]"
 status: "#active"
 ---
 
@@ -32,8 +36,8 @@ As of April 2026, the U.S. is facing its most significant constitutional challen
 * **Expedited Removal Expansion:** The administration is currently litigating to exponentially expand "fast-track" deportations that bypass immigration court hearings entirely.
 
 ## 🔗 The "Grid" Loop
-* **The Policy Link:** This legal crisis is the direct result of the **[[One Big Beautiful Bill]]** and the 38 immigration-related EOs issued since January 20, 2025.
-* **The Facility Link:** The outcome of the 8th Circuit "No-Bond" ruling provides the legal logic for the high-occupancy rates at **[[Accountability Centers]]** and regional warehouse hubs.
+* **The Policy Link:** This legal crisis is the direct result of the **[[One Big Beautiful Bill 1]]** and the 38 immigration-related EOs issued since January 20, 2025.
+* **The Facility Link:** The outcome of the 8th Circuit "No-Bond" ruling provides the legal logic for the high-occupancy rates at **[[Accountability Centers 1]]** and regional warehouse hubs.
 
 ---
 

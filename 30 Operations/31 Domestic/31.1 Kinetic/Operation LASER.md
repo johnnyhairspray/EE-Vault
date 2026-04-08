@@ -6,7 +6,7 @@ tags:
   - pre-crime
   - surveillance
 software:
-  - "[[Palantir Gotham]]"
+  - "[[Gotham]]"
 organization:
   - "[[LAPD]]"
 status: "#evergreen"
@@ -20,7 +20,7 @@ Launched in 2011 and officially "shuttered" in 2019, LASER was the first large-s
 ---
 
 ### 🧬 The "Extraction" Mechanism
-1. **The Chronic Offender Score:** Analysts used [[Palantir Gotham]] to assign points to individuals based on:
+1. **The Chronic Offender Score:** Analysts used [[Gotham]] to assign points to individuals based on:
     * Number of police contacts in the last 2 years.
     * Parole/Probation status.
     * Gang affiliation.
@@ -32,7 +32,7 @@ Launched in 2011 and officially "shuttered" in 2019, LASER was the first large-s
 
 ### 🔗 The 2026 Legacy
 * **The Refined Piston:** Although LASER ended, its "Vetting Formula" was the blueprint for the 2025-2026 [[NSPM-7]] and [[National Vetting Center]]. The logic moved from "Street Policing" to "National Security".
-* **Software Evolution:** The "Analogous Surgery" vision of LASER is now being fulfilled by [[Palantir Foundry]]’s "Digital Twin" technology, which allows for more subtle, algorithmic extraction than the 2011 manual bulletins.
+* **Software Evolution:** The "Analogous Surgery" vision of LASER is now being fulfilled by [[Foundry]]’s "Digital Twin" technology, which allows for more subtle, algorithmic extraction than the 2011 manual bulletins.
 
 ---
 

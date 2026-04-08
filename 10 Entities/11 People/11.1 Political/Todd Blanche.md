@@ -1,14 +1,18 @@
 ---
 type: Person
 sub_type: Political
-tags: [DOJ, acting-attorney-general, legal-warfare, institutionalization]
-organization: 
+tags:
+  - DOJ
+  - acting-attorney-general
+  - legal-warfare
+  - institutionalization
+organization:
   - "[[Department of Justice]]"
 links:
   - "[[Pam Bondi]]"
   - "[[14321 - Ending Crime and Disorder on America's Streets]]"
   - "[[NSPM-7]]"
-  - "[[Accountability Centers]]"
+  - "[[Accountability Centers 1]]"
 status: "#evergreen"
 ---
 

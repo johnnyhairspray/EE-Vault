@@ -16,7 +16,7 @@ status: "#evergreen"
 # Executive Order 14171
 
 ## 🔍 Summary
-**Full Title:** *"Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce."* This order reinstated the original **[[Schedule F]]** (EO 13957) and directed the OPM to finalize the **[[Schedule Policy-Career]]** classification, which became operational in **March 2026**.
+**Full Title:** *"Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce."* This order reinstated the original **[[20 Infrastructure/24 Policies/24.3 Frameworks/Schedule F]]** (EO 13957) and directed the OPM to finalize the **[[20 Infrastructure/24 Policies/24.3 Frameworks/Schedule F]]** classification, which became operational in **March 2026**.
 
 ---
 
