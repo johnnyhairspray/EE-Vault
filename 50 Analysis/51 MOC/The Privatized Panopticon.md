@@ -24,6 +24,7 @@ Nodes:
   - "[[Fusion Centers]]"
   - "[[DOGE]]"
   - "[[The Digital Shadow]]"
+  - "[[Kash Patel]]"
 tags:
   - Fourth-Amendment
   - data-broker
@@ -172,6 +173,18 @@ The system was designed for criminal investigation. It was deployed as an immigr
 
 The result: the Fourth Amendment protection recognized by the Supreme Court in *Carpenter* is operationally hollow. The government cannot compel your carrier to give it your location history without a warrant. It can purchase equivalent or superior data from a broker without a warrant. The constitutional right exists on paper. The surveillance happens anyway.
 
+## March 2026: Public Confirmation
+
+**March 18, 2026** — [[Kash Patel]], FBI Director, testified under oath before the Senate Intelligence Committee's annual Worldwide Threats hearing. When pressed by Sen. Ron Wyden whether the FBI was purchasing Americans' location data, Patel confirmed it — reversing the stated position of predecessor Christopher Wray, who told the same committee in 2023 the practice had stopped.
+
+Patel: *"The FBI uses all tools to do our mission. We do purchase commercially available information that's consistent with the Constitution and the laws under the Electronic Communications Privacy Act, and it has led to some valuable intelligence for us to be utilized with our private and partner sectors."*
+
+DIA Director James Adams III confirmed at the same hearing that the Defense Intelligence Agency also purchases commercially available location data.
+
+Wyden's response named the AI angle explicitly: *"It's particularly dangerous given the use of artificial intelligence to comb through massive amounts of private information."* — signaling the pipeline's next layer: bulk purchase + AI analysis = warrantless mass surveillance at scale.
+
+The admission is significant not because it revealed new architecture — the vault documented this infrastructure years prior — but because it is the first **on-the-record, under-oath confirmation** from an FBI Director that the practice has resumed and will continue. The surveillance state no longer needs to hide what it's doing. It just calls it "commercially available information."
+
 ## What This Documents
 
 The U.S. government did not build a surveillance state through a secret program. It **contracted** one — through commercial data broker relationships that are publicly documented, through contracts available in federal procurement records, through Inspector General investigations that found the practice illegal, through FTC actions that confirmed the underlying data collection was non-consensual.
@@ -200,3 +213,4 @@ The surveillance is not the consequence of a failure of law. It is the consequen
 - Fourth Amendment Is Not For Sale Act passed House 2024: [ACLU](https://www.aclu.org/news/privacy-technology/dhs-is-circumventing-constitution-by-buying-data-it-would-normally-need-a-warrant-to-access)
 - ICE official 2021 email Venntel "not intended for immigration enforcement": [Rolling Stone](https://www.rollingstone.com/politics/politics-news/ice-dhs-privacy-location-data-aclu-1384797/)
 - CBP domestic flight records purchase from airline-owned broker: [EPIC](https://epic.org/documents/closing-the-data-broker-loophole-government-evasion-of-the-fourth-amendment/)
+- Kash Patel Senate testimony March 18, 2026: [TechCrunch](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/) | [The Guardian](https://www.theguardian.com/us-news/2026/mar/18/kash-patel-fbi-location-data) | [The Register](https://www.theregister.com/2026/03/19/fbi_patel_location_data/) | [Gizmodo](https://gizmodo.com/kash-patel-admits-the-fbi-is-buying-private-data-on-americans-2000735317)
