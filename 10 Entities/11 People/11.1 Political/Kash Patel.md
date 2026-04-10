@@ -18,11 +18,17 @@ Funded-by:
 Connected-to:
   - "[[Donald Trump]]"
   - "[[Tulsi Gabbard]]"
-  - "[[Venntell]]"
+  - "[[Venntel]]"
   - "[[The Privatized Panopticon]]"
 Killed-by:
 Links:
-Tags: [FBI, surveillance, location-data, fourth-amendment, data-broker, domestic-surveillance]
+Tags:
+  - FBI
+  - surveillance
+  - location-data
+  - fourth-amendment
+  - data-broker
+  - domestic-surveillance
 Aliases:
   - Kashyap Patel
 ---
@@ -46,11 +52,11 @@ DIA Director James Adams III confirmed at the same hearing that the Defense Inte
 
 ## The Pipeline
 
-Commercial apps → ad networks → data brokers (incl. [[Venntell]]) → FBI/DHS/DIA → AI analysis
+Commercial apps → ad networks → data brokers (incl. [[Venntel]]) → FBI/DHS/DIA → AI analysis
 
 No warrant required. The 2018 *Carpenter v. United States* ruling requires a warrant for cell carrier location data — but purchasing the same data from a broker legally circumvents it. Tom Cotton (R-AR) defended the practice by analogy to trash on a public curb.
 
-Known use case: FBI and DHS purchased location data from [[Venntell]] to identify and track undocumented immigrants.
+Known use case: FBI and DHS purchased location data from [[Venntel]] to identify and track undocumented immigrants.
 
 ## Citations
 

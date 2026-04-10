@@ -18,22 +18,22 @@ Aliases:
 ---
 # Venntell
 
-Data broker. Sells commercially available location data derived from internet advertising and consumer apps. Confirmed client: FBI and Department of Homeland Security, who purchased Venntell location data to identify and track undocumented immigrants.
+Data broker. Sells commercially available location data derived from internet advertising and consumer apps. Confirmed client: FBI and Department of Homeland Security, who purchased Venntel location data to identify and track undocumented immigrants.
 
 ---
 
 ## Role in the Surveillance Pipeline
 
-Venntell sits in the middle layer of the privatized panopticon:
+Venntel sits in the middle layer of the privatized panopticon:
 
-**Consumer apps → ad networks → Venntell (aggregation/sale) → FBI / DHS / DIA**
+**Consumer apps → ad networks → Venntel (aggregation/sale) → FBI / DHS / DIA**
 
 The commercial nature of the data is the legal loophole. *Carpenter v. United States* (2018) requires a warrant for carrier location data — but data purchased from a broker is treated as voluntarily surrendered commercial information, bypassing Fourth Amendment protections entirely.
 
 ## Government Clients
 
 - **FBI** — confirmed via Kash Patel Senate testimony, March 18, 2026
-- **DHS** — purchased Venntell data specifically for immigration enforcement (locating undocumented immigrants)
+- **DHS** — purchased Venntel data specifically for immigration enforcement (locating undocumented immigrants)
 - **DIA** — Director James Adams III confirmed DIA also purchases commercially available location data at same hearing
 
 ## Connections
@@ -45,5 +45,5 @@ The commercial nature of the data is the legal loophole. *Carpenter v. United St
 
 ## Citations
 
-- FBI/DHS purchasing Venntell data for immigration enforcement: [Washington Times, March 18, 2026](https://www.washingtontimes.com/news/2026/mar/18/kash-patel-says-fbi-buying-americans-internet-location-data/)
+- FBI/DHS purchasing Venntel data for immigration enforcement: [Washington Times, March 18, 2026](https://www.washingtontimes.com/news/2026/mar/18/kash-patel-says-fbi-buying-americans-internet-location-data/)
 - Patel Senate testimony confirming FBI purchases commercially available location data: [TechCrunch](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)
