@@ -37,6 +37,9 @@ Tags:
   - foreign-influence
   - extraction
   - verified
+  - RWA
+  - petrodollar
+  - speculative-thread
 Aliases:
   - "Abu Dhabi Convergence"
   - "The Spy Sheikh MOC"
@@ -177,6 +180,61 @@ This is either the most expensive intelligence failure in history or the most su
 
 ---
 
+## The Hormuz Crypto Toll: Currency War in Real Time (April 2026)
+
+**Status: Established/Developing**
+
+The Iran war has fractured the petrodollar system in ways that directly implicate USD1's future architecture.
+
+Iran's IRGC charged ships passing through the Strait of Hormuz up to $2 million per transit, accepting payment in Chinese yuan, Bitcoin, and potentially USDT — specifically to evade dollar-denominated sanctions. Iran conditioned passage for some nations on yuan-denominated oil settlement, using military control of a physical chokepoint to force a currency shift. Saudi Arabia quietly ended its exclusive commitment to dollar oil pricing in June 2024 and has built yuan settlement infrastructure via a $7B currency swap with China.
+
+Meanwhile, Trump's "empty tankers" headed to US ports are loading dollar-denominated American crude — positioning US oil as the safe alternative to Gulf crude now requiring crypto or yuan tolls to Iran. US crude settled at $96.57/barrel at a premium to Brent precisely because Hormuz is choked.
+
+Abu Dhabi wins this bifurcation both ways: USD1 holdings appreciate as dollar-denominated US oil surges, while Tahnoun's Chinese entanglements (G42/Huawei) and Abu Dhabi's BRICS-adjacent positioning make yuan settlement infrastructure equally accessible. The Habshan-Fujairah bypass pipeline — which circumvents Hormuz entirely — becomes critical infrastructure regardless of which currency system prevails.
+
+---
+
+## SPECULATIVE THREAD: The RWA Pivot Hypothesis
+
+**⚠️ Status: Extrapolated Hypothesis. Confidence: Speculative. Do not cite as established fact. Label clearly if used in other contexts.**
+
+**The premise:** If petrodollar hegemony continues to erode — dollar displaced in Gulf energy markets by yuan and crypto settlement — USD1's current backing (US treasuries and cash equivalents) loses relative credibility. The logical response, given the assets already in play, is to pivot USD1's reserve backing from sovereign debt to Real World Assets (RWA).
+
+**The infrastructure already exists:**
+
+- **WLF/Securitize/DarGlobal partnership (February 2026):** Tokenized revenue interests in the Trump International Hotel & Resort Maldives — proof-of-concept RWA instrument on the USD1 architecture. This wasn't a vanity project. It established the legal and technical template for backing a stablecoin with physical real estate.
+- **BlackRock BUIDL bridge:** USD1 assets compatible with BlackRock's BUIDL fund, creating liquidity rails between tokenized RWA and institutional-grade US Treasuries — the transition pathway is already built
+- **Board of Peace reconstruction contracts:** Gaza physical infrastructure — ports, pipelines, buildings — denominated and settled in USD1. Physical assets generating USD1 utility organically
+- **Tahnoun's RWA portfolio:** Zambia copper mine (IRH), UAE infrastructure (ADQ), African resource plays — $1.3T sovereign wealth basket spanning commodities, real estate, and critical minerals
+- **Kushner's Affinity Fund:** $2B Saudi, $1B UAE — sovereign capital already flowing into dollar-adjacent vehicles controlled by the same network
+- **WLF national trust bank charter:** Already in process as of April 2026 — would formalize USD1 operations under federal supervision, enabling RWA collateral structures
+
+**The pivot logic:**
+
+A USD1 backed by RWA rather than US government promises would be:
+1. Competitive against yuan — not pegged to any sovereign
+2. Competitive against the dollar — backed by things that exist regardless of US fiscal trajectory
+3. Insulated from petrodollar collapse — energy and physical infrastructure IS the backing
+4. Self-reinforcing via Board of Peace — every Gaza reconstruction project tokenized as USD1-backed RWA deepens the reserve base
+
+**The endpoint:** USD1 becomes a parallel reserve currency — not backed by American sovereign promises, but by a diversified RWA basket controlled by Abu Dhabi sovereign wealth, administered through a Board of Peace that sits above democratic accountability, with the US president's family as minority co-founders and the US Special Envoy to the Middle East as an executive board member.
+
+This is the Network State financial architecture made operational. Not Balaji Srinivasan's theory — Abu Dhabi's practice.
+
+**What would confirm this hypothesis:**
+- Additional RWA tokenization partnerships via Securitize beyond the Maldives
+- Board of Peace infrastructure contracts explicitly denominated in USD1
+- USD1 reserve composition disclosure showing commodity or real estate backing alongside treasuries
+- Tahnoun portfolio assets appearing in WLF collateral documentation
+- WLF trust bank charter approval enabling non-treasury reserve instruments
+
+**What would falsify it:**
+- WLF maintaining exclusively treasury/cash backing with no RWA diversification
+- Board of Peace adopting a different payment instrument
+- Regulatory action preventing RWA-backed stablecoin structure under the trust bank charter
+
+---
+
 ## Connection to Other MOCs
 
 **[[The Sovcorp Overlay]]**: Tahnoun's White House meeting sought "plans to transform Gaza into an Emirati-controlled economic zone." The Board of Peace IS that zone. USD1 IS the payment infrastructure. The Sovcorp is not hypothetical — it has an Abu Dhabi sovereign wealth fund as its operating capital.
@@ -204,7 +262,7 @@ The extraction engine doesn't always run from the top down. Sometimes a foreign 
 - Tahnoun biography, G42/Huawei concerns, $1.3T portfolio, controversies (Project Raven, Qatargate, Sudan gold): [Wikipedia — Tahnoun bin Zayed Al Nahyan](https://en.wikipedia.org/wiki/Tahnoun_bin_Zayed_Al_Nahyan_(national_security_advisor))
 - 49% WLF stake $500M, four days pre-inauguration, Aryam Investment 1, Edelman/Xiao on board, $187M to Trump entities: [WSJ via Bloomberg](https://www.bloomberg.com/news/articles/2026-02-01/abu-dhabi-royal-bought-stake-in-trump-s-crypto-venture-wsj-says) | [Fortune](https://fortune.com/2026/02/02/world-liberty-financial-spy-sheikh-500-million-trump-family-conflicts-of-interest/) | [The Block](https://www.theblock.co/post/387931/uae-sheikh-secretly-acquired-49-of-trumps-world-liberty-financial-days-before-inauguration-wsj)
 - Trump "I know nothing about it": [Incrypted](https://incrypted.com/en/donald-trump-commented-on-the-purchase-of-a-stake-in-wlfi-by-a-sheikh-from-the-uae/)
-- USD1 Binance $2B deal, $5B market cap, $80M/year reserve returns: [Wikipedia — World Liberty Financial](https://en.wikipedia.org/wiki/World_Liberty_Financial)
+- USD1 Binance $2B deal, $5B market cap, $80M/year reserve returns, Maldives RWA tokenization, trust bank charter: [Wikipedia — World Liberty Financial](https://en.wikipedia.org/wiki/World_Liberty_Financial)
 - Binance pardon, congressional investigation, records demand: [CoinDesk](https://www.coindesk.com/policy/2026/02/05/house-probe-targets-wlfi-after-report-of-usd500-million-uae-stake)
 - NSC officials fired, Sacks takes over chip negotiations, 500k chips/35k GB300 approved: [Wikipedia — Tahnoun](https://en.wikipedia.org/wiki/Tahnoun_bin_Zayed_Al_Nahyan_(national_security_advisor)) | [MEXC News](https://www.mexc.com/news/611469)
 - White House dinner March 18 2025, leaked closed-door agenda (Sudan ICJ shield, Syria strikes, Gaza zone, chips): [Wikipedia — Tahnoun](https://en.wikipedia.org/wiki/Tahnoun_bin_Zayed_Al_Nahyan_(national_security_advisor))
@@ -213,5 +271,8 @@ The extraction engine doesn't always run from the top down. Sometimes a foreign 
 - UAE escalation-leaning posture, Gargash "triumphed in a war we sought to avoid," "greater leverage": [Al Jazeera ceasefire reaction](https://www.aljazeera.com/news/2026/4/8/gulf-arab-nations-react-to-iran-us-ceasefire-announcement)
 - UAE most escalation-leaning Gulf state, highest volume of Iranian attacks: [Foreign Policy](https://foreignpolicy.com/2026/04/07/iran-united-states-gulf-uae-qatar-bahrain-saudi-oman-war/)
 - Habshan-Fujairah pipeline acceleration post-Hormuz closure: [Eurasia Review — Fault Lines](https://www.eurasiareview.com/23032026-the-fault-lines-of-a-new-middle-east-the-2025-2026-us-israel-iran-war-and-the-reordering-of-regional-geopolitics-analysis/)
+- Hormuz crypto tolls (yuan, Bitcoin, USDT), $2M per transit, Iran de-dollarization play: [Fortune — Iran Hormuz crypto tolls](https://fortune.com/2026/04/10/iran-strait-of-hormuz-crypto-tolls-stablecoins-bitcoin-oil-tankers/) | [Al Jazeera — dollar hegemony](https://www.aljazeera.com/economy/2026/4/8/in-strait-of-hormuz-iran-and-china-take-aim-at-us-dollar-hegemony) | [Atlantic Council — Tehran toll booth](https://www.atlanticcouncil.org/dispatches/inside-tehrans-toll-booth/)
+- Saudi Arabia ended exclusive dollar pricing June 2024, yuan swap, mBridge: [House of Saud — petrodollar](https://houseofsaud.com/iran-hormuz-blockade-petrodollar-yuan-de-dollarization/)
+- Trump "empty tankers," US crude $96.57 premium to Brent: [Reuters](https://au.investing.com/news/world-news/trump-says-empty-oil-tankers-heading-to-us-to-load-up-with-oil-gas-4357645)
 - Emoluments clause concerns, "professionalized corruption": [ABC News](https://abcnews.com/Politics/white-house-faces-questions-uae-royals-investment-trump/story?id=129774262)
 - Palantir Aither/Dubai Holding joint venture: [[Palantir Technologies]] vault note
