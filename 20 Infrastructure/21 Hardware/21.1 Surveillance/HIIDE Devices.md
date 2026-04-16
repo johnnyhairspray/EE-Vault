@@ -1,34 +1,66 @@
 ---
-type: Infrastructure
-sub_type: Hardware
-tags: [biometrics, surveillance, tactical, vetting, identification]
-manufacturer: "[[L-1 Identity Solutions]]"
-links:
-  - "[[National Vetting Center]]"
-  - "[[Stephen Miller]]"
+Category: Entity
+Sub-category: Infrastructure
+Type: Hardware
+Sub-type: Biometric Collection Device
+Status: Active
+Confidence: Verified
+Manufacturer: L-1 Identity Solutions (now part of IDEMIA)
+Connected-to:
   - "[[Palantir Technologies]]"
-  - "[[LexisNexis]]"
-status: "#evergreen"
+  - "[[ICE]]"
+  - "[[The Privatized Panopticon]]"
+Links:
+  - "[[Palantir Technologies]]"
+  - "[[ICE]]"
+  - "[[The Privatized Panopticon]]"
+Tags:
+  - infrastructure
+  - hardware
+  - biometrics
+  - surveillance
+  - field-collection
+  - iris-scan
+  - fingerprint
+  - facial-recognition
+  - ICE
+  - military
+Aliases:
+  - Handheld Interagency Identity Detection Equipment
+  - HIIDE
 ---
-
 # HIIDE Devices
 
-## 🔍 Summary
-The **Handheld Interagency Identity Detection Equipment (HIIDE)** is a ruggedized, portable biometric enrollment and recognition device. It is designed to capture iris scans, fingerprints, and facial images in the field, even in "untethered" (offline) environments. In 2026, it is the primary handheld tool used by federal agents and private contractors to verify identity against the **[[National Vetting Center]]** watchlists.
+Handheld Interagency Identity Detection Equipment. Portable biometric enrollment and recognition device used by U.S. military, law enforcement, and federal agencies for field biometric collection.
 
-## 🧬 The "Tactical" Piston
-1. **Multimodal Extraction:** Each device captures **10 fingerprints**, **2 iris templates**, and a **high-res facial image**, creating a "Full Biometric Portfolio" in under two minutes.
-2. **The "Untethered" Watchlist:** HIIDE devices can store up to **10,000 full portfolios** locally. This allows agents to perform "1:N" matches (searching a person against a list of suspects) in areas with zero connectivity, such as rural border zones or "extracted" urban districts.
-3. **The BAT Interface:** Data captured on HIIDE is synced back to the **Biometrics Automated Toolset (BAT)**. In 2026, this data is piped directly into **[[Palantir Technologies]]** for predictive modeling and behavioral analysis.
+## Technical Capabilities
 
-## 🔗 The "Vetting" Loop
-* **Field Enrollment:** Agents use HIIDE to enroll "Subjects of Interest" during domestic operations.
-* **Database Collision:** The biometric data is "collided" against **[[LexisNexis]]** and **[[Acxiom]]** identity clusters.
-* **The Result:** Immediate identification of "Friction" individuals (e.g., activists, non-citizens, or "extracted" former employees) who are then flagged for immediate administrative action.
+Each HIIDE device captures in under two minutes:
+- **10 fingerprints** (full palm and digit scans)
+- **2 iris templates** (left and right eye)
+- **High-resolution facial image**
 
----
+**Offline operation:** Devices store up to 10,000 full biometric portfolios locally, enabling 1:N matching (one person against a watchlist) in areas with no connectivity — remote border zones, detention facilities, or field enforcement operations.
 
-## 📚 Citations
-1. **Army.mil (2026 Archive):** [Field reps support Soldiers using HIIDE devices](https://www.army.mil/article/10703/)
-2. **Public Intelligence (2026):** [DoD Biometrics HIIDE Device User Guide](https://publicintelligence.net/dod-biometrics-hiide-device-user-guide/)
-3. **HID Global (Feb 2026):** [2026 State of Security and Identity Report](https://securityonscreen.com/hid-2026-state-of-security-report-feb26/)
+**Data sync:** Captured biometrics sync back to the Biometrics Automated Toolset (BAT) and integrate with Palantir's platform for cross-referencing against federal databases.
+
+## Deployment History
+
+HIIDE was originally developed for U.S. military operations in Afghanistan and Iraq — building biometric databases of local populations to identify insurgents and screen individuals at checkpoints. The Afghanistan biometric database built using HIIDE and related devices was left behind when the U.S. withdrew in 2021, with documented concerns that the Taliban could use it to identify Afghans who had cooperated with U.S. forces.
+
+The deployment pipeline is documented in the [[Elite Coordination Structures]] MOC: Afghanistan checkpoints (2007) → U.S. border enforcement (2013) → LAPD (2018) → federal domestic enforcement (2025+).
+
+## Current Domestic Use
+
+ICE field agents use HIIDE devices during enforcement operations to:
+- Verify identity of individuals without documents
+- Enroll new biometric profiles into federal databases
+- Match individuals against watchlists including those populated from Venntel location data and ImmigrationOS targeting
+
+The combination of field biometric collection with national vetting databases means anyone encountered by federal agents during an enforcement operation — regardless of whether they are a target — can be biometrically enrolled into permanent federal databases.
+
+## Citations
+
+- HIIDE device specifications, BAT integration: [Public Intelligence — DoD Biometrics HIIDE User Guide](https://publicintelligence.net/dod-biometrics-hiide-device-user-guide/)
+- Afghanistan deployment history: [Wikipedia — Biometric surveillance in Afghanistan](https://en.wikipedia.org/wiki/Biometric_surveillance_in_Afghanistan)
+- Army field use documentation: [Army.mil](https://www.army.mil/article/10703/)
