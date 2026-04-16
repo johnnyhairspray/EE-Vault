@@ -1,26 +1,39 @@
 ---
-type: Brand
-sub_type: Social Platform
-tags:
-  - social-graph
-  - data-sensor
-  - consumer-extraction
-parent_org:
+Category: Entity
+Sub-category: Organization
+Type: Business
+Sub-type: Social Platform
+Status: Active
+Confidence: Verified
+Parent-org: "[[Meta Platforms Inc.]]"
+Connected-to:
   - "[[Meta Platforms Inc.]]"
-links:
-  - "[[Cambridge Analytica]]"
-  - "[[The Emotional Contagion Experiment]]"
-status: "#evergreen"
+  - "[[Mark Zuckerberg]]"
+  - "[[Peter Thiel]]"
+Links:
+  - "[[Meta Platforms Inc.]]"
+  - "[[Mark Zuckerberg]]"
+  - "[[The Privatized Panopticon]]"
+Tags:
+  - business
+  - social-media
+  - social-graph
+  - surveillance-capitalism
+  - Cambridge-Analytica
+Aliases:
+  - FB
+  - Meta (colloquial)
 ---
-
 # Facebook
 
-## 🔍 Summary
-The "Flagship Sensor" of the Meta ecosystem. With over 3 billion monthly active users in 2026, Facebook is the primary collector of the "Social Graph"—the mapping of human relationships, emotional triggers, and political affiliations.
+Social media platform and primary product of [[Meta Platforms Inc.]]. 3+ billion monthly active users as of 2026. The largest social graph database in existence.
 
----
+**See [[Meta Platforms Inc.]] for full analysis** — including the Cambridge Analytica case, the emotional contagion experiment, Peter Thiel's board role, the 2025 political realignment, and Mark Zuckerberg's PCAST appointment.
 
-### 🧬 The "Extraction" Mechanism
-1.  **The Psychographic Sensor:** Every interaction (Likes, Shares, Time-on-Page) is an "Object" extracted into the Meta graph. This data was the raw material for the **[[Cambridge Analytica]]** "Alpha Test".
-2.  **The Identity Rail:** "Login with Facebook" acts as a digital passport across the web, allowing Meta to track user movements even *outside* the blue app, feeding the **[[National Vetting Center]]** with external behavioral data.
-3.  **The 2026 Creator Pivot:** Following legal pressure, Facebook shifted into a "Platform Agnostic" revenue model in early 2026, paying creators to post content that specifically triggers "High-Engagement" (and thus high-data) behaviors.
+## Facebook-Specific Notes
+
+**The cross-web tracking mechanism:** "Login with Facebook" — Meta's authentication service used on millions of third-party websites and apps — extends Meta's data collection beyond the Facebook platform itself. Meta can track user activity across the broader web even when users are not on Facebook, through cookies and the authentication layer.
+
+**The creator pivot (2026):** Under regulatory pressure in Europe and U.S., Meta shifted content monetization toward explicit creator payments for high-engagement content. The structural effect is unchanged: algorithmic amplification of emotionally resonant, high-arousal content remains the core economic driver.
+
+**The 2025 moderation changes:** Fact-checking program ended in the U.S. (January 2025), replaced with a community notes model. Dana White (Trump ally) added to Meta's board. These changes preceded Zuckerberg's PCAST appointment by approximately 14 months.
