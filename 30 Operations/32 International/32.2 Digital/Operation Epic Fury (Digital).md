@@ -1,28 +1,47 @@
 ---
-type: Operation
-sub_type: Digital
-tags:
-  - cyber-warfare
-  - electronic-attack
-  - non-kinetic
-links:
+Category: Entity
+Sub-category: Operation
+Type: International
+Sub-type: Cyber / Electronic Warfare
+Status: Active
+Confidence: Verified
+Date: 2026-02-28
+Connected-to:
   - "[[Operation Epic Fury]]"
   - "[[Project Maven]]"
-status: "#active"
+Links:
+  - "[[Operation Epic Fury]]"
+Tags:
+  - operation
+  - international
+  - cyber-warfare
+  - electronic-attack
+  - Iran
+  - USCYBERCOM
+  - USSPACECOM
+Aliases:
+  - Epic Fury Digital
+  - Operation Epic Fury cyber component
 ---
+# Operation Epic Fury (Digital Component)
 
-# Operation Epic Fury (Digital)
+The non-kinetic phase of [[Operation Epic Fury]] — executed by USCYBERCOM and USSPACECOM preceding and concurrent with the physical airstrikes on February 28, 2026.
 
-## 🔍 Summary
-The "First Mover" phase of the Epic Fury campaign, executed by **USCYBERCOM** and **USSPACECOM**. This digital offensive was designed to create a "window of blindness" by layering non-kinetic effects to disable Iranian communications and radar prior to the physical airstrikes.
+## What It Did
 
-## 🧬 The "Digital" Piston
-* **The Blindness Layer:** Utilizing advanced electronic attack platforms and cyber-payloads, the operation disrupted Iran's **Integrated Air Defense System (IADS)** and severed command-and-control links between Tehran and its proxy networks.
-* **Financial Warfare:** Coordinated cyber-strikes targeted the Iranian Central Bank and military payroll systems to induce internal friction and desertion during the kinetic phase.
-* **Space Integration:** USSPACECOM utilized non-kinetic counter-space capabilities to jam Iranian-linked satellite communications, preventing the regime from coordinating a coherent retaliatory launch.
+**Electronic / cyber component:** USCYBERCOM deployed cyber payloads and electronic attack platforms targeting Iran's Integrated Air Defense System (IADS) — disabling radar networks and severing command-and-control links between Tehran and its proxy networks. This created a window of reduced defensive capability for the kinetic air strikes that followed.
 
----
+**Financial warfare:** Coordinated cyber-strikes targeted the Iranian Central Bank and military payroll systems — intended to induce internal friction and undermine unit cohesion during the kinetic phase.
 
-## 📚 Citations
-1. **Air Combat Command (Mar 2026):** [Hegseth and Caine Brief Reporters on Epic Fury](https://www.acc.af.mil/News/Article-Display/Article/4420221/hegseth-says-epic-fury-goals-in-iran-are-laser-focused/)
-2. **CENTCOM (Mar 2026):** [Space Force's Role in Operation Epic Fury](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/)
+**Space integration:** USSPACECOM applied counter-space capabilities to jam Iranian-linked satellite communications — preventing coordinated retaliatory launch sequencing by the Iranian military.
+
+## The Layered Strike Doctrine
+
+The digital/electronic component is the first layer of a layered strike doctrine: disable communications and air defense (cyber/electronic) → strike during the window of confusion (kinetic air/missile) → prevent coordinated retaliation (space/counter-satellite).
+
+This doctrine represents the operational integration of cyber warfare, space operations, and conventional air power into a single combined campaign — the first documented deployment of USSPACECOM counter-space capabilities in an active kinetic conflict.
+
+## Citations
+
+- Hegseth briefing on Epic Fury digital operations: [ACC/CENTCOM March 2026](https://www.acc.af.mil/News/Article-Display/Article/4420221/hegseth-says-epic-fury-goals-in-iran-are-laser-focused/)
+- Space Force role: [CENTCOM March 2026](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/)
