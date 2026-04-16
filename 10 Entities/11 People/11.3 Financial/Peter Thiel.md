@@ -14,6 +14,7 @@ Organization:
   - "[[Mithril Capital]]"
   - "[[Valar Ventures]]"
   - "[[Pronomos Capital]]"
+  - "[[Enhanced Games]]"
 Title:
   - Co-founder, Palantir Technologies
   - Co-founder, PayPal
@@ -38,6 +39,7 @@ Connected-to:
   - "[[Rockbridge Network]]"
   - "[[In-Q-Tel]]"
   - "[[Praxis]]"
+  - "[[Christian Angermayer]]"
 Killed-by:
 Links:
   - "[[Palantir Technologies]]"
@@ -58,6 +60,7 @@ Links:
   - "[[In-Q-Tel]]"
   - "[[Persona]]"
   - "[[PayPal]]"
+  - "[[Enhanced Games]]"
 Tags:
   - financial
   - venture-capital
@@ -71,6 +74,8 @@ Tags:
   - PayPal-Mafia
   - kingmaker
   - epstein
+  - transhumanism
+  - enhanced-games
 Aliases:
   - Peter Andreas Thiel
 ---
@@ -143,6 +148,31 @@ The coordination is explicit: Trump appointed [[Ken Howery]] — Thiel's PayPal 
 
 Other Praxis investors: [[Sam Altman]], [[Joe Lonsdale]], [[Marc Andreessen]], [[Balaji Srinivasan]], Winklevoss twins. This is not a real estate play. It is the operational test of Yarvin's sovereign territory theory — using U.S. state power to acquire unregulated territory for private oligarch governance.
 
+## The Enhanced Games: Transhumanism as Sports Property
+
+The Enhanced Games (TEG) is Thiel's transhumanist project applied to athletic competition — an Olympic-style event that permits the use of most performance-enhancing drugs currently banned under WADA. Debut event: Memorial Day weekend 2026, Las Vegas. Events: swimming, athletics, weightlifting.
+
+The origin is characteristically Thiel: the concept was conceived at a party at his Miami island mansion among his "gay, tech, venture capital, founder-types" circle — described by co-founder Aron D'Souza as a "close-knit little community" of "gay, tech, venture capital, founder-types." D'Souza is the Australian lawyer who organized Thiel's legal assault on Gawker Media (Bollea v. Gawker, 2016), which resulted in Gawker's bankruptcy.
+
+**Co-founders and investors:**
+- **Aron D'Souza** — Thiel's Gawker lawyer, Enhanced Games president
+- **Christian Angermayer** — German billionaire, psychedelic biotech investor, Thiel network
+- **Peter Thiel** — "single-digit-million-dollar" investment
+- **Balaji Srinivasan** — Network State theorist, Praxis investor
+- **Cameron and Tyler Winklevoss** — crypto investors, Praxis investors
+- **Donald Trump Jr.** — 1789 Capital involvement
+- **Saudi Prince Khaled bin Alwaleed Al Saud**
+
+The investor list is the Thiel network plus Gulf sovereign capital — identical to the Praxis and Board of Peace investor structures.
+
+**The transhumanist thesis:** "We can literally invent humans 2.0." The Enhanced Games frames drug prohibition in sports as paternalistic government overreach and positions PED use as individual liberty and scientific progress. Angermayer draws explicit parallels to mainstream acceptance of gay rights and marijuana — normalization as the playbook.
+
+**The vault connection:** The Enhanced Games is the biological layer of the same project as Praxis (territorial sovereignty), Palantir (surveillance sovereignty), and the Board of Peace (financial sovereignty). Each removes a domain of human activity from democratic accountability and hands it to private capital. Praxis removes governance. Palantir removes security. The Enhanced Games removes the biological body itself — rewriting what a human being is allowed to be, outside the regulatory frameworks of democratic states.
+
+The "humans 2.0" endpoint is not sports entertainment. It is the establishment of a class of biologically enhanced individuals whose performance, longevity, and capability is determined by access to capital rather than democratic equality. The Enhanced Games is the proof of concept. The billionaire's island party is where it was decided.
+
+---
+
 ## The Paradox Resolved
 
 Thiel is not confused. He is not contradictory. He is the spider at the center of a web connecting:
@@ -154,6 +184,7 @@ Thiel is not confused. He is not contradictory. He is the spider at the center o
 - Dark money coordination ([[Rockbridge Network]])
 - Territory acquisition ([[Praxis]], Greenland)
 - Biometric population control ([[Persona]], HIIDE deployment pipeline)
+- Biological enhancement ([[Enhanced Games]], transhumanism)
 
 The Christian nationalist ideology is customer service. The surveillance infrastructure is the product. The end of democratic accountability is the business model.
 
@@ -171,11 +202,11 @@ The Christian nationalist ideology is customer service. The surveillance infrast
 - [Salon](https://www.salon.com/2024/07/22/jd-vance-owes-almost-everything-to-peter-thiel-a-pro-billionaire-and-new-right-ideologue/)
 - [Feminist Majority — "freedom and democracy are compatible" quote](https://feministmajority.org/vice-presidential-candidate-j-d-vances-longtime-connection-to-far-right-billionaire-peter-thiel/)
 - [OpenSecrets — Per Aspera dark money](https://www.opensecrets.org/news/2022/02/peter-thiel-tied-dark-money-group-helping-bankroll-super-pac-spending-on-2022-election/)
-- [CNN — $15M largest Senate donation](https://www.cnn.com/2022/05/06/politics/peter-thiel-jd-vance-ohio-gop)
+- [CNN — $15M largest Senate donation](https://www.cnn.com/2022/05/06/politics/peter-thiel-jd-vance-ohio-gpp)
 
 **Epstein / Valar Ventures:**
 - [Byline Times — Thiel personally solicited Epstein $10-20M Nov 2014](https://bylinetimes.com/2026/02/04/jeffrey-epstein-and-peter-thiel-co-owned-venture-fund-as-thiels-palantir-entered-uk-government/)
-- [SF Examiner — $40M Valar, Palantir advice Oct 2014](https://www.sfexaminer.com/jeffrey-epsteins-money-mingled-with-silicon-valley-startups/article_118b8944-14a0-5bb4-9c0f-7275e81e2b1a.html)
+- [SF Examiner — $40M Valar, Palantir advice Oct 2014](https://www.sfexaminer.com/jeffrey-epsteins-money-mingled-with-silicon-valley-startups/article_118b8944-14a0-5bb4-9c0f-7USe81e2b1a.html)
 - [Daily Beast — $130M estate value, Woody Allen dinner](https://www.thedailybeast.com/jeffrey-epsteins-secret-deal-with-maga-mastermind-peter-thiel-nets-estate-130m/)
 - [Brendon Beebe Substack — full timeline 2014-2019](https://brendonbeebe.substack.com/p/thielepstein-20142018-meetings-40m)
 - [Novara Media — Epstein as co-owner, "confidential" investment opportunities](https://novaramedia.com/2026/02/05/jeffrey-epstein-co-owned-venture-capital-fund-with-palantirs-peter-thiel/)
@@ -193,3 +224,9 @@ The Christian nationalist ideology is customer service. The surveillance infrast
 - [New Republic — Thiel, Andreessen, Lonsdale pushing Greenland](https://newrepublic.com/article/205102/oligarchs-pushing-conquest-greenland-trump)
 - [Wikipedia — Praxis](https://en.wikipedia.org/wiki/Praxis_(proposed_city))
 - [Wikipedia — Peter Thiel, Pronomos anchor backer](https://en.wikipedia.org/wiki/Peter_Thiel)
+
+**Enhanced Games:**
+- [Wikipedia — Enhanced Games](https://en.wikipedia.org/wiki/Enhanced_Games)
+- [TIME — debut event Las Vegas 2026, "humans 2.0"](https://time.com/7287038/enhanced-games-las-vegas-interview/)
+- [Jules Evans — Thiel betting on apocalypse, island party origin](https://www.ecstaticintegration.org/p/peter-thiel-is-betting-on-the-apocalypse)
+- [Bloomberg — Thiel's quest for superhuman](https://www.bloomberg.com/opinion/articles/2024-07-12/peter-thiel-s-doping-games-and-his-quest-for-a-superhuman)
