@@ -1,36 +1,58 @@
 ---
-type: Person
-sub_type: Business
-tags:
-  - logistics
-  - space-industrialization
-  - industrial-AI
-  - e-acc
-organization:
+Category: Entity
+Sub-category: People
+Type: Business
+Sub-type:
+Status: Active
+Confidence: Verified
+Born: 01/12/1964
+Died:
+Nationality: American
+Organization:
   - "[[Amazon]]"
   - "[[Blue Origin]]"
-  - "[[Project Prometheus]]"
-links:
-  - "[[Technocracy Inc.]]"
+Title:
+  - Executive Chairman, Amazon
+  - Founder, Blue Origin
+Connected-to:
   - "[[Elon Musk]]"
-  - "[[Blue Moon]]"
-status: "#evergreen"
+  - "[[Amazon]]"
+  - "[[AWS]]"
+Links:
+  - "[[Amazon]]"
+  - "[[AWS]]"
+Tags:
+  - business
+  - tech
+  - Amazon
+  - Blue-Origin
+  - space
+  - industrial-AI
+Aliases:
+  - Jeffrey Preston Bezos
 ---
-
 # Jeff Bezos
 
-## 🔍 Summary
-Executive Chair of **[[Amazon]]** and founder of **[[Blue Origin]]**. In 2026, Bezos has pivoted toward **"Physical AI,"** aiming to merge high-level machine learning with heavy industry. He is currently raising **$100 billion** for a "manufacturing transformation vehicle" to acquire and modernize legacy industrial firms, specifically targeting semiconductors, aerospace, and defense.
+Born January 12, 1964. Executive Chairman of Amazon (stepped down as CEO in 2021). Founder of Blue Origin. Owner of The Washington Post (acquired 2013).
 
-## 🧬 The "Industrial" Piston
-* **Project Prometheus:** A 2026-era AI startup co-founded by Bezos and Vikram Bajaj. It focuses on building AI models designed to understand and simulate the physical world, covering factory operations, supply chains, and engineering.
-* **The $100B Industrial Fund:** This fund is designed to "AI-ify" the physical production base of the Technate by acquiring established manufacturers and restructuring them using Prometheus technology.
-* **Blue Origin (Lunar Rail):** On January 30, 2026, Blue Origin announced it would pause all **New Shepard** suborbital flights for at least two years to reallocate all resources to the **Blue Moon** lander and the **Artemis** program.
-* **Blue Ring:** A multi-mission spacecraft launched in early 2026 providing "Space Domain Awareness" and logistics services for the Space Force in Geostationary Orbit (GEO).
+## The Industrial AI Pivot (2026)
 
----
+In early 2026, Bezos began raising approximately $100 billion for an industrial acquisition fund — targeting legacy manufacturers in semiconductors, aerospace, and defense to restructure them using AI. Co-founded **Project Prometheus** with Vikram Bajaj, an AI startup focused on "physical AI" — models designed to understand and simulate factory operations, supply chains, and engineering processes, as opposed to language-focused AI.
 
-## 📚 Citations
-1. **The Street (Mar 2026):** [Jeff Bezos wants to buy manufacturers for a disturbing reason](https://www.thestreet.com/retail/jeff-bezos-wants-to-buy-manufacturers-for-a-disturbing-reason)
-2. **MLQ.ai (Mar 2026):** [Jeff Bezos Plans $100 Billion Fund to Acquire and AI-Overhaul Manufacturing](https://mlq.ai/news/jeff-bezos-plans-100-billion-fund-to-acquire-and-ai-overhaul-manufacturing-companies/)
-3. **Blue Origin (Jan 2026):** [Blue Origin to Pause New Shepard Flights for No Less Than Two Years](https://www.blueorigin.com/news/new-shepard-to-pause-flights)
+The thesis: AI value will shift from software to physical production infrastructure. Bezos is positioning to be the capital vehicle for that transition.
+
+## Blue Origin
+
+Blue Origin paused all New Shepard suborbital flights in January 2026 for at least two years, reallocating resources to the Blue Moon lunar lander and the Artemis program. **Blue Ring** — a multi-mission spacecraft providing orbital logistics and Space Domain Awareness for the Space Force — launched in early 2026.
+
+Blue Origin is competing with SpaceX for government space contracts across launch, lunar landing, and national security orbital services.
+
+## Amazon / AWS Government Footprint
+
+Under Bezos's tenure, Amazon built the dominant cloud infrastructure position for the U.S. Intelligence Community through AWS — CIA's C2S (Commercial Cloud Services) contract, NSA relationships, and GovCloud. The $50 billion AWS expansion announced in late 2025 for national security AI infrastructure is the scaled continuation of that government footprint. See [[AWS]] and [[Amazon]] notes.
+
+## Citations
+
+- $100B industrial fund, Project Prometheus: [MLQ.ai](https://mlq.ai/news/jeff-bezos-plans-100-billion-fund-to-acquire-and-ai-overhaul-manufacturing-companies/) | [The Street](https://www.thestreet.com/retail/jeff-bezos-wants-to-buy-manufacturers-for-a-disturbing-reason)
+- Blue Origin New Shepard pause January 2026: [Blue Origin](https://www.blueorigin.com/news/new-shepard-to-pause-flights)
+- Blue Ring Space Force orbital services: [Blue Origin announcement 2026]
