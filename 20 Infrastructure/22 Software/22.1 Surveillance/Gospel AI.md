@@ -1,33 +1,55 @@
 ---
-type: Infrastructure
-sub_type: Software
-tags:
+Category: Entity
+Sub-category: Infrastructure
+Type: Software
+Sub-type: Military AI / Structural Targeting
+Status: Active
+Confidence: Verified
+Developer: "[[Unit 8200]]"
+Connected-to:
+  - "[[Unit 8200]]"
+  - "[[Lavender AI.md]]"
+Links:
+  - "[[Unit 8200]]"
+  - "[[Lavender AI.md]]"
+Tags:
+  - infrastructure
+  - software
+  - military-AI
   - targeting
-  - computer-vision
-  - urban-warfare
-  - ISR
-aka:
+  - Gaza
+  - Unit-8200
+  - structural-targeting
+  - civilian-casualties
+  - domicide
+Aliases:
   - Habsora
-developer: "[[Unit 8200]]"
-links:
-  - "[[Lavender AI]]"
-  - "[[Where's Daddy?]]"
-  - "[[Department of Defense]]"
-status: "#evergreen"
+  - The Gospel
 ---
+# Gospel AI (Habsora)
 
-# The Gospel (Habsora)
+AI-driven structural targeting system developed by [[Unit 8200]]. Identifies physical targets — buildings, infrastructure, facilities — rather than individuals (that function belongs to Lavender AI).
 
-## 🔍 Summary
-An AI-driven targeting system developed by **[[Unit 8200]]** that focuses on the identification of **physical structures** and static military objectives. Unlike Lavender, which identifies individuals, The Gospel processes massive datasets—drone footage, intercepted communications, and satellite imagery—to "generate" targets such as suspected safe houses, weapon storage sites, and command centers.
+## Function
 
-## 🧬 The "Structural" Piston
-* **The Target Factory:** The system is capable of suggesting approximately **100 potential targets per day**, a rate roughly 50 times faster than human intelligence teams.
-* **Collateral Estimation:** One of its most distinctive features is the ability to output "actionable targets" that include automated reports on the **likely number of civilian casualties** associated with a strike on that specific building.
-* **Urban Decimation:** Critics argue that by automating structural targeting, The Gospel facilitates "Domicide"—the systematic destruction of housing and civilian infrastructure to make an area uninhabitable.
+The Gospel processes satellite imagery, drone footage, intercepted communications, and signals intelligence to identify and recommend physical targets: suspected weapons storage sites, command centers, tunnel access points, safe houses.
 
----
+**Generation rate:** Approximately 100 potential structural targets per day — roughly 50 times faster than human intelligence analysts working the same data.
 
-## 📚 Citations
-1. **RUSI (Feb 2024):** [Israel's Targeting AI: How Capable is It?](https://www.rusi.org/explore-our-research/publications/commentary/israels-targeting-ai-how-capable-it)
-2. **News24 (Mar 2026):** [What is Israel's 'Gospel' AI? Powerful system that identifies bombing targets in seconds](https://news24online.com/tech/what-is-israels-gospel-ai-powerful-system-that-identifies-bombing-targets-in-seconds-know-why-critics-are-worried-about-it/766594/)
+**Civilian casualty estimation:** The Gospel includes an automated output estimating likely civilian casualties for each recommended strike target. This feature is simultaneously the system's most sophisticated ethical accommodation and its most concerning aspect — it produces casualty estimates not to prevent strikes with high civilian costs, but to provide advance documentation that the decision was made with awareness of expected civilian deaths.
+
+## The Domicide Connection
+
+UN Special Committee reporting (February 2026) on "domicide" — the systematic destruction of housing and civilian infrastructure — documented the scale of structural destruction in Gaza across the conflict period. Critics including humanitarian law scholars argue that AI-enabled structural targeting at The Gospel's generation rate facilitates this pattern: the system produces targets faster than human review can meaningfully evaluate them, creating pressure to use the output at volume.
+
+The Ghost Army analogy: targeting recommendations are generated at machine speed, but authorization decisions are made by humans operating under production pressure to clear the queue.
+
+## The Trio
+
+The Gospel operates alongside [[Lavender AI]] (individual profiling) and [[Where's Daddy.md]] (real-time location tracking) as an integrated AI targeting stack. Lavender identifies who. The Gospel identifies where (structurally). Where's Daddy? identifies when (home location, real-time).
+
+## Citations
+
+- Target generation rate, civilian casualty reports: [RUSI February 2024](https://www.rusi.org/explore-our-research/publications/commentary/israels-targeting-ai-how-capable-it)
+- Gospel capabilities overview: [News24 March 2026](https://news24online.com/tech/what-is-israels-gospel-ai-powerful-system-that-identifies-bombing-targets-in-seconds-know-why-critics-are-worried-about-it/766594/)
+- UN domicide report: [UN UNISPAL February 2026](https://www.un.org/unispal/document/domicide-report-26feb26/)
