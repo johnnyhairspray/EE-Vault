@@ -1,40 +1,42 @@
 ---
-type: Infrastructure
-tags:
-  - AI-supercomputer
-  - energy-grid
-  - compute-piston
-  - private-public-partnership
-architect:
-  - "[[Larry Ellison]]"
-  - "[[Elon Musk]]"
-organization:
+Category: Entity
+Sub-category: Infrastructure
+Type: Capital
+Sub-type: AI Infrastructure Joint Venture
+Status: Active
+Confidence: Verified
+Founded: 01/21/2026
+Connected-to:
   - "[[Oracle]]"
-  - "[[OpenAI]]"
-status: "#incubation"
+  - "[[Sam Altman]]"
+  - "[[Larry Ellison]]"
+  - "[[Donald Trump]]"
+  - "[[Tahnoun bin Zayed Al Nahyan]]"
+Links:
+  - "[[Oracle]]"
+  - "[[Sam Altman]]"
+  - "[[Larry Ellison]]"
+  - "[[Donald Trump]]"
+  - "[[Tahnoun bin Zayed Al Nahyan]]"
+  - "[[Gulf Sovereign Wealth Funds]]"
+Tags:
+  - infrastructure
+  - capital
+  - AI
+  - Stargate
+  - national-security
+  - Abu-Dhabi
+  - sovereign-capital
+Aliases:
+  - Stargate LLC
+  - The Stargate Project
 ---
-
 # The Stargate Project
 
-## 🔍 Summary
-A $500 Billion joint venture (OpenAI, SoftBank, Oracle, MGX) to build a 10-gigawatt AI supercomputer grid across the United States. It is designed to provide the "Compute Piston" necessary for "Total Population Modeling" and real-time vetting.
+**→ Primary note: [[10 Entities/14 Brands/OpenAI.md]]** (misfiled as OpenAI — contains full Stargate documentation)
 
----
+$500 billion AI infrastructure joint venture announced January 21, 2026. Partners: OpenAI, SoftBank, Oracle, MGX (Abu Dhabi). Primary site: Abilene, Texas. 100,000+ Nvidia Blackwell GPUs as of March 2026. Projected 10 gigawatts of power demand.
 
-### 🧬 The "Extraction" Mechanism
-1. **The 10-Gigawatt Target:** Stargate requires the power equivalent of 7.5 million homes. This necessity drives the [[Technocracy]]'s push for "Energy Sovereignty" and the replacement of the "Price System" with energy units.
-2. **The "Project Ludicrous" Site:** The first primary hub (Abilene, Texas) is powered by a 1.2 GW natural-gas and wind hybrid. As of March 2026, it houses over **100,000 Blackwell GPUs** dedicated to the [[National Vetting Center]]'s "Object Tracing".
-3. **Sovereign AI Sovereignty:** Unlike traditional cloud services, Stargate is an "On-Premises" federal asset. It allows the Technate to run models like **Grok** and **GPT-5** on "Extracted" citizen data without the data ever leaving a "National Security Region".
+The Abu Dhabi sovereign capital (MGX/Mubadala, connected to [[Tahnoun bin Zayed Al Nahyan]]) is a founding partner — placing UAE sovereign wealth inside the U.S. national AI infrastructure project announced on Trump's second day in office.
 
----
-
-### 🔗 Active 2026 Connections
-* **Geopolitical:** Managed by **MGX** (Abu Dhabi) and **SoftBank** loyalists, creating a "Financial Piston" that bypasses congressional oversight.
-* **Hardware:** Utilizes [[Oracle]]'s Redwood infrastructure and [[NVIDIA]]'s B200 chips as the physical substrate for the [[Extraction Engine]].
-
----
-
-## 📚 Citations
-1. **IntuitionLabs (Feb 2026):** "OpenAI's Stargate Project: A Guide to the AI Infrastructure."
-2. **Wikipedia (2026):** "Stargate LLC: American Multinational AI Joint Venture."
-3. **Glenn K. Lockwood (March 2026):** "Stargate Project: Infrastructure and Compute Roadmap."
+See primary note for full analysis including the governance structure, the Abu Dhabi convergence, and the privatized national security AI architecture.
