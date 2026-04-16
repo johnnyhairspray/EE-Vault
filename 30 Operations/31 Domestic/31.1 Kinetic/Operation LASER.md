@@ -1,42 +1,66 @@
 ---
-type: Operation
-tags:
-  - extraction
-  - predictive-policing
-  - pre-crime
-  - surveillance
-software:
-  - "[[Gotham]]"
-organization:
+Category: Entity
+Sub-category: Operation
+Type: Domestic
+Sub-type: Predictive Policing
+Status: Defunct (shuttered 2019)
+Confidence: Verified
+Date-range: "2011-2019"
+Location: Los Angeles, CA
+Organization: "[[LAPD]]"
+Software: "[[Palantir Technologies]]"
+Connected-to:
   - "[[LAPD]]"
-status: "#evergreen"
+  - "[[Palantir Technologies]]"
+Links:
+  - "[[LAPD]]"
+  - "[[Palantir Technologies]]"
+  - "[[The Privatized Panopticon]]"
+Tags:
+  - operation
+  - domestic
+  - predictive-policing
+  - LAPD
+  - Palantir
+  - surveillance
+  - pre-crime
+  - algorithmic-policing
+Aliases:
+  - Los Angeles Strategic Extraction and Restoration
+  - LASER
 ---
-
 # Operation LASER (Los Angeles Strategic Extraction and Restoration)
 
-## 🔍 Summary
-Launched in 2011 and officially "shuttered" in 2019, LASER was the first large-scale domestic application of the "Extraction" logic. It used a "Tumor Removal" analogy, treating specific individuals and neighborhoods as "cancers" to be surgically removed via data-driven policing.
+LAPD predictive policing program launched 2011, officially shuttered 2019. The first large-scale domestic deployment of Palantir's Gotham platform for algorithmic law enforcement targeting.
 
----
+## How It Worked
 
-### 🧬 The "Extraction" Mechanism
-1. **The Chronic Offender Score:** Analysts used [[Gotham]] to assign points to individuals based on:
-    * Number of police contacts in the last 2 years.
-    * Parole/Probation status.
-    * Gang affiliation.
-    * Results of "Field Interview" cards digitized into the grid.
-2. **The Bulletin Piston:** Individuals with high scores were placed on "Chronic Offender Bulletins." These bulletins were distributed to patrol officers with orders to stop the suspects as often as possible for minor infractions (e.g., jaywalking) to gather more data.
-3. **Location-Based Strategy:** Designated "LASER Zones" where police were deployed on data-driven missions to "restore" areas by extracting individuals who fit vaguely defined crime "trends".
+**Chronic Offender Bulletin system:** Palantir's Gotham assigned numerical scores to individuals based on:
+- Number of police contacts in the previous two years
+- Parole or probation status
+- Gang affiliation (often loosely defined)
+- "Field Interview" cards — subjective notes from officer encounters digitized into the system
 
----
+Individuals above a score threshold were placed on "Chronic Offender Bulletins" distributed to patrol officers, who were directed to stop the listed individuals as frequently as possible for minor infractions — jaywalking, loitering — to accumulate additional data points and justify continued surveillance.
 
-### 🔗 The 2026 Legacy
-* **The Refined Piston:** Although LASER ended, its "Vetting Formula" was the blueprint for the 2025-2026 [[NSPM-7]] and [[National Vetting Center]]. The logic moved from "Street Policing" to "National Security".
-* **Software Evolution:** The "Analogous Surgery" vision of LASER is now being fulfilled by [[Foundry]]’s "Digital Twin" technology, which allows for more subtle, algorithmic extraction than the 2011 manual bulletins.
+**LASER Zones:** Designated geographic areas where officers were deployed on data-driven patrols targeting individuals and locations flagged by the algorithm.
 
----
+## The Problem
 
-## 📚 Citations
-1. **The Appeal (2017):** "The LAPD Has a New Surveillance Formula, Powered by Palantir."
-2. **LPE Project (2022):** "Co-optation and Counterinsurgency in Surveillance Reform."
-3. **BJA.gov (2012):** "The Los Angeles Smart Policing Initiative: Operation LASER."
+The circular logic: police contact increases score → high score generates more contact → more contact further increases score. Individuals could be placed on bulletins based partly on the number of times they'd previously been stopped — regardless of whether those stops resulted in charges or convictions.
+
+Civil rights organizations documented disproportionate impact on Black and Latino communities and the use of loosely defined "gang affiliation" criteria that could include wearing certain colors or associating with known gang members.
+
+## Why It's in the Vault
+
+LASER is the documented ancestor of the current federal surveillance and targeting infrastructure. The Palantir-LAPD relationship was the civilian proof of concept that algorithmic targeting at scale was operationally viable — and Palantir's deployment pipeline runs from LAPD (2011) → U.S. border enforcement (2013) → ICE ImmigrationOS (2017+) → federal vetting infrastructure (2025+).
+
+The "pre-crime" logic — generating enforcement action based on predicted future behavior rather than past criminal acts — is structurally identical across all deployments. The population changes; the architecture doesn't.
+
+The LAPD officially ended LASER in 2019 following public pressure and a city audit. The program's logic migrated to federal infrastructure under different names.
+
+## Citations
+
+- LASER structure, Chronic Offender Bulletins, LAPD Palantir deployment: [The Appeal 2017]
+- Civil rights analysis, co-optation: [LPE Project 2022]
+- BJA Smart Policing Initiative documentation: [BJA.gov 2012]
