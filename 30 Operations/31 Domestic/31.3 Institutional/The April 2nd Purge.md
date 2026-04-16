@@ -1,28 +1,59 @@
 ---
-type: Operation
-sub_type: Institutional
-tags: [DOJ, DOD, leadership-removal, extraction]
-date: 2026-04-02
-links:
+Category: Entity
+Sub-category: Operation
+Type: Domestic
+Sub-type: Institutional / Leadership Removal
+Status: Archived
+Confidence: Verified
+Date: 2026-04-02
+Connected-to:
   - "[[Pam Bondi]]"
   - "[[Todd Blanche]]"
   - "[[Pete Hegseth]]"
-  - "[[Gen. Randy George]]"
-status: "#active"
+Links:
+  - "[[Pam Bondi]]"
+  - "[[Todd Blanche]]"
+  - "[[Pete Hegseth]]"
+Tags:
+  - operation
+  - domestic
+  - institutional
+  - DOJ
+  - DOD
+  - leadership-purge
+  - loyalty
+Aliases:
+  - April 2nd Purge
 ---
-
 # The April 2nd Purge
 
-## 🔍 Summary
-A coordinated series of high-level administrative "Extractions" executed on April 2, 2026, aimed at removing perceived friction points within the Department of Justice and the Department of Defense. This operation marks the total transition of the "Internal Security" apparatus to a loyalist-only command structure.
+Coordinated series of senior leadership removals executed April 2, 2026, across the Department of Justice and Department of Defense.
 
-## 🧬 The "Institutional" Piston
-* **The DOJ Extraction:** President Trump fired Attorney General **[[Pam Bondi]]**, replacing her with Acting AG **[[Todd Blanche]]**. Blanche, the President's former defense attorney, immediately signaled a shift toward using the DOJ as a direct tool for political prosecution.
-* **The Pentagon Extraction:** Secretary **[[Pete Hegseth]]** executed a "Lethality over Diversity" purge, removing Army Chief of Staff **Gen. Randy George** along with Gen. David Hodne and Maj. Gen. William Green Jr..
-* **The Logic:** These are not "personnel changes" but **Institutional Strikes** designed to decapitate the remaining "Deep State" resistance and replace it with a "Loyalty First" command tier.
+## DOJ
 
----
+President Trump fired Attorney General [[Pam Bondi]], replacing her with [[Todd Blanche]] as Acting AG. Blanche is Trump's former personal defense attorney — the lawyer who represented him in the 2024 hush money trial that resulted in 34 felony convictions. His appointment as the nation's chief law enforcement officer was the completion of the loyalty pipeline: personal defense attorney → Deputy AG → Acting AG.
 
-## 📚 Citations
-1. **TIME (Apr 2026):** [Who Is Todd Blanche, the New Acting Attorney General?](https://time.com/article/2026/04/02/who-is-todd-blanche-trump-s-former-lawyer-and-the-new-acting-attorney-general-/)
-2. **EPI Policy Watch (Mar 2026):** [OPM finalizes regulation enabling firing federal employees for political reasons](https://www.epi.org/policywatch/eo-restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/)
+## DOD
+
+Secretary of Defense [[Pete Hegseth]] executed simultaneous removals:
+- **Gen. Randy George** — Army Chief of Staff, forced retirement
+- **Gen. David Hodne** — forced retirement
+- **Maj. Gen. William Green Jr.** — Chief of Chaplains, forced retirement
+
+The purge occurred during active U.S. military operations following Operation Epic Fury. Removing the Army Chief of Staff during active combat operations and replacing him with a loyalist is without modern precedent.
+
+## The Pattern
+
+The April 2nd Purge continues the systematic replacement of independent leadership with loyalty-screened personnel documented across the vault:
+- Schedule F (civil service at-will conversion)
+- DOGE (mass civil service firings)
+- Hegseth's JAG "Ruthless Review" (military lawyers)
+- Hegseth's general officer reductions (20% reduction in four-star generals)
+- Now: simultaneous top-of-DOJ and top-of-Army replacements on the same day
+
+Each institution's independent leadership capacity is progressively degraded, replaced with personnel whose primary qualification is personal loyalty to the administration.
+
+## Citations
+
+- Bondi fired, Blanche as Acting AG: [TIME April 2026](https://time.com/article/2026/04/02/who-is-todd-blanche-trump-s-former-lawyer-and-the-new-acting-attorney-general-/)
+- Gen. George, Hodne, Green removals: [[Pete Hegseth]] vault note
