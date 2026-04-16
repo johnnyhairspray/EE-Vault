@@ -1,26 +1,70 @@
 ---
-type: Person
-sub_type: Technical / Missing
-tags: [metallurgy, Mondaloy, C-HGB, Aerojet-Rocketdyne, NASA-JPL]
-status: "#missing"
-disappeared_date: 2025-06-22
-location: "Mount Waterman, CA"
-links:
+Category: Entity
+Sub-category: People
+Type: Scientific
+Sub-type: Missing / Aerospace Engineer
+Status: Missing
+Confidence: Verified
+Born:
+Died:
+Nationality: American
+Organization:
+  - Aerojet Rocketdyne
+  - NASA Jet Propulsion Laboratory
+Title:
+  - Senior Materials Scientist / Technical Fellow
+  - Co-inventor, Mondaloy superalloy
+Disappeared: 2025-06-22
+Location-last-known: "Mount Waterman, CA (Angeles National Forest)"
+Connected-to:
+  - "[[William McCasland]]"
   - "[[Mondaloy]]"
-  - "[[Common Hypersonic Glide Body (C-HGB)]]"
-  - "[[William Neil McCasland]]"
+  - "[[C-HGB]]"
+  - "[[The Mondaloy Chain]]"
+Links:
+  - "[[William McCasland]]"
+  - "[[Mondaloy]]"
+  - "[[C-HGB]]"
+  - "[[The Mondaloy Chain]]"
+Tags:
+  - scientific
+  - missing
+  - Mondaloy
+  - C-HGB
+  - Aerojet-Rocketdyne
+  - JPL
+  - hypersonic
+  - defense-research
+Aliases:
+  - Monica Reza
+  - Monica Jacinto Reza
 ---
-
 # Monica Jacinto Reza
 
-## 🔍 Profile
-Senior aerospace engineer and Technical Fellow at **Aerojet Rocketdyne**. Reza was a primary architect of advanced propulsion materials, specifically engineered to eliminate U.S. reliance on foreign-sourced superalloys.
+Senior aerospace engineer and materials scientist. Technical Fellow at Aerojet Rocketdyne and NASA Jet Propulsion Laboratory. Co-inventor of the [[Mondaloy]] nickel superalloy family. Missing since June 22, 2025.
 
-## 🧬 The "Forensic" Pivot
-* **Proprietary Knowledge:** Reza is the co-inventor of **[[Mondaloy]]**. This alloy is the specific thermal shield that allows the **[[C-HGB]]** to maintain structural integrity during the extreme friction of Mach 5 re-entry.
-* **The Identifier Logic:** Because she designed the chemical "recipe" and stress-tested the material, she possessed the unique forensic ability to identify C-HGB debris from a strike site—even if the weapon was used in a "deniable" or "black" capacity.
-* **The Disappearance:** Vanished during a hike on June 22, 2025. Witnesses reported she was present one moment and gone the next. No physical evidence or trace has been found since the initial 8-day search.
+## Professional Background
 
-## 🔗 The 2026 Connection
-* **Institutional Link:** Reza worked directly within the research structures overseen by **[[William Neil McCasland]]** at the Air Force Research Laboratory (AFRL).
-* **Strategic Timing:** Her removal occurred exactly as the **[[One Big Beautiful Bill 1]]** began accelerating the mass production of the **[[Dark Eagle]]** system for the Iran escalation.
+Reza specialized in advanced propulsion materials — specifically alloys capable of surviving the extreme thermal and structural conditions inside oxygen-rich staged combustion rocket engines and hypersonic re-entry vehicles.
+
+**Mondaloy patent:** Reza co-invented the Mondaloy nickel superalloy family — solving the metallurgical problem of balancing oxygen compatibility with structural strength in high-pressure rocket engine components. The same thermal properties that enable rocket engine survivability apply to hypersonic re-entry, making Mondaloy the material foundation of the [[C-HGB]] kinetic penetrator's ability to survive atmospheric re-entry at Mach 5+.
+
+**Institutional connection to McCasland:** Reza's Mondaloy research program at Aerojet Rocketdyne was funded through the Air Force Research Laboratory — the institution commanded by [[William McCasland]] until his retirement. McCasland is documented as the funding authority for the Mondaloy program. He disappeared on February 27, 2026.
+
+## The Disappearance
+
+Reza vanished June 22, 2025, during a hike in the Angeles National Forest near Mount Waterman, California. An 8-day search produced no physical evidence. No body, no trace, no confirmed cause. She remains missing as of April 2026.
+
+Her disappearance occurred four days before [[Melissa Casias]] (LANL administrator) disappeared on June 26, 2025 — the same proximity to the LANL corridor documented in the Mondaloy Chain.
+
+## The Analytical Significance
+
+Reza is the first node in the [[The Mondaloy Chain]] — the vault's pattern analysis of five deaths and disappearances across the defense research triangle between June 2025 and February 2026, all connected to C-HGB development or related hypersonic weapons programs.
+
+**Confidence:** Her disappearance is verified. Its connection to C-HGB and Operation Epic Fury is pattern analysis, not established causation.
+
+## Citations
+
+- Disappearance June 22, 2025, Angeles National Forest, 8-day search: [NewsNation](https://www.newsnationnow.com/missing/william-mccasland-search-monica-reza/) | [LA County Sheriff records]
+- Mondaloy co-inventor, Aerojet Rocketdyne / JPL affiliation: [SpaceNews 2017] | [Air Force press release 2016]
+- McCasland as AFRL funding authority: [[William McCasland]] vault note | [[The Mondaloy Chain]] MOC
