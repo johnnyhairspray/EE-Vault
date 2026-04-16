@@ -1,28 +1,61 @@
 ---
-type: Person
-tags:
-  - architect
-  - financier
-  - crypto-lead
-  - lineage
-organization:
-  - "[[1789 Capital]]"
+Category: Entity
+Sub-category: People
+Type: Political
+Sub-type:
+Status: Active
+Confidence: Verified
+Born: 12/31/1977
+Died:
+Nationality: American
+Organization:
+  - 1789 Capital
   - "[[World Liberty Financial]]"
-links:
+  - Trump Organization
+Title:
+  - Executive Vice President, Trump Organization
+  - Partner, 1789 Capital
+  - Co-founder, World Liberty Financial
+Connected-to:
   - "[[Donald Trump]]"
-  - "[[Fred Trump]]"
-  - "[[Red Caesarism]]"
-status: "#evergreen"
+  - "[[World Liberty Financial]]"
+  - "[[Peter Thiel]]"
+Links:
+  - "[[Donald Trump]]"
+  - "[[World Liberty Financial]]"
+Tags:
+  - political
+  - Trump-family
+  - crypto
+  - venture-capital
+  - WLF
+  - 1789-Capital
+Aliases:
+  - Don Jr.
+  - Donald John Trump Jr.
 ---
-
 # Donald Trump Jr.
 
-## 🔍 Summary
-Executive Vice President at the Trump Organization and Partner at **[[1789 Capital]]**. In 2026, he functions as the "Financial Piston" of the Parallel Economy, bridging the gap between MAGA political power and Silicon Valley's "Sovereign Capital".
+Born December 31, 1977. Executive Vice President of the Trump Organization. Partner at 1789 Capital. Co-founder of [[World Liberty Financial]].
 
----
+## 1789 Capital
 
-### 🧬 The "Convergence" Logic
-1. **The 1789 Rail:** As a partner at **1789 Capital**, Don Jr. directs investment into "Anti-Woke" infrastructure—specifically hardware and media that cannot be "extracted" or canceled by legacy liberal institutions.
-2. **The World Liberty Toll:** Co-founder of **World Liberty Financial**, a crypto venture that, as of March 2026, offers "Guaranteed Direct Access" to the administration's inner circle for a $5M token lock-up. This is the **[[Neocameralism]]** "Pay-to-Play" model in action.
-3. **The Lineage Enforcer:** Acts as the primary aggressive surrogate for his father's **[[Red Caesarism]]** rhetoric, identifying "Internal Enemies" (the "Cathedral") and advocating for their extraction via **[[20 Infrastructure/24 Policies/24.3 Frameworks/Schedule F]]**.
+1789 Capital is a venture fund co-founded by Trump Jr. investing in companies described as "anti-woke" — specifically media, technology, and infrastructure projects positioned as alternatives to institutions perceived as ideologically hostile to the MAGA coalition.
+
+Notable investments include the Enhanced Games — the Peter Thiel-backed doping-legal Olympic alternative launching Las Vegas May 2026. 1789 Capital's involvement bridges the Thiel network's transhumanist project with the Trump family's broader investment infrastructure.
+
+## World Liberty Financial
+
+Trump Jr. is a co-founder of [[World Liberty Financial]] alongside his brothers Eric Trump and Barron Trump, as well as Zach Witkoff and other partners. The Trump family collectively receives 75% of WLF token sale proceeds and 75% of USD1 stablecoin interest through DT Marks DEFI LLC (Trump Sr. 70%, family 30%).
+
+Trump Jr.'s specific WLF role is primarily public-facing and investor relations — appearing at crypto conferences and media events to promote the platform.
+
+## The Enhanced Games Connection
+
+1789 Capital's investment in the Enhanced Games places Trump Jr. in the same investor network as Thiel, Balaji Srinivasan, the Winklevoss twins, and a Saudi prince — the same capital cluster that appears across Praxis, World Liberty Financial, and the broader sovcorp project. Whether this reflects deliberate coordination or convergent investment interests in the same ideological space is documented as a pattern, not a confirmed conspiracy.
+
+## Citations
+
+- 1789 Capital, anti-woke investments: [Wikipedia — 1789 Capital]
+- Enhanced Games investment: [Wikipedia — Enhanced Games](https://en.wikipedia.org/wiki/Enhanced_Games)
+- WLF co-founder, DT Marks revenue split: [Wikipedia — World Liberty Financial](https://en.wikipedia.org/wiki/World_Liberty_Financial)
