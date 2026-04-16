@@ -1,62 +1,69 @@
 ---
-type: Organization
-sub_type: Ideological
-tags:
-  - secret-society
-  - networking
-  - Bilderberg-tech
-  - elite-governance
-  - vetting
-founders:
+Category: Entity
+Sub-category: Organization
+Type: Ideological
+Sub-type: Elite Coordination / Private Forum
+Status: Active
+Confidence: Verified
+Founded: 2006
+Location: "Northern Virginia (permanent campus, 2025/2026)"
+Key-figures:
   - "[[Peter Thiel]]"
   - "[[Auren Hoffman]]"
-  - "[[Raffi Grinberg]]"
-location:
-  - Virginia (Permanent Campus)
-  - Various (Annual Retreats)
-links:
-  - "[[Technocracy Inc.]]"
-  - "[[Institutional Capture]]"
-  - "[[Auren Hoffman]]"
+Connected-to:
   - "[[Peter Thiel]]"
-status: "#evergreen"
+  - "[[Auren Hoffman]]"
+  - "[[Bilderberg Group]]"
+Links:
+  - "[[Peter Thiel]]"
+  - "[[Auren Hoffman]]"
+  - "[[Bilderberg Group]]"
+  - "[[Elite Coordination Structures]]"
+Tags:
+  - ideological
+  - elite-coordination
+  - private-forum
+  - Thiel
+  - Hoffman
+  - tech-Bilderberg
+  - off-the-record
+Aliases:
+  - Dialog
+  - The Dialog
+  - Dialog Retreat
 ---
+# The Dialog Retreat
 
-# The Dialog Retreat (Dialog)
+Invite-only private forum founded 2006 by [[Peter Thiel]] and [[Auren Hoffman]]. Approximately 100–150 attendees per event drawn from tech executives, political figures, finance, and academia. All discussions off-the-record.
 
-## 🔍 Summary
-A secretive, invite-only assembly often described as the **"Tech-era Bilderberg"**. Founded in 2006 by **[[Peter Thiel]]** and **[[Auren Hoffman]]**, Dialog serves as an off-the-record forum for approximately 100–150 global elites—spanning tech CEOs, high-ranking political officials, and influential academics—to discuss sensitive policy and ideological alignments without media oversight.
+Often described as the "tech Bilderberg" — serving the same informal coordination function as Bilderberg but oriented toward the Silicon Valley-political network rather than the broader transatlantic establishment.
 
----
+## Structure and Location
 
-## 🧬 The "Synchronization" Piston
+Dialog historically operated through rotating annual retreats. In late 2025/early 2026, the organization finalized acquisition of a permanent campus in Northern Virginia — minutes from Washington, D.C. The move from rotating retreat to permanent physical campus represents a deliberate shift toward institutionalization and sustained proximity to federal power.
 
-### 1. The D.C. Expansion (2026)
-* **Permanent Hub:** In late 2025/early 2026, Dialog finalized plans to move beyond its rotating retreat model by acquiring a permanent physical campus in **Northern Virginia**, minutes from Washington, D.C..
-* **Long-term Influence:** The purchase of a physical venue signals Dialog’s intent to be a permanent "Shadow Cabinet" for the D.C. BIOS, extending its influence across multiple administrations.
+## Documented Attendees (2025–2026 cycle)
 
-### 2. The 2026 Attendee Matrix
-The retreat functions as a cross-domain "Logic Bridge." Notable reported attendees and members in 2026 include:
-* **Political:** **[[10 Entities/11 People/11.1 Political/JD Vance]]**, Tulsi Gabbard (DNI), Scott Bessent (Treasury), Sen. Ted Cruz, and Maryland Gov. Wes Moore.
-* **Business/Finance:** **[[Elon Musk]]**, **[[Sam Altman]]**, Henry Kravis (KKR), and Chamath Palihapitiya.
-* **Ideological/Academic:** **[[Auren Hoffman]]**, Jonathan Haidt, and Garry Kasparov.
+**Political:** JD Vance, Tulsi Gabbard (DNI), Scott Bessent (Treasury Secretary), Sen. Ted Cruz, Maryland Governor Wes Moore
 
-### 3. The Functional Agendas
-Discussions are strictly off-the-record, but reported themes for the 2025–2026 cycle focus on **"High-Stakes Realignments"**:
-* **The Energy Crisis:** Solving the massive power demands of the **[[The Stargate Project]]** and AI infrastructure.
-* **The Afterlife & Longevity:** Deep-dives into **[[Transhumanism]]** and caring for aging global populations.
-* **Political Realignment:** Strategies for the **"Parallel State"** and the dismantling of legacy global governance frameworks.
+**Tech/Finance:** Elon Musk, Sam Altman, Henry Kravis (KKR), Chamath Palihapitiya
 
----
+**Ideological/Academic:** Auren Hoffman, Jonathan Haidt, Garry Kasparov
 
-## 🔗 The "Forensic" Loop
-* **The Infrastructure Link:** Co-founder **[[Auren Hoffman]]** provides the "Data Plumbing" (identity resolution) that allows the attendees to track the populations they discuss.
-* **The Financial Link:** **[[Peter Thiel]]** provides the venture capital to fund the projects (Anduril, Palantir) that emerge from these discussions.
-* **The Result:** A closed-loop system where policy is drafted in Virginia, funded in Silicon Valley, and implemented via the federal BIOS.
+## The Vault Significance
 
----
+Dialog is the tech network's equivalent of the coordination structure documented in the [[Bilderberg Group]] and [[Elite Coordination Structures]] MOC — but for the specific network this vault tracks.
 
-## 📚 Citations
-1. **Gizmodo (Aug 2025):** [Secretive, Peter Thiel-Founded 'Tech Bilderberg' Group Is Moving Up in the World](https://gizmodo.com/secretive-peter-thiel-founded-tech-bilderberg-group-is-moving-up-in-the-world-2000640214)
-2. **Washington Business Journal (Aug 2025):** [Inside Dialog: Peter Thiel's Secretive Elite Network Planning a Northern Virginia Powerhouse](https://www.foxessellfaster.com/blog/inside-dialog-peter-thiels-secretive-elite-network-planning-a-northern-virginia-powerhouse-for-vip-gatherings/)
-3. **Wikipedia (April 2026):** [Dialog (organization) - Overview and Membership](https://en.wikipedia.org/wiki/Dialog_(organization))
+Thiel co-founded a forum where:
+- His portfolio company CEOs (Palantir = Karp) discuss policy with the government officials who sign their contracts
+- The VP (Vance) who Thiel installed attends
+- The data infrastructure provider (Hoffman / SafeGraph / LiveRamp) for the broader surveillance ecosystem participates
+- All discussions occur off the record
+
+The combination: Thiel's venture capital funds the companies → those companies' executives attend Dialog → Dialog discussions shape policy → that policy generates government contracts → those contracts flow back to Thiel's portfolio. The coordination forum is the node where the loop closes.
+
+## Citations
+
+- Founding, Northern Virginia campus, attendee list: [Gizmodo August 2025](https://gizmodo.com/secretive-peter-thiel-founded-tech-bilderberg-group-is-moving-up-in-the-world-2000640214)
+- Overview and membership: [Wikipedia — Dialog (organization)](https://en.wikipedia.org/wiki/Dialog_(organization))
+- Washington Business Journal coverage: [Washington Business Journal August 2025]
