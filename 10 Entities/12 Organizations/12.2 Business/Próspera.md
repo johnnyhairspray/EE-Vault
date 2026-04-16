@@ -1,57 +1,79 @@
 ---
-type: Organization
-sub_type: Business
-tags:
-  - ZEDE
-  - startup-city
-  - bitcoin-city
-  - sovereign-exit
-  - Roatán
-key_figures:
-  - "[[Erick Brimen]]"
+Category: Entity
+Sub-category: Organization
+Type: Business
+Sub-type: Network State / Startup City
+Status: Active
+Confidence: Verified
+Founded: 2017
+Location: Roatán, Honduras
+Key-figures:
+  - Erick Brimen
   - "[[Peter Thiel]]"
   - "[[Balaji Srinivasan]]"
-partners:
-  - "[[Pronomos Capital]]"
-  - "[[Infinita City]]"
-links:
+Connected-to:
+  - "[[Peter Thiel]]"
+  - "[[Balaji Srinivasan]]"
+  - "[[Praxis]]"
   - "[[Network State]]"
   - "[[Neocameralism]]"
-  - "[[Transhumanism]]"
-  - "[[Bitcoin]]"
-status: "#evergreen"
+Links:
+  - "[[Peter Thiel]]"
+  - "[[Balaji Srinivasan]]"
+  - "[[Praxis]]"
+  - "[[Network State]]"
+  - "[[Neocameralism]]"
+  - "[[The Sovcorp Overlay]]"
+Tags:
+  - business
+  - network-state
+  - startup-city
+  - ZEDE
+  - Honduras
+  - Thiel
+  - Balaji
+  - neocameralism
+  - Bitcoin
+  - sovereign-jurisdiction
+Aliases:
+  - Honduras Próspera Inc.
 ---
-
 # Próspera
 
-## 🔍 Summary
-A privately-managed "Startup City" and autonomous jurisdiction located on the island of Roatán, Honduras. Operating under the **ZEDE** (Zone for Employment and Economic Development) framework, Próspera is the most advanced physical implementation of **[[Network State]]** and **[[Neocameralism]]**. It functions as a "Governance Platform" where residents and businesses choose their own regulatory and legal "BIOS" from a menu of international standards.
+Privately managed autonomous jurisdiction on the island of Roatán, Honduras. The most advanced existing physical implementation of Network State and neocameralist governance theory — a privately operated territory where law and regulation are treated as a service product rather than democratic outputs.
 
----
+Founded 2017 under Honduras's ZEDE (Zone for Employment and Economic Development) legal framework, which allowed the creation of semi-autonomous special economic zones with their own governance, taxation, and regulatory systems.
 
-## 🧬 The "Operational" Piston
+## The Governance Model
 
-### 1. The 2026 Sovereign Friction
-* **The $10.7B Lawsuit:** Following the 2022 repeal of the ZEDE law by the Honduran Congress, **Honduras Próspera Inc.** filed a **$10.775 billion** claim at the **ICSID** (World Bank). This amount represents nearly two-thirds of Honduras' national budget, creating a massive financial "kill-switch" to protect the city's 50-year legal stability.
-* **The Asfura Pivot:** The March 2026 inauguration of President **Nasry Asfura** has signaled a "Sovereign Re-entry." Asfura officially rejoined the ICSID Convention in March 2026, signaling a return to pro-investor governance and potentially settling the Próspera dispute.
+Próspera operates as a "governance platform" — residents and businesses select from a menu of legal and regulatory frameworks (international standards, common law, etc.) rather than being subject to a single national legal system. The managing council and arbitration court (staffed by former U.S. judges) function as private governance infrastructure.
 
-### 2. The Tax & Bitcoin BIOS
-* **The $5,000 Lump Sum:** Launched in February 2026, the **Próspera Tax Residency Program** allows digital nomads and tech professionals to pay a flat annual fee of **$5,000** to satisfy all income tax obligations, regardless of total earnings.
-* **Bitcoin Native:** Próspera remains the only jurisdiction where **Bitcoin** is used to pay all taxes and government fees. In March 2026, it hosted the "Bitcoin Poker Championship" as part of the *Infinite Games 2026* festival, demonstrating its role as a crypto-fintech hub.
+This is Yarvin's neocameralism applied physically: the state as a service provider, law as a product, residents as customers. The territory has its own tax system, healthcare regulations, and legal framework operating independently of Honduras proper.
 
-### 3. The Frontier Lab (Infinita City)
-* **BioHub & Longevity:** Próspera serves as a regulatory sandbox for frontier tech. On March 28, 2026, the **BioHub Startup Accelerator** held its Demo Day, showcasing breakthroughs in biotech and neurotech that utilize Próspera’s autonomous healthcare regulations.
+## The ZEDE Repeal and $10.7B Lawsuit
 
----
+In 2022, newly elected Honduran President Xiomara Castro repealed the ZEDE framework, threatening Próspera's legal basis. Honduras Próspera Inc. filed a $10.775 billion ICSID (World Bank International Centre for Settlement of Investment Disputes) arbitration claim — approximately two-thirds of Honduras's annual national budget.
 
-## 🔗 The "Ideological" Loop
-* **The Network State Phase 2:** Próspera is the "Hardware" for **[[Balaji Srinivasan]]**’s theories. It is a crowdfunded territory where digital communities achieve physical sovereignty.
-* **Neocameralist Governance:** Managed by a council and overseen by an arbitration court of former US judges, it operates as a "Sovereign Corporation" where the law is a service provided to customers (residents).
+The lawsuit mechanism is the most significant aspect: a private startup city using an international investment treaty to hold a sovereign democratic government financially hostage for repealing a law its electorate voted to eliminate. The exit-over-voice thesis made legally operational.
 
----
+## The Asfura Pivot (March 2026)
 
-## 📚 Citations
-1. **Próspera.co (Mar 2026):** [Governance Platform & 2026 Event Calendar](https://www.prospera.co/)
-2. **Colombia One (Jan 2026):** [Prospera: Honduras' Bitcoin City Project](https://colombiaone.com/2026/01/27/honduras-bitcoin-city-prospera/)
-3. **World Bank / ICSID (Mar 2026):** [Honduras Signs the ICSID Convention](https://icsid.worldbank.org/news-and-events/news-releases/honduras-signs-icsid-convention)
-4. **YB Case (Feb 2026):** [New Próspera Program for a One-Time Tax Payment](https://ybcase.com/en/news/novaa-programma-prospera-gonduras-po-edinovremennoj-vyplate-nalogov)
+The March 2026 inauguration of President Nasry Asfura — replacing Castro — signaled a shift. Honduras rejoined the ICSID Convention in March 2026, suggesting potential resolution of the Próspera dispute under friendlier governance.
+
+## Tax and Bitcoin Infrastructure
+
+**$5,000 flat tax program (February 2026):** Próspera launched a tax residency program allowing digital nomads to pay a flat $5,000 annual fee as their total tax obligation regardless of income — positioning itself as a tax haven for high earners.
+
+**Bitcoin payments:** Próspera accepts Bitcoin for all taxes and government fees — operating as a crypto-native jurisdiction.
+
+## The Thiel/Balaji Connection
+
+Próspera is backed by [[Peter Thiel]]'s Pronomos Capital — the same vehicle backing [[Praxis]]. Balaji Srinivasan has cited Próspera as a real-world demonstration of Network State theory. The investor and ideological network overlaps directly with the broader sovcorp project documented in this vault.
+
+## Citations
+
+- ZEDE framework, founding, governance model: [Wikipedia — Próspera](https://en.wikipedia.org/wiki/Pr%C3%B3spera)
+- ZEDE repeal, $10.775B ICSID claim: [Wikipedia — Próspera](https://en.wikipedia.org/wiki/Pr%C3%B3spera)
+- Honduras ICSID re-accession March 2026: [ICSID](https://icsid.worldbank.org/news-and-events/news-releases/honduras-signs-icsid-convention)
+- $5,000 flat tax program February 2026: [YB Case](https://ybcase.com/en/news/novaa-programma-prospera-gonduras-po-edinovremennoj-vyplate-nalogov)
+- Pronomos Capital backing: [Wikipedia — Pronomos Capital](https://en.wikipedia.org/wiki/Pronomos_Capital)
