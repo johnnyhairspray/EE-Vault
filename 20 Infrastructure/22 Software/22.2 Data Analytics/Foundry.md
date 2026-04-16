@@ -1,37 +1,61 @@
 ---
-type: Software
-tags:
+Category: Entity
+Sub-category: Infrastructure
+Type: Software
+Sub-type: Enterprise Data Integration
+Status: Active
+Confidence: Verified
+Developer: "[[Palantir Technologies]]"
+Connected-to:
+  - "[[Palantir Technologies]]"
+  - "[[ImmigrationOS]]"
+  - "[[Project Maven]]"
+Links:
+  - "[[Palantir Technologies]]"
+  - "[[The Privatized Panopticon]]"
+Tags:
+  - infrastructure
+  - software
   - data-integration
-  - digital-twin
   - ontology
-  - surveillance
-architect:
-  - "[[Peter Thiel]]"
-  - "[[Alex Karp]]"
-  - "[[10 Entities/11 People/11.1 Political/JD Vance]]"
-parent_brand: "[[Palantir Technologies]]"
-status: "#evergreen"
+  - enterprise
+  - government
+  - Palantir
+  - digital-twin
+Aliases:
+  - Foundry
+  - Palantir Foundry
 ---
-
 # Palantir Foundry
 
-## 🔍 Summary
-The "Operating System" for the modern administrative state. Foundry integrates disparate data silos into a single "Ontology"—a digital mirror of real-world objects (people, assets, locations) and their relationships.
+Palantir's enterprise data integration and analytics platform. The commercial counterpart to Gotham — where Gotham is designed for intelligence and law enforcement operations, Foundry is designed for enterprise and government operational workflows.
 
----
+## The Ontology Model
 
-### 🧬 The "Convergence" Logic
-1. **The Ontology Piston:** Instead of searching raw rows of data, Foundry allows the state to interact with "Objects." A person is no longer a name in a database; they are an object with properties (credit score, location history, social sentiment) and links to other objects (family, employers, [[Antifa]]).
-2. **The IoT Edge:** Acts as the ingestion layer for billion of sensor readings from edge hardware. It integrates commercial smart devices with federal health and financial data to create a "Total Behavioral Profile".
+Foundry's core architectural concept is the "ontology" — a semantic model that represents real-world entities (people, organizations, assets, locations, events) as "objects" with properties and relationships, rather than as rows in isolated databases.
 
----
+Instead of querying: "Find all rows in the IRS table where SSN = X," Foundry allows querying: "Show me everything connected to this person across all integrated data sources — their financial records, location history, employment records, benefit enrollment, and who else they're connected to."
 
-### 🔗 Active 2026 Connections
-* **Administrative:** Provides the technical foundation for [[NSPM-7]], enabling the **National Vetting Center** to trace an object's "complete journey" across the federal grid.
-* **Commercial:** Used by massive corporations to optimize "Process Efficiency," creating a shared data language between the private sector and the state's enforcement engines.
+The practical effect: data from disparate government agencies, commercial databases, and sensor networks becomes a unified, queryable graph. The same architecture underlying ImmigrationOS's enforcement targeting and Project Maven's military targeting.
 
----
+## Government Deployments
 
-## 📚 Citations
-1. **Palantir Documentation (March 2026):** "Foundry Release Notes: Autopilot and Object-Level Tracing."
-2. **Proxet (March 2026):** "Building end-to-end data-driven solutions with Palantir Foundry and AIP."
+Foundry underpins a growing list of federal government operations:
+- DOGE data access operations (Treasury, IRS, Social Security Administration data accessed in early 2025 ran through Palantir infrastructure)
+- NHS (UK) supply chain during COVID — Foundry's first major high-profile government deployment
+- Multiple DoD logistics and operations platforms
+- State-level health systems across the U.S.
+
+## The Oracle Partnership
+
+The April 2024 Oracle-Palantir strategic partnership moved Palantir's federal Foundry workloads onto Oracle Cloud Infrastructure — combining Foundry's analytics and ontology layer with Oracle's classified cloud hardware. The combined stack is the primary AI analytics infrastructure for U.S. national security workloads.
+
+## The Commercial-Government Bridge
+
+Foundry's most significant architectural feature for vault purposes: it creates a common data language between commercial enterprises and government enforcement infrastructure. When a corporation uses Foundry to manage its supply chain and the government uses Foundry to manage enforcement targeting, the same ontology model can map an individual across both environments.
+
+## Citations
+
+- Foundry architecture, ontology model: [Palantir Documentation 2026] | [Proxet March 2026]
+- Oracle partnership, federal workloads: [[Oracle]] vault note | [[Palantir Technologies]] vault note
+- DOGE data access: [[DOGE]] vault note
