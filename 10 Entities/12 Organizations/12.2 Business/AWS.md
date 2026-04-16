@@ -1,40 +1,66 @@
 ---
-type: Organization
-sub_type: Business
-tags:
-  - cloud-infrastructure
-  - sovereign-cloud
-  - high-performance-computing
-  - national-security
-parent_entity: "[[Amazon]]"
-links:
-  - "[[National Vetting Center]]"
-  - "[[The Stargate Project]]"
-  - "[[LexID]]"
+Category: Entity
+Sub-category: Organization
+Type: Business
+Sub-type: Cloud Infrastructure
+Status: Active
+Confidence: Verified
+Founded: 2006
+Headquarters: Seattle, Washington
+Parent-org: "[[Amazon]]"
+Key-figures:
+  - "[[Jeff Bezos]]"
+Connected-to:
+  - "[[Amazon]]"
+  - "[[CIA]]"
   - "[[Palantir Technologies]]"
-status: "#evergreen"
+  - "[[The Privatized Panopticon]]"
+Links:
+  - "[[Amazon]]"
+  - "[[CIA]]"
+  - "[[Palantir Technologies]]"
+  - "[[The Privatized Panopticon]]"
+Tags:
+  - business
+  - cloud
+  - intelligence-community
+  - government-contracts
+  - classified
+  - surveillance-infrastructure
+Aliases:
+  - Amazon Web Services
 ---
-
 # AWS (Amazon Web Services)
 
-## 🔍 Summary
-The world’s dominant cloud infrastructure provider. In 2026, AWS serves as the primary host for the U.S. Intelligence Community and Department of Defense. Under a **$50 billion** multi-year expansion beginning in 2026, AWS is adding **1.3 gigawatts** of new computing capacity across its classified and government-only cloud environments to support high-performance AI and supercomputing.
+Amazon's cloud computing subsidiary. World's largest cloud provider by market share. Dominant infrastructure provider for the U.S. Intelligence Community.
 
-## 🧬 The "Infrastructure" Piston
-* **Classified Cloud Regions:** AWS maintains physically and logically separated regions for government data, including **AWS Top Secret**, **AWS Secret**, and **AWS GovCloud (US)**. These regions are accredited to Impact Level 6 (IL6) and ICD 503 standards for classified workloads.
-* **Project Rainier:** Described as the world's largest AI supercomputer in 2026, Project Rainier utilized advanced AWS Trainium chips and networking to provide the "Compute Substrate" for national security AI missions.
-* **Amazon Bedrock for Government:** In early 2026, AWS expanded **Bedrock** (a managed foundation model service) into GovCloud regions, allowing federal agencies to deploy models like **Claude 4.6** and **Amazon Nova** within a secure, private VPC environment.
-* **AgentCore Integration:** A 2026-era production runtime that enables agencies to deploy autonomous "Agentic Workflows" for processing massive datasets, such as citizen grievances or vetting audits, with native IAM security.
+## Intelligence Community Footprint
 
-## 🔗 The "Vetting" Loop
-* **The Hosting Rail:** AWS provides the "Always-On" infrastructure for the **[[National Vetting Center]]** and its associated **[[LexID]]** databases.
-* **The Extraction Interface:** Tools like **AWS Security Hub** (expanded to GovCloud in March 2026) provide near real-time risk analytics and threat chain visualization across these federal environments.
-* **The Intelligence Link:** Through the **C2S (Commercial Cloud Services)** contract, AWS remains the "Digital Heart" of the CIA and NSA, linking their data streams to the private sector extraction market.
+AWS operates classified cloud environments specifically for U.S. government and intelligence workloads:
 
----
+- **AWS Top Secret** — accredited for Top Secret/SCI workloads
+- **AWS Secret** — accredited for Secret-level workloads
+- **AWS GovCloud (US)** — for sensitive but unclassified government data
 
-## 📚 Citations
-1. **DHInsights (Jan 2026):** [Amazon to invest up to $50B in AI and supercomputing for federal agencies](https://dhinsights.org/news/amazon-to-invest-up-to-50b-in-ai-and-supercomputing-for-federal-agencies)
-2. **AWS Federal (2026):** [AWS Secret Cloud and Top Secret Cloud Overview](https://aws.amazon.com/federal/secret-cloud/)
-3. **AWS News (Feb 2026):** [Claude Sonnet 4.6 in Amazon Bedrock and Kiro in GovCloud Regions](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-4-6-in-amazon-bedrock-kiro-in-govcloud-regions-new-agent-plugins-and-more-february-23-2026/)
-4. **W.Media (Nov 2025):** [AWS to invest US$50 billion to expand AI and supercomputing infrastructure](https://w.media/aws-to-invest-us50-billion-to-expand-ai-and-supercomputing-infrastructure-for-the-u-s-government/)
+The CIA's C2S (Commercial Cloud Services) contract — awarded to AWS in 2013 — established Amazon as the primary cloud infrastructure for the intelligence community. NSA, DIA, and numerous other agencies operate on AWS classified infrastructure.
+
+## The $50B National Security Expansion (2026)
+
+AWS announced a $50 billion investment to add approximately 1.3 gigawatts of AI and supercomputing capacity across its national security cloud regions, deploying specialized AI chips including AWS Trainium for classified inference workloads. **Project Rainier** — described as a world-scale AI supercomputer — is the flagship product of this expansion, providing compute substrate for national security AI missions.
+
+**Amazon Bedrock for Government (early 2026):** AWS expanded its managed AI model service into GovCloud regions, allowing federal agencies to deploy frontier AI models including Anthropic's Claude within private, air-gapped cloud environments.
+
+## The Palantir Rail
+
+Palantir's federal workloads run extensively on AWS infrastructure. The combination of Palantir's targeting and surveillance software with AWS's classified cloud creates the primary operational layer for federal surveillance and enforcement applications — including ImmigrationOS deployed for ICE.
+
+## The Fourth Amendment Architecture
+
+The legal architecture enabling government use of AWS-hosted commercial data without warrants is the same clean room structure documented across the vault: data collected commercially from consumers, stored on AWS, accessible to government agencies through lawful process or data broker purchase — bypassing Fourth Amendment warrant requirements that apply to direct government data collection.
+
+## Citations
+
+- CIA C2S contract 2013, intelligence community cloud: [Wikipedia — Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services)
+- $50B expansion, Project Rainier, 1.3 GW: [About Amazon](https://www.aboutamazon.com/news/company-news/amazon-ai-investment-us-federal-agencies) | [W.Media](https://w.media/aws-to-invest-us50-billion-to-expand-ai-and-supercomputing-infrastructure-for-the-u-s-government/)
+- Bedrock for Government, Claude in GovCloud: [AWS News](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-4-6-in-amazon-bedrock-kiro-in-govcloud-regions-new-agent-plugins-and-more-february-23-2026/)
+- AWS classified region accreditation levels: [AWS Federal](https://aws.amazon.com/federal/secret-cloud/)
