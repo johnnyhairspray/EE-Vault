@@ -1,51 +1,63 @@
 ---
-type: Infrastructure
-sub_type: Software
-tags:
-  - surveillance
-  - predictive-analytics
-  - geospatial-intelligence
-  - targeting
-  - mass-removal
-developer: "[[Palantir Technologies]]"
-links:
-  - "[[ImmigrationOS]]"
+Category: Entity
+Sub-category: Infrastructure
+Type: Software
+Sub-type: Immigration Enforcement / Geospatial Targeting
+Status: Active
+Confidence: Verified
+Developer: "[[Palantir Technologies]]"
+Connected-to:
+  - "[[Palantir Technologies]]"
   - "[[ICE]]"
-  - "[[AWS]]"
-  - "[[Antifa]]"
-  - "[[National Vetting Center]]"
-status: "#evergreen"
+  - "[[ImmigrationOS]]"
+Links:
+  - "[[Palantir Technologies]]"
+  - "[[ICE]]"
+  - "[[ImmigrationOS]]"
+  - "[[The Privatized Panopticon]]"
+Tags:
+  - infrastructure
+  - software
+  - geospatial
+  - targeting
+  - ICE
+  - Palantir
+  - Medicaid-data
+  - dissident-tracking
+  - First-Amendment
+Aliases:
+  - Enhanced Leads Identification and Targeting for Enforcement
 ---
+# ELITE
 
-# ELITE (Enhanced Leads Identification & Targeting for Enforcement)
+Enhanced Leads Identification and Targeting for Enforcement. Palantir Technologies' geospatial targeting component within [[ImmigrationOS]], deployed for ICE. Maps enforcement targets in real time and generates Address Confidence Scores indicating likelihood of a subject being at a specific location.
 
-## 🔍 Summary
-A geospatial targeting application developed by **[[Palantir Technologies]]** and utilized by **[[ICE]]** to prioritize and execute enforcement actions. ELITE populates a real-time map with potential deportation targets, generating a digital dossier for each individual and providing an **"Address Confidence Score"** to verify their current physical location.
+## The Medicaid Data Problem
 
-## 🧬 The "Targeting" Piston
+ELITE incorporates address data from HHS — specifically Medicaid enrollment records — to refine location predictions for enforcement targets. The use of public health enrollment data for immigration enforcement creates a documented chilling effect: individuals eligible for Medicaid may avoid enrollment to avoid generating a data trail accessible to ICE.
 
-### 1. The Medicaid Collision
-* **Health Data Ingestion:** ELITE incorporates address data from the Department of Health and Human Services (HHS), specifically leveraging **Medicaid records** to pinpoint subjects who have interacted with the public health system.
-* **Accuracy Modeling:** The tool uses advanced analytics to determine the likelihood of a target being at a specific residence, with one ICE officer testifying that ELITE "tells you how many people are living in this area and what’s the likelihood of them actually being there".
+One ICE officer testified that ELITE "tells you how many people are living in this area and what's the likelihood of them actually being there" — describing a system that generates probabilistic assessments of where enforcement targets will be found, fed partly by health care enrollment.
 
-### 2. Dissident & Protest Monitoring
-* **The "Nice Little Database":** In early 2026, field reports and court testimony confirmed that ICE is using ELITE to track not only undocumented immigrants but also U.S. citizens categorized as "activists," "agitators," or "dissidents".
-* **Protester Recordkeeping:** The system maintains records on legal observers and protesters critical of ICE policy. In one March 2026 interaction, a federal agent informed a protester in Maine that she had been added to a "nice little database" used for monitoring vocal critics.
-* **Digital Unmasking:** ICE utilizes administrative subpoenas via ELITE-integrated workflows to demand personal data from Meta and Google to unmask anonymous social media accounts associated with **[[Antifa]]** and other protest groups.
+Palantir's official response to EFF reporting disputed characterizations of the Medicaid data integration, stating the tool doesn't access patient medical records — a technically narrow claim that doesn't address the use of enrollment address data.
 
-### 3. Tactical Integration
-* **Mobile Dossiers:** Field agents access ELITE via mobile devices to pull up "on the spot" dossiers during encounters, often linked to facial recognition and social media monitoring tools.
-* **Biometric Synchronization:** Data captured during protest arrests or field stops is fed back into ELITE to refine the "Targeting Loop" for future extractions.
+## The U.S. Citizen and Dissident Monitoring
 
-## 🔗 The "Vetting" Loop
-* **The Identifier Link:** ELITE resolves fragmented identities into a high-confidence **[[LexID]]** or **[[RampID]]** cluster, ensuring that kinetic resources are deployed with maximum precision.
-* **The Political Link:** The tool serves as the primary mechanism for the "Database-Led" enforcement strategy advocated by **[[Stephen Miller]]** to facilitate mass-scale removals.
+Court testimony and field reporting in early 2026 confirmed ELITE was tracking not only immigration enforcement targets but U.S. citizens categorized as "activists," "agitators," or "dissidents."
 
----
+In a March 2026 encounter in Maine, a federal agent told a protester she had been added to a "nice little database" used to monitor vocal critics of ICE. This was not an isolated anecdote — it reflects the documented expansion of ELITE beyond its stated immigration enforcement function.
 
-## 📚 Citations
-1. **The Guardian (Feb 2026):** [Palantir beats Wall Street expectations amid Trump immigration crackdown](https://www.theguardian.com/technology/2026/feb/02/palantir-financial-results-ice-trump-immigration)
-2. **EFF (Jan 2026):** [Report: ICE Using Palantir Tool That Feeds On Medicaid Data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
-3. **NPR / WUSF (Mar 2026):** [ICE has spun a massive surveillance web. We talked to people caught in it](https://www.wusf.org/2026-03-04/ice-has-spun-a-massive-surveillance-web-we-talked-to-people-caught-in-it)
-4. **Palantir Blog (Jan 2026):** [Correcting the Record: Response to the EFF January 15, 2026 Report on Palantir](https://blog.palantir.com/correcting-the-record-response-to-the-eff-january-15-2026-report-on-palantir-4b3a12536cd2)
-5. **KLCC / NPR (Feb 2026):** [How ICE is using surveillance technology in immigration crackdowns](https://www.klcc.org/npr-news/2026-02-02/how-ice-is-using-surveillance-technology-in-immigration-crackdowns)
+ICE has also used ELITE-integrated administrative subpoena workflows to demand personal data from Meta and Google to unmask anonymous social media accounts associated with protest activity — using immigration enforcement legal authority to identify political critics.
+
+## The Domestic Surveillance Expansion
+
+The pattern is documented: a platform built for immigration enforcement expanding to monitor U.S. citizens engaged in constitutionally protected political activity. The technical infrastructure doesn't distinguish between targets by citizenship status or activity type — it processes data and generates profiles regardless.
+
+ELITE is the operational node where the immigration enforcement infrastructure documented elsewhere in the vault directly intersects with First Amendment activity.
+
+## Citations
+
+- Medicaid data integration, address confidence scoring: [EFF January 2026](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
+- Palantir correction/response: [Palantir Blog January 2026](https://blog.palantir.com/correcting-the-record-response-to-the-eff-january-15-2026-report-on-palantir-4b3a12536cd2)
+- "Nice little database" Maine protester encounter: [NPR/WUSF March 2026](https://www.wusf.org/2026-03-04/ice-has-spun-a-massive-surveillance-web-we-talked-to-people-caught-in-it)
+- Social media unmasking subpoenas: [KLCC/NPR February 2026](https://www.klcc.org/npr-news/2026-02-02/how-ice-is-using-surveillance-technology-in-immigration-crackdowns)
+- Palantir financial results amid crackdown: [The Guardian February 2026](https://www.theguardian.com/technology/2026/feb/02/palantir-financial-results-ice-trump-immigration)
