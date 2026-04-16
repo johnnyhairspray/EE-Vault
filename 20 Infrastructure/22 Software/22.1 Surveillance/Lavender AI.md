@@ -1,38 +1,67 @@
 ---
-type: Infrastructure
-sub_type: Software
-tags:
-  - AI-profiling
-  - target-generation
-  - automated-warfare
-  - unit-8200
-developer: "[[Unit 8200]]"
-links:
-  - "[[Project Maven]]"
-  - "[[Where's Daddy]]"
-  - "[[Gospel AI]]"
+Category: Entity
+Sub-category: Infrastructure
+Type: Software
+Sub-type: Military AI / Target Generation
+Status: Active
+Confidence: Verified
+Developer: "[[Unit 8200]]"
+Connected-to:
+  - "[[Unit 8200]]"
   - "[[Palantir Technologies]]"
-  - Where's Daddy?
-status: "#evergreen"
+  - "[[Project Maven]]"
+Links:
+  - "[[Unit 8200]]"
+  - "[[Palantir Technologies]]"
+  - "[[Project Maven]]"
+  - "[[Where's Daddy.md]]"
+Tags:
+  - infrastructure
+  - software
+  - military-AI
+  - targeting
+  - Gaza
+  - Unit-8200
+  - AI-profiling
+  - autonomous-weapons
+  - civilian-casualties
+Aliases:
+  - Lavender
 ---
+# Lavender AI
 
-# Lavender
+AI-powered targeting and profiling system developed by [[Unit 8200]] (IDF Signals Intelligence). Assigns "suspicion scores" to individuals based on behavioral data analysis, generating targeting recommendations for military strikes.
 
-## 🔍 Summary
-Lavender is an AI-powered database and recommendation system developed by **[[Unit 8200]]** to identify and categorize individuals for kinetic targeting. Unlike **[[Gospel AI]]**, which targets structures and buildings, Lavender profiles *people*, processing vast streams of mass-surveillance data to assign a "suspicion score" (1–100) to nearly every resident in a monitored area. At its peak, the system identified up to **37,000 individuals** as potential targets for military action.
+## How It Works
 
-## 🧬 The "Profiling" Piston
-* **Automated Suspicion Scoring:** Lavender analyzes behavioral patterns—including social media connections, movement routes, communication frequency, and "relevant features" (such as gender and age)—to statistically assess affiliation with dissident or militant groups.
-* **The "Rubber Stamp" Protocol:** Operationally, human analysts often spend as little as **20 seconds** reviewing a Lavender-generated target before authorizing a strike, primarily checking only if the target is male.
-* **Acceptable Error Rates:** Internal IDF documentation revealed that Lavender had a verified **10% error rate** (identifying people with no militant links). Despite this, the system's use was authorized for mass target generation to maintain the "tempo" of the kill chain.
+Lavender processes mass surveillance data — social media connections, movement routes, communication frequency, demographic characteristics — to assign a 1–100 suspicion score to individuals in the monitored area. At its peak deployment during the Gaza conflict, the system generated approximately **37,000 individual targeting designations**.
 
-## 🔗 The "Technate" Loop
-* **The Commercial Nexus:** Through strategic partnerships, the algorithmic logic behind Lavender—specifically its ability to fuse fragmented data into a unified "Risk Profile"—has been integrated into **[[Palantir Technologies]]**' Artificial Intelligence Platform (AIP).
-* **Domestic Repurposing:** Civil rights observers warn that Lavender's profiling architecture is the direct template for domestic "Social Credit" and "Threat Assessment" systems. By lowering the threshold for what constitutes a "target," it enables the mass classification of entire populations as "Risks".
+The system identifies people rather than structures (that function belongs to The Gospel). Output: a list of individuals ranked by their estimated probability of militant affiliation.
 
----
+## The Human Oversight Problem
 
-## 📚 Citations
-1. **The Guardian (Apr 2024):** [Lavender: The AI machine directing Israel’s bombing campaign in Gaza](https://www.theguardian.com/world/2024/apr/03/israel-gaza-lavender-ai-database-hamas-targets)
-2. **IISS (Apr 2026):** [The Proliferation of AI-Enabled Military Technology in the Middle East](https://www.iiss.org/online-analysis/charting-middle-east/2026/04/the-proliferation-of-ai-enabled-military-technology-in-the-middle-east/)
-3. **PIR Center (Feb 2026):** [Hacking the Future: AI Reshaping International Security](https://pircenter.org/en/editions/%E2%84%96-7-16-2026-hacking-the-future-how-artificial-intelligence-and-new-technologies-reshape-international-security/)
+The +972 Magazine and Local Call investigation (April 2024) documented that human operators spent an average of **20 seconds** reviewing each Lavender-generated targeting designation before authorizing a strike. The primary human check: confirming the target was male.
+
+Internal IDF documentation acknowledged a **10% error rate** — meaning approximately 1 in 10 individuals flagged by Lavender had no militant links. This error rate was known and the system was authorized for continued use at scale to maintain operational tempo.
+
+The math: 37,000 designations × 10% error rate = approximately 3,700 individuals flagged with no militant connection. At 20 seconds of human review each, the "human in the loop" was functionally a rubber stamp.
+
+## The Palantir Integration
+
+Through the 2024 strategic partnership between Palantir and Israel's Ministry of Defense, Lavender's algorithmic architecture — fusing fragmented surveillance data into unified risk profiles — was integrated into Palantir's commercial Artificial Intelligence Platform (AIP). The targeting logic developed for Gaza operations is now available as a commercial product.
+
+## The Vault Significance
+
+Lavender is the most thoroughly documented case of AI-enabled mass targeting with degraded human oversight. It establishes:
+
+1. That AI target generation at scale with minimal human review is operationally deployed and sanctioned
+2. That a documented 10% civilian error rate was considered acceptable at operational scale
+3. That the commercial infrastructure (Palantir) has absorbed the military targeting logic and is offering it as a product
+
+The domestic surveillance parallel: scoring systems that assign risk values to individuals based on behavioral data and demographic characteristics — without meaningful human review before action — are the logical extension of the same architecture into law enforcement contexts.
+
+## Citations
+
+- 37,000 designations, 20-second review, 10% error rate, rubber stamp protocol: [The Guardian April 2024](https://www.theguardian.com/world/2024/apr/03/israel-gaza-lavender-ai-database-hamas-targets) | [+972 Magazine](https://www.972mag.com/lavender-ai-israeli-army-gaza/)
+- AI proliferation in Middle East: [IISS April 2026](https://www.iiss.org/online-analysis/charting-middle-east/2026/04/the-proliferation-of-ai-enabled-military-technology-in-the-middle-east/)
+- Palantir AIP integration: [[Palantir Technologies]] vault note
