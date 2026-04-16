@@ -1,40 +1,72 @@
 ---
-type: Infrastructure
-sub_type: Software
-tags: [data-sovereignty, algorithm-vetting, information-utility]
-investor: ["[[Oracle]]", "[[Silver Lake]]", "[[MGX]]"]
-governance: "TikTok USDS Joint Venture LLC"
-links:
+Category: Entity
+Sub-category: Operation
+Type: Digital
+Sub-type: Data Sovereignty / Corporate Restructuring
+Status: Active
+Confidence: Verified
+Date-finalized: 2026-01-22
+Investors:
   - "[[Oracle]]"
-  - "[[Palantir Technologies]]"
-  - "[[National Vetting Center]]"
-status: "#evergreen"
+  - Silver Lake
+  - MGX
+Governance: TikTok USDS Joint Venture LLC
+Connected-to:
+  - "[[Oracle]]"
+  - "[[Larry Ellison]]"
+  - "[[Donald Trump]]"
+Links:
+  - "[[Oracle]]"
+  - "[[Larry Ellison]]"
+  - "[[Donald Trump]]"
+  - "[[The Privatized Panopticon]]"
+Tags:
+  - operation
+  - digital
+  - TikTok
+  - data-sovereignty
+  - Oracle
+  - CFIUS
+  - algorithm
+  - 170-million-users
+Aliases:
+  - TikTok USDS
+  - TikTok divestiture
+  - USDS Joint Venture
 ---
-
 # Project Texas (TikTok USDS)
 
-## 🔍 Summary
-Originally a $1.5 billion data-security initiative, **Project Texas** was finalized on January 22, 2026, as a mandatory divestiture deal. It transferred operational control of TikTok’s U.S. infrastructure to a joint venture led by **[[Oracle]]**, Silver Lake, and MGX. In the 2026 Technate, this is the definitive model for **"Sovereign Data Extraction"**—where a platform's code and user data are isolated within a U.S.-controlled cloud to ensure federal oversight of the national information environment.
+Finalized January 22, 2026. The mandatory restructuring of TikTok's U.S. operations as a condition of avoiding an outright ban. Transferred operational control to TikTok USDS Joint Venture LLC — a U.S. entity majority-controlled by Oracle, Silver Lake, and MGX (Abu Dhabi sovereign capital).
 
-## 🧬 The "Sovereignty" Piston
+## The Deal Structure
 
-### 1. The Algorithm Reset
-* **Retraining Mandate:** Under the 2026 deal, the TikTok algorithm is being entirely **retrained** using exclusively U.S. user data. 
-* **Validation:** **[[Oracle]]** serves as the "Trusted Security Partner," reviewing and validating every line of source code on an ongoing basis to ensure no "foreign influence" or "ideological bias" is hard-coded into the feed.
+**Oracle as Trusted Security Partner:** All TikTok U.S. source code is stored, reviewed, and validated by Oracle on an ongoing basis. Oracle employs the engineers who maintain the U.S. algorithm. ByteDance (Chinese parent) is technically and physically barred from accessing U.S. user data or making U.S. content moderation decisions.
 
-### 2. The Oracle Cloud "Vault"
-* **Data Isolation:** All data for 170 million U.S. users is stored in a dedicated Oracle U.S. cloud environment. 
-* **Operational Separation:** ByteDance (the original parent) is physically and technically barred from accessing U.S. user data or making content moderation decisions.
-* **The "Kill Switch":** The U.S. government maintains oversight via **CFIUS**, with the authority to suspend the app's operation if security audits reveal unauthorized data transfers.
+**Data isolation:** All data for 170 million U.S. users is stored in a dedicated Oracle U.S. cloud environment — Oracle Cloud Infrastructure, the same infrastructure used for classified U.S. government workloads.
 
-### 3. Federal Integration (The "Friction" Link)
-* **Content Moderation:** The Joint Venture holds sole authority for "Trust & Safety" policies, effectively allowing the state to set the parameters for what constitutes "disorderly" content under **[[14321]]**.
-* **Vetting Pipeline:** By isolating U.S. user data, Project Texas creates a clean stream of behavioral data that can be cross-referenced with the **[[National Vetting Center]]** to identify domestic "Friction" targets.
+**CFIUS oversight:** The U.S. government maintains the authority to suspend TikTok's operation if security audits reveal unauthorized data transfers. The government can effectively shut down the app with documented process.
 
----
+**Algorithm retraining:** The TikTok recommendation algorithm is being retrained using exclusively U.S. user data — removing ByteDance's original training data and influence from the U.S. feed.
 
-## 📚 Citations
-1. **ALM Corp (Jan 2026):** [TikTok US Deal Analysis: Oracle Partnership Complete 2026](https://almcorp.com/blog/tiktok-us-deal-oracle-partnership-analysis-2026/)
-2. **CBS News (Jan 2026):** [TikTok finalizes deal to form new U.S. entity to avoid ban](https://www.cbsnews.com/news/tiktok-deal-ban-oracle/)
-3. **ITIF (Jan 2026):** [Five Takeaways from the TikTok Deal](https://itif.org/publications/2026/01/26/five-takeaways-from-the-tiktok-deal/)
-4. **TikTok USDS (2026):** [The USDS Joint Venture: Safeguarding the U.S. Content Ecosystem](https://usdsjv.tiktok.com/)
+## The Ellison / Oracle Significance
+
+[[Larry Ellison]]'s Oracle holds approximately 15% of the TikTok USDS joint venture and serves as its security provider. Oracle, simultaneously:
+- Holds the CIA's C2S cloud contract
+- Runs the C2E intelligence community cloud
+- Manages classified DoD workloads
+- Now controls the infrastructure and source code for the algorithm reaching 170 million Americans
+
+Netanyahu told Israeli social media influencers in September 2025 that the TikTok deal was "the most important purchase that is going on right now" for Israel's social media influence strategy. Trump joked he'd like to make the algorithm "100% MAGA."
+
+## What This Creates
+
+Project Texas is the template for "sovereign data extraction" — isolating a foreign-owned platform's data and algorithm within U.S. government-adjacent infrastructure. The practical result: Oracle, which serves the U.S. intelligence community, now also controls the code and data of the platform that reaches 40% of Americans under 30.
+
+The clean room logic applies here too: Oracle doesn't need to hand data to the government — it already serves the government. The infrastructure is shared.
+
+## Citations
+
+- Deal finalization January 22, 2026, joint venture structure: [CBS News January 2026](https://www.cbsnews.com/news/tiktok-deal-ban-oracle/) | [ALM Corp January 2026](https://almcorp.com/blog/tiktok-us-deal-oracle-partnership-analysis-2026/)
+- Five takeaways: [ITIF January 2026](https://itif.org/publications/2026/01/26/five-takeaways-from-the-tiktok-deal/)
+- USDS JV documentation: [TikTok USDS](https://usdsjv.tiktok.com/)
+- Netanyahu "most important purchase," Trump "100% MAGA": [[Larry Ellison]] vault note
