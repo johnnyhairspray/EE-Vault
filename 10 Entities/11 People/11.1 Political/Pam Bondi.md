@@ -1,41 +1,63 @@
 ---
-type: Person
-sub_type: Political
-tags:
+Category: Entity
+Sub-category: People
+Type: Political
+Sub-type:
+Status: Former
+Confidence: Verified
+Born: 11/17/1965
+Died:
+Nationality: American
+Organization:
+  - "[[Department of Justice]]"
+Title:
+  - 87th Attorney General of the United States (Feb 5, 2025 – April 2, 2026)
+Connected-to:
+  - "[[Donald Trump]]"
+  - "[[NSPM-7]]"
+  - "[[ICE]]"
+  - "[[Department of Justice]]"
+Links:
+  - "[[Donald Trump]]"
+  - "[[NSPM-7]]"
+  - "[[ICE]]"
+  - "[[Department of Justice]]"
+Tags:
+  - political
   - DOJ
   - attorney-general
-  - judicial-override
-  - institutionalization
-organization:
-  - "[[Department of Justice]]"
-  - "[[America First Policy Institute]]"
-links:
-  - "[[14321 - Ending Crime and Disorder on America's Streets]]"
-  - "[[NSPM-7]]"
-  - "[[Accountability Centers 1]]"
-  - "[[Indefinite Detention]]"
-status: "#archived"
+  - judicial-manipulation
+  - death-penalty
+  - habeas-corpus
+  - NSPM-7
+Aliases:
+  - Pamela Jo Bondi
 ---
-
 # Pam Bondi
 
-## 🔍 Summary
-The 87th Attorney General of the United States, serving from February 5, 2025, to April 2, 2026. A career prosecutor and former Florida Attorney General, Bondi was tasked with leading the **"Judicial Override"** strategy to dismantle precedents that restricted involuntary civil commitment and mass removal operations.
+Born November 17, 1965. 87th Attorney General of the United States, confirmed February 5, 2025. Departed April 2, 2026. Former Florida Attorney General (2011–2019). Former lobbyist and America First Policy Institute fellow between government stints.
 
-## 🧬 The "Prosecutorial" Piston
-* **The 14321 Mandate:** Under **[[14321 - Ending Crime and Disorder on America's Streets]]**, Bondi directed the DOJ to challenge judicial consent decrees and precedents like *Martin v. Boise*, which had previously prohibited the clearing of encampments without providing alternative housing.
-* **Material Support Expansion:** Following the issuance of **[[NSPM-7]]**, she oversaw the legal reclassification of "civil disorder" as a domestic terrorism priority, allowing for the use of federal **Material Support** statutes against decentralized protest networks.
-* **Habeas Reform:** In March 2026, Bondi proposed a DOJ rule to streamline federal habeas review for capital cases, aiming to "reduce by years" the period between conviction and execution.
-* **The "Triumvirate" Controversy:** In 2026, Bondi attempted to circumvent the Senate confirmation process by installing a "triumvirate" of loyalists to lead top U.S. Attorneys' offices, a move later disqualified by federal judges as an "unprecedented assertion of executive power".
+## DOJ Tenure
 
-## 🔗 The "Grid" Loop
-* **The Facility Link:** Bondi provided the legal framework that allows **[[Accountability Centers 1]]** to operate on federal land as psychiatric facilities rather than criminal jails, bypassing Sixth Amendment protections.
-* **The ICE Link:** She coordinated DOJ resources to support **[[ICE]]** in the "National Removal" mission, integrating federal prosecutors directly into the tactical extraction loop.
+Bondi's tenure was characterized by using DOJ resources to advance the administration's immigration enforcement and domestic security agenda, and by attempts to restructure prosecutorial discretion.
 
----
+**Material Support / NSPM-7:** Following the issuance of [[NSPM-7]], Bondi oversaw the DOJ's legal framework treating "civil disorder" as a domestic terrorism priority — enabling use of federal Material Support statutes against decentralized protest networks and allowing anti-capitalism activism to be treated as a terrorism indicator.
 
-## 📚 Citations
-1. **Department of Justice (Mar 2026):** [DOJ Proposes Rule to More Quickly Achieve Justice in State Death Penalty Cases](https://www.justice.gov/opa/pr/department-justice-proposes-rule-more-quickly-achieve-justice-state-death-penalty-cases)
-2. **Democracy Docket (Mar 2026):** [Judge disqualifies 'triumvirate' leading U.S. attorney's office in NJ](https://www.democracydocket.com/news-alerts/judge-disqualifies-new-jersey-us-attorneys-office-trio/)
-3. **Wikipedia (Apr 2026):** [Pam Bondi: 87th United States Attorney General](https://en.wikipedia.org/wiki/Pam_Bondi)
-4. **Miller Center (2026):** [Pamela Bondi (2025- ) Biography](https://millercenter.org/pamela-bondi-2025)
+**Habeas corpus reform:** In March 2026, proposed a DOJ rule to streamline federal habeas review for capital cases, framed as reducing the period between conviction and execution. Critics characterized it as undermining one of the most fundamental procedural protections in the U.S. legal system.
+
+**The "Triumvirate" controversy:** Attempted to install three loyalists to lead top U.S. Attorney offices without Senate confirmation. Federal judges disqualified the appointments as an "unprecedented assertion of executive power." The episode illustrates the broader pattern of the administration attempting to staff enforcement infrastructure with political loyalists outside confirmation processes.
+
+**ICE coordination:** Integrated DOJ prosecutorial resources directly into the immigration enforcement pipeline, providing federal prosecution support for ICE operations.
+
+**Encampment clearances:** Directed DOJ to challenge judicial consent decrees limiting encampment clearances — specifically targeting *Martin v. Boise* precedent that had prohibited clearing homeless encampments without providing alternative housing.
+
+## The Florida Context
+
+As Florida AG (2011–2019), Bondi received a $25,000 donation from the Donald J. Trump Foundation while declining to pursue fraud allegations against Trump University — a documented pay-to-play controversy that preceded her Trump administration appointment.
+
+## Citations
+
+- Confirmation date, tenure: [Wikipedia — Pam Bondi](https://en.wikipedia.org/wiki/Pam_Bondi)
+- Habeas corpus DOJ rule March 2026: [DOJ](https://www.justice.gov/opa/pr/department-justice-proposes-rule-more-quickly-achieve-justice-state-death-penalty-cases)
+- Triumvirate disqualified by federal judge: [Democracy Docket](https://www.democracydocket.com/news-alerts/judge-disqualifies-new-jersey-us-attorneys-office-trio/)
+- Trump Foundation donation / Trump University: [Wikipedia — Pam Bondi](https://en.wikipedia.org/wiki/Pam_Bondi)
