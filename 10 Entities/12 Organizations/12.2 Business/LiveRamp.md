@@ -1,31 +1,61 @@
 ---
-type: Organization
-sub_type: Business
-tags:
-  - identity-resolution
-  - data-onboarding
-  - SaaS
-  - surveillance-capitalism
-formerly: "[[Acxiom Holdings]]"
-links:
+Category: Entity
+Sub-category: Organization
+Type: Business
+Sub-type: Data Broker
+Status: Active
+Confidence: Verified
+Founded: 2011
+Headquarters: San Francisco, California
+Key-figures:
+  - "[[Auren Hoffman]]"
+Connected-to:
   - "[[Acxiom]]"
   - "[[RapLeaf]]"
-  - "[[Social Graph Sensor]]"
-status: "#evergreen"
+  - "[[Auren Hoffman]]"
+  - "[[The Privatized Panopticon]]"
+Links:
+  - "[[Acxiom]]"
+  - "[[RapLeaf]]"
+  - "[[Auren Hoffman]]"
+  - "[[The Privatized Panopticon]]"
+Tags:
+  - business
+  - data-broker
+  - identity-resolution
+  - data-onboarding
+  - surveillance-capitalism
+  - clean-room
+Aliases:
+  - RAMP
+  - LiveRamp Holdings
 ---
-
 # LiveRamp
 
-## 🔍 Summary
-A public SaaS company (NYSE: RAMP) specializing in **Identity Resolution**—the process of connecting offline data (PII) to online digital identifiers. In 2026, it serves as the "Bridge" between the physical world and the digital surveillance economy.
+Identity resolution and data connectivity company. Founded 2011 as a division of [[Acxiom]], spun off and taken public. NYSE: RAMP. Over 95% institutional ownership as of 2025.
 
-## 🧬 The "Identity" Piston
-1. **Data Onboarding:** The industry leader in "onboarding" physical customer files into digital advertising and intelligence environments.
-2. **The "Clean Room" Rail:** Provides a neutral "Data Clean Room" where the state can join its private datasets with commercial records without "technically" sharing the raw PII.
-3. **Institutional Backing:** As of 2025, over **95%** of its stock is held by institutional investors, making it a key asset for **[[Larry Fink]]** style institutional capture.
+## What Identity Resolution Is
 
----
+Identity resolution is the process of linking different data records — across different systems, formats, and identifiers — to a single individual. LiveRamp's core product connects:
 
-## 📚 Citations
-1. **MatrixBCG (Nov 2025):** [Who Owns LiveRamp? - Ownership Transition and History](https://matrixbcg.com/blogs/owners/liveramp)
-2. **Wikipedia (2026):** [LiveRamp - History and Operations](https://en.wikipedia.org/wiki/LiveRamp)
+- **Offline PII** (name, address, email, phone) from CRM systems and purchase records
+- **Digital identifiers** (browser cookies, device IDs, mobile advertising IDs)
+- **Cross-platform identities** (linking a person's activity across apps, websites, and devices)
+
+The result: a persistent digital identity profile that follows a person across the fragmented digital ecosystem, enabling targeted advertising, audience modeling, and data analytics.
+
+## The Clean Room Product
+
+LiveRamp's "Data Clean Room" allows two organizations — typically a brand and a platform, or a commercial entity and a government agency — to perform analysis on combined datasets without either party seeing the other's raw data. The privacy-safe framing is technically accurate in the narrow sense that raw PII isn't directly exchanged.
+
+The vault relevance: clean rooms are the legal architecture enabling government entities to perform analytics on commercial consumer data without formally "accessing" it in ways that would require warrants. The Fourth Amendment constraint is bypassed not by breaking the rule but by restructuring the data sharing so the rule doesn't apply.
+
+## Ownership and Scale
+
+Over 95% of LiveRamp stock held by institutional investors — Vanguard, BlackRock, State Street among the largest. The company is thus not merely a data infrastructure provider but an asset in the portfolios of the same institutional investors that own stakes across the entire surveillance-capitalism ecosystem.
+
+## Citations
+
+- History, Acxiom relationship, founding: [Wikipedia — LiveRamp](https://en.wikipedia.org/wiki/LiveRamp)
+- 95% institutional ownership: [MatrixBCG](https://matrixbcg.com/blogs/owners/liveramp) | [PortersFiveForces](https://portersfiveforce.com/blogs/owners/liveramp)
+- Data clean room architecture: [LiveRamp — Clean Rooms](https://liveramp.com/our-platform/data-clean-rooms/)
