@@ -1,29 +1,50 @@
 ---
-type: Organization
-sub_type: Business
-tags:
-  - email-data
-  - historical
-  - extraction
-parent_entity: "[[TowerData]]"
-links:
+Category: Entity
+Sub-category: Organization
+Type: Business
+Sub-type: Data Broker
+Status: Defunct
+Confidence: Verified
+Founded: 2005
+Dissolved: 2013
+Headquarters: San Francisco, California
+Key-figures:
+  - "[[Auren Hoffman]]"
+Parent-org: TowerData (acquired 2013)
+Connected-to:
   - "[[LiveRamp]]"
   - "[[Auren Hoffman]]"
-status: "#archived"
+Links:
+  - "[[LiveRamp]]"
+  - "[[Auren Hoffman]]"
+  - "[[The Privatized Panopticon]]"
+Tags:
+  - business
+  - data-broker
+  - identity-resolution
+  - historical
+  - email-data
+Aliases:
 ---
-
 # RapLeaf
 
-## 🔍 Summary
-A historical "Identity Extraction" company that pioneered the practice of selling segmented data tied to email addresses. It is the biological root of **[[LiveRamp]]**.
+Early data broker company founded 2005 by [[Auren Hoffman]]. Pioneered the practice of selling consumer data segmented by email address. Acquired by TowerData in 2013. Historical significance: precursor to [[LiveRamp]] and the modern identity resolution industry.
 
-## 🧬 The "Historical" Piston
-1. **The LiveRamp Seed:** In 2011, RapLeaf created a "Data Onboarding" division named LiveRamp, which eventually consumed the parent company's brand and public identity.
-2. **The Extraction Infamy:** Notorious for its method of identifiable data extraction of tech company employees and selling identities, which forced major platforms like Facebook to limit its access in the early 2010s.
-3. **Current Status:** Acquired by **TowerData** in 2013 and exists now as an "archived" logic layer in the history of the modern Technate.
+## What RapLeaf Did
 
----
+RapLeaf built consumer profiles tied to email addresses — aggregating publicly available data, inferred demographics, purchase history, and social network data, then selling segmented audience profiles to marketers. The core innovation: email address as the persistent identifier linking offline identity to online behavior.
 
-## 📚 Citations
-1. **Wikipedia (2026):** [RapLeaf - History and Acquisition](https://en.wikipedia.org/wiki/RapLeaf)
-2. **Tracxn (2026):** [Rapleaf Company Profile](https://tracxn.com/d/companies/rapleaf/__GquCsw86i71BQK32vRa9NpTpQcI0ojn4EdWEvRA9ah4)
+This was technically novel in 2005. Major platforms treated email as a communication tool; RapLeaf treated it as a surveillance anchor.
+
+## The Facebook Incident
+
+RapLeaf was caught transmitting users' Facebook IDs to data brokers and advertisers — allowing third parties to link Facebook profiles to RapLeaf's dossiers without user consent. Facebook terminated RapLeaf's API access in 2010. The incident contributed to increased platform scrutiny of third-party data practices and was an early documented case of the identity-matching ecosystem operating outside user awareness or consent.
+
+## The LiveRamp Origin
+
+In 2011, RapLeaf launched an internal division called LiveRamp — focused on "data onboarding" (connecting offline CRM records to digital ad systems) rather than consumer profiling. This division proved more commercially viable and ultimately absorbed the parent company's identity. TowerData acquired RapLeaf in 2013; the LiveRamp brand survived and was sold to [[Acxiom]] in 2014 for $310 million.
+
+## Citations
+
+- History, Facebook incident, TowerData acquisition: [Wikipedia — RapLeaf](https://en.wikipedia.org/wiki/RapLeaf) | [Tracxn](https://tracxn.com/d/companies/rapleaf/)
+- LiveRamp origin: [Wikipedia — LiveRamp](https://en.wikipedia.org/wiki/LiveRamp)
