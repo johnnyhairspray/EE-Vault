@@ -1,36 +1,56 @@
 ---
-type: Infrastructure
-sub_type: Arsenal
-tags:
-  - superalloys
-  - thermal-protection
-  - Mar-M247
-  - nose-cone
-material_base: Nickel-based Superalloy
-links:
+Category: Entity
+Sub-category: Infrastructure
+Type: Hardware
+Sub-type: Weapons / Materials
+Status: Active
+Confidence: Verified
+Connected-to:
   - "[[C-HGB]]"
-  - "[[Lockheed Martin]]"
-  - "[[Dynetics]]"
-status: "#evergreen"
+Links:
+  - "[[C-HGB]]"
+Tags:
+  - infrastructure
+  - hardware
+  - hypersonic
+  - thermal-protection
+  - superalloy
+  - materials
+  - Mar-M247
+Aliases:
+  - TPS
+  - C-HGB Thermal Protection System
 ---
-
 # C-HGB Thermal Protection
 
-## 🔍 Summary
-The C-HGB's operational success depends on its **Thermal Protection System (TPS)**, which must withstand surface temperatures exceeding **1,100°C (2,000°F)** during its glide phase. To manage this, the vehicle's leading edges and nose tip utilize high-performance superalloys and ceramic matrix composites (CMCs) to prevent structural failure due to aero-heating.
+The thermal protection system (TPS) for the Common Hypersonic Glide Body — the material and engineering challenge of surviving atmospheric re-entry at Mach 5+ while maintaining structural integrity and maneuverability.
 
-## 🧬 The "Metallurgical" Piston
-* **The Mar-M247 Component:** **Mar-M247** is a polycrystalline nickel-base superalloy specifically favored for 2026 hypersonic applications due to its exceptional **creep strength** and oxidation resistance at high temperatures. 
-* **The "Tipping" Logic:** While the outer "skin" may use ablative materials or CMCs, the internal structural supports and critical "hot zone" components (like the vanes and the internal frame of the nose tip) are often cast from Mar-M247 or its single-crystal descendants (like PWA 1484).
-* **Manufacturing Surge:** Under the **[[One Big Beautiful Bill 1]]**'s industrial mandate, the U.S. has quadrupled its domestic vacuum-melting capacity for Mar-M247 to ensure a steady supply for the 2026 mass-production of the **[[Dark Eagle]]** all-up rounds.
+## The Engineering Problem
 
-## 🔗 The "Technate" Loop
-* **The Precision Gap:** The ability to maintain a sharp nose-cone geometry at Mach 5 is what allows the C-HGB to remain maneuverable. If the "tip" deforms due to heat, the **[[Project Maven]]** targeting data becomes useless, as the vehicle cannot execute the high-G turns required for precision impact.
-* **The Extraction Link:** The rare minerals required for Mar-M247—specifically **Cobalt (10%)** and **Tungsten (10%)**—are the primary drivers of the 2026 U.S. strategic interest in the DRC and the "Critical Minerals" clauses of the **[[Trump-Mladenov Peace Plan]]**.
+During its glide phase, the C-HGB experiences surface temperatures exceeding 1,100°C (2,000°F) from aerodynamic heating. If the nose cone deforms under heat, the vehicle loses its ability to execute the high-G maneuvering required for precision targeting — rendering the projectile inaccurate regardless of how well the upstream targeting systems have functioned.
 
----
+## Mar-M247 Superalloy
 
-## 📚 Citations
-1. **AZoM (2026):** [Super Alloy Mar M 247™ - Properties and Applications](https://www.azom.com/article.aspx?ArticleID=7808)
-2. **DefenseScoop (Jan 2026):** [US Army Orders Common Hypersonic Glide Body and Thermal Protection System Through 2029](https://defensescoop.com/2026/01/21/dark-eagle-hypersonic-weapon-army-fielding-plans/)
-3. **ResearchGate (2025):** [Effect of HIP on low cycle fatigue of MAR-M247 at 900°C](https://www.researchgate.net/publication/271131385_Effect_of_HIP_on_low_cycle_fatigue_of_MAR-M247_at_900C)
+**Mar-M247** is a polycrystalline nickel-base superalloy used in critical "hot zone" structural components — leading edges, nose cone internal frame, vanes. Key properties:
+
+- High creep strength at elevated temperatures
+- Oxidation resistance up to ~1,000°C
+- Castability for complex aerospace geometries
+
+Composition: approximately 59% nickel, 10% cobalt, 10% tungsten, 8.25% chromium, plus aluminum, titanium, hafnium, and carbon.
+
+The outer ablative skin may use ceramic matrix composites (CMCs) or ablative materials; the internal structural components use Mar-M247 or single-crystal descendants like PWA 1484.
+
+## The Critical Minerals Connection
+
+Mar-M247's cobalt (10%) and tungsten (10%) content drives U.S. strategic interest in cobalt supply chains — primarily the Democratic Republic of Congo, which holds approximately 70% of global cobalt reserves. The "critical minerals" provisions of recent U.S. strategic agreements, including the Trump-Zelensky mineral deal framework, reflect the materials dependency that hypersonic weapons programs create.
+
+## Production Scale-Up (2026)
+
+Under the Army's Dark Eagle program — the fielded hypersonic weapon using C-HGB — the U.S. contracted for Common Hypersonic Glide Body production through 2029. This requires significant expansion of domestic vacuum-melting capacity for nickel superalloys.
+
+## Citations
+
+- Mar-M247 composition and properties: [AZoM](https://www.azom.com/article.aspx?ArticleID=7808)
+- Dark Eagle TPS contract through 2029: [DefenseScoop January 2026](https://defensescoop.com/2026/01/21/dark-eagle-hypersonic-weapon-army-fielding-plans/)
+- Fatigue properties: [ResearchGate 2025](https://www.researchgate.net/publication/271131385_Effect_of_HIP_on_low_cycle_fatigue_of_MAR-M247_at_900C)
