@@ -1,45 +1,71 @@
 ---
-type: Administrative Memo
-tags:
-  - surveillance
-  - vetting
-  - national-security
-  - project-2025
-ideology:
-  - "[[Dark Enlightenment]]"
-  - "[[Christian Nationalism]]"
-  - "[[Technocracy Inc.]]"
-key_figures:
-  - "[[Stephen Miller]]"
+Category: Entity
+Sub-category: Infrastructure
+Type: Policy
+Sub-type: National Security Presidential Memorandum
+Status: Active
+Confidence: Verified
+Date-signed: 2025-09-25
+Connected-to:
   - "[[Donald Trump]]"
+  - "[[Stephen Miller]]"
   - "[[The Heritage Foundation]]"
-targets:
+Links:
+  - "[[Donald Trump]]"
+  - "[[Stephen Miller]]"
   - "[[Antifa]]"
-  - "[[Non-Profits]]"
-status: "#evergreen"
+  - "[[ICE]]"
+  - "[[The Privatized Panopticon]]"
+Tags:
+  - policy
+  - framework
+  - NSPM-7
+  - domestic-terrorism
+  - anti-capitalism
+  - nonprofit-surveillance
+  - IRS
+  - financial-surveillance
+  - First-Amendment
+Aliases:
+  - NSPM-7
+  - National Security Presidential Memorandum 7
 ---
-
 # NSPM-7: Countering Domestic Terrorism and Organized Political Violence
 
-## 🔍 Summary
-Issued **September 25, 2025**. This memorandum expands the **National Vetting Center (NVC)** to prioritize "Organized Political Violence." It directs the FBI’s **Joint Terrorism Task Forces (JTTFs)** to dismantle networks identified as domestic threats.
+National Security Presidential Memorandum issued September 25, 2025. Expands the domestic terrorism priority framework and directs federal agencies to treat organized political violence as a national security threat requiring the full counter-terrorism apparatus.
 
----
+## Key Provisions
 
-### 🧬 The "Convergence" Logic
-1. **The Extraction Piston:** Mandates the **Treasury** and **IRS** to map the financial donor networks of non-profits. This allows for the "Financial Extraction" of organizations flagged for "anti-American" or "anti-Christian" sentiments.
-2. **The Pre-emptive Grid:** It treats "radicalization" as a data pattern. By linking consumer data from [[The IoT]] to the NVC, the state can identify "fact patterns" of political violence before an act occurs.
-3. **The Designation Loop:** While not a formal legal status, it authorizes the AG to "recommend" groups like [[Antifa]] for domestic terrorist designation, triggering asset freezes and "Dawn Raids".
+**Anti-capitalism as terrorism indicator:** The most analytically significant provision. NSPM-7 explicitly flags anti-capitalist ideology as a terrorism-adjacent indicator. This is documented in the memorandum and confirmed by DLA Piper's December 2025 analysis. Holding anti-capitalist political views becomes a factor in domestic terrorism risk assessment — a viewpoint-based criterion rather than a conduct-based one.
 
----
+**Nonprofit financial mapping:** Directs Treasury and IRS to map donor networks of nonprofits flagged for association with "anti-American" or "domestic terrorism" activity. Organizations can be investigated based on who funds them rather than what they do.
 
-### 🔗 Active 2026 Connections
-* **Ideological:** Grounded in [[Christian Nationalism]], specifically the "Sphere Sovereignty" logic where the state is an instrument of divine punishment against "enemies of traditional family and morality".
-* **Stakeholder:** [[The Heritage Foundation]] provided the policy roadmap via Project 2025; [[Donald Trump]] provided the executive signature; [[Stephen Miller]] manages the "Vetting" implementation.
+**JTTF mandate:** Directs FBI Joint Terrorism Task Forces to prioritize "organized campaigns of targeted intimidation" — a definition broad enough to encompass organized protest, legal observer networks, and political organizing.
 
----
+**Civil disorder expansion:** Codifies organized civil disorder, doxing, and swatting as domestic terrorism priorities — enabling prosecution under material support statutes rather than standard criminal law.
 
-## 📚 Citations
-1. **Baker McKenzie (Oct 2025):** "Federal strategy on domestic terrorism includes focus on nonprofit foundations."
-2. **DLA Piper (Dec 2025):** "NSPM-7: New federal strategy adds enforcement risks."
-3. **Charity & Security Network (Oct 2025):** "Summary: Presidential Memorandum on Countering Domestic Terrorism."
+**AG recommendation authority:** Authorizes the Attorney General to recommend groups for domestic terrorist designation — which, as noted in the [[Antifa]] vault note, lacks a formal legal mechanism but changes operational enforcement posture regardless.
+
+**Mandatory interrogation:** Requires federal law enforcement to interrogate detained individuals about organizational affiliations and financial sponsors before any potential release — creating an information-extraction function alongside the detention function.
+
+## The Operational Chain
+
+NSPM-7 → [[Antifa]] designation (September 22, 2025 EO) → [[Sparta]] and watchlist population → [[ICE]] and JTTF enforcement → [[Indefinite Detention]] framework (civil commitment) → [[ImmigrationOS]] and [[ELITE]] targeting
+
+The memorandum is the policy layer that activates the surveillance and enforcement infrastructure documented elsewhere in the vault.
+
+## Why This Is Significant
+
+The combination of anti-capitalism as a terrorism indicator with nonprofit donor mapping and material support prosecution authority creates a legal framework under which:
+
+- Donating to an organization that advocates economic reform can be treated as material support for domestic terrorism
+- Attending a protest can generate a Sparta watchlist entry
+- Being detained creates a mandatory interrogation obligation about political associations
+
+This is not a theoretical threat — the operational implementation is documented in the [[ELITE]] note (Medicaid data for targeting), the [[Sparta]] note (protest tracking), and the [[Operation Metro Surge]] note (U.S. citizens killed by federal agents).
+
+## Citations
+
+- NSPM-7 text, anti-capitalism indicator, JTTF mandate: [White House September 2025](https://www.whitehouse.gov/presidential-actions/2025/09/countering-domestic-terrorism-and-organized-political-violence/)
+- Nonprofit donor mapping, enforcement risks: [Baker McKenzie October 2025] | [DLA Piper December 2025](https://www.dlapiper.com/insights/publications/2025/12/new-federal-strategy-for-countering-domestic-terrorism-and-political-violence-adds-enforcement-risks)
+- Charity sector analysis: [Charity & Security Network October 2025]
