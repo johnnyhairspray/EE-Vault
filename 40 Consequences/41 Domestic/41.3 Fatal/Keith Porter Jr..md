@@ -1,27 +1,42 @@
 ---
-type: Consequence
-sub_type: Fatal
-tags: [celebratory-gunfire, extraction-casualty, off-duty-incident]
-date: 2025-12-31
-location: "Los Angeles, CA"
-links:
+Category: Entity
+Sub-category: Consequence
+Type: Fatal
+Sub-type: ICE Killing
+Status: Documented
+Confidence: Verified
+Date: 2025-12-31
+Location: "Los Angeles, CA"
+Connected-to:
   - "[[ICE]]"
-  - "[[Mass Deportation]]"
-status: "#evergreen"
+Links:
+  - "[[ICE]]"
+Tags:
+  - consequence
+  - fatal
+  - ICE
+  - off-duty
+  - Los-Angeles
+  - celebratory-gunfire
+Aliases:
 ---
-
 # Keith Porter Jr.
 
-## 🔍 Summary
-Keith Porter Jr. (43), a U.S. citizen and father of two, was fatally shot by off-duty ICE agent Brian Palacios on New Year's Eve 2025 outside his apartment complex. The incident occurred while Porter was allegedly firing celebratory shots into the air to ring in the new year.
+Keith Porter Jr., 43. U.S. citizen, father of two. Fatally shot by off-duty ICE agent Brian Palacios on New Year's Eve, December 31, 2025, outside his apartment complex in Los Angeles.
 
-## 🧬 The "Fatal" Piston
-* **The "Defender" Defense:** The DHS and the agent's counsel characterized Palacios as an off-duty officer responding to an "active shooter". However, witnesses claimed they did not hear the agent identify himself before opening fire.
-* **The Accountability Vacuum:** Porter’s death is cited by civil rights groups as a prime example of "Extrajudicial Terror," where the culture of the **[[Mass Deportation]]** mission emboldens individual agents to use lethal force outside of official operational hours.
-* **Societal Result:** His death, occurring just days before that of **[[Renée Good]]**, signaled the beginning of what would become the deadliest year on record for ICE-involved fatalities.
+## The Incident
 
----
+Porter was outside his apartment complex firing celebratory gunshots into the air to mark the new year — a legally problematic but common practice in some communities. Off-duty ICE agent Brian Palacios intervened and shot Porter. Palacios's defense characterized him as an off-duty officer responding to an active shooter situation.
 
-## 📚 Citations
-1. **The Guardian (Jan 2026):** [Family of man killed by off-duty ICE agent in LA demands charges](https://www.theguardian.com/us-news/2026/jan/16/keith-porter-jr-ice-killing)
-2. **Freedom for Immigrants (Jan 2026):** [FFI Mourns Those Killed in Latest String of Deadly ICE Terror](https://www.freedomforimmigrants.org/news-and-updates/ffi-mourns-those-killed-by-ice)
+Witnesses stated they did not hear Palacios identify himself as a law enforcement officer before opening fire. The family demanded charges. The incident became one of several ICE-involved fatalities in late 2025 and early 2026 that civil rights organizations documented as part of a pattern of escalating use of lethal force.
+
+## Context
+
+Porter's death preceded Renée Good's killing (January 7, 2026) by one week. Together they mark the beginning of the documented escalation period of ICE-involved civilian deaths in the early months of Operation Metro Surge and related enforcement actions.
+
+The "off-duty officer" framing is significant: it extends the enforcement posture beyond official operational hours and locations, creating ambiguity about when and where federal immigration enforcement authority applies and under what rules of engagement.
+
+## Citations
+
+- Shooting, Palacios identification, family demands: [The Guardian](https://www.theguardian.com/us-news/2026/jan/16/keith-porter-jr-ice-killing)
+- ICE fatalities pattern: [Freedom for Immigrants](https://www.freedomforimmigrants.org/news-and-updates/ffi-mourns-those-killed-by-ice)
