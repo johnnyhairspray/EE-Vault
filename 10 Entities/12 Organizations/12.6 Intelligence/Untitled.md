@@ -1,46 +1,65 @@
 ---
-type: Entity
-sub_type: Organization
-tags:
-  - venture-capital
-  - national-security
-  - startup-incubation
-  - CIA
-established: 1999
-links:
+Category: Entity
+Sub-category: Organization
+Type: Intelligence
+Sub-type: Venture Capital / CIA
+Status: Active
+Confidence: Verified
+Founded: 1999
+Connected-to:
+  - "[[CIA]]"
+  - "[[Palantir Technologies]]"
+  - "[[Peter Thiel]]"
+Links:
+  - "[[CIA]]"
   - "[[Palantir Technologies]]"
   - "[[Project Maven]]"
-  - "[[Unit 8200]]"
-  - "[[Technocracy Inc.]]"
-status: "#evergreen"
+  - "[[The Privatized Panopticon]]"
+Tags:
+  - intelligence
+  - venture-capital
+  - CIA
+  - In-Q-Tel
+  - Palantir
+  - surveillance-infrastructure
+  - dual-use
+  - national-security
+Aliases:
+  - In-Q-Tel
+  - IQT
 ---
-
 # In-Q-Tel (IQT)
 
-## 🔍 Summary
-In-Q-Tel is a non-profit strategic investment firm that serves as the venture capital arm of the **CIA** and the broader U.S. Intelligence Community. By 2026, it has expanded its mission to "Seed Early-Stage Innovation" into defense programs, acting as the primary scout for the technologies that drive the Technate's surveillance and targeting capabilities.
+Non-profit strategic investment firm established 1999 as the venture capital arm of the CIA and broader U.S. Intelligence Community. Headquarters in Arlington, Virginia. Reviews approximately 1,000 companies annually; selects approximately 80 for investment based on ability to fill intelligence community capability gaps.
 
-## 🧬 The "Incubation" Piston
+## The Palantir Origin
 
-### 1. The Palantir Genesis
-* **Initial Seed:** IQT provided the critical **$2 million** in early-stage funding that launched **[[Palantir Technologies]]** in 2003. 
-* **Operational Proof:** Beyond funding, IQT served as Palantir's "first customer," integrating **Gotham** into CIA workflows and providing the real-world testing ground for the data-fusion logic now used in **[[ImmigrationOS]]**.
+In-Q-Tel provided the critical $2 million seed funding that launched Palantir Technologies in 2003. Peter Thiel added $30 million in 2005. The CIA was simultaneously Palantir's first funder and its first customer — integrating Gotham into CIA workflows and providing operational testing.
 
-### 2. The 2026 Sovereign AI Mission
-* **Sovereign Cloud:** In 2026, IQT’s primary focus is "Sovereign AI"—investing in startups that allow the government to host LLMs and mass-surveillance data on private, air-gapped infrastructure rather than commercial clouds.
-* **Space-Based IoT:** IQT is currently funding low-bandwidth satellite connectivity solutions that enable real-time tracking of assets (and people) in "austere environments," directly supporting the border-monitoring goals of the **[[One Big Beautiful Bill 1]]**.
+The significance: the U.S. intelligence community seeded the startup that became the dominant surveillance infrastructure vendor for domestic law enforcement, military targeting, and immigration enforcement. The company did not become a government contractor after achieving commercial success; it was built for government use from its founding capital.
 
-### 3. Cross-Theater Intelligence (Unit 8200)
-* **Global Liaison:** IQT facilitates the "Tech-Transfer" between the U.S. and Israel, often co-investing in the same cyber-security and AI firms developed by veterans of **[[Unit 8200]]**.
-* **Maven Support:** IQT-backed startups provide the specialized computer-vision kernels that allow **[[Project Maven]]** to process over 1,000 targets per hour.
+## How It Works
 
-## 🔗 The "Technate" Loop
-* **The Strategic Rail:** IQT reviews nearly **1,000 companies annually**, selecting ~80 for investment based specifically on their ability to fill "capability gaps" in the national security mission.
-* **The Governance Link:** Its success is measured not by financial return, but by "utilization"—how deeply an IQT-backed technology is embedded into the state's enforcement grid.
+IQT is structured as a non-profit, insulating investments from congressional budget cycles. It provides funding, connects companies with intelligence community technical requirements, and facilitates adoption of promising technologies into classified programs.
 
----
+The metric for success is "utilization" — how deeply an IQT-backed technology is embedded into intelligence community operations — rather than financial return. This creates an incentive structure oriented toward maximizing state surveillance capability rather than maximizing profit.
 
-## 📚 Citations
-1. **AIAA SciTech Forum (Jan 2026):** [IQT: Seeding Early-Stage Private Sector Innovation into Defense Programs](https://aerospaceamerica.aiaa.org/institute/iqt-seeding-early-stage-private-sector-innovation-into-defense-programs/)
-2. **IQT Library (Mar 2026):** [Look at the Year Ahead: What 2026 Could Have in Store for Strategic Technologies](https://www.iqt.org/library/iqts-look-at-the-year-ahead-what-2026-could-have-in-store-for-strategic-technologies)
-3. **AFSC Investigate (Apr 2026):** [Palantir Technologies Inc: Origins and CIA Funding](https://investigate.afsc.org/company/palantir)
+## 2026 Focus Areas
+
+**Sovereign AI:** Investing in startups that enable government hosting of large language models on private, air-gapped infrastructure — maintaining intelligence community control over AI systems rather than relying on commercial cloud providers.
+
+**Space-based IoT:** Low-bandwidth satellite connectivity enabling real-time tracking of assets in remote environments — supporting border monitoring and austere environment surveillance.
+
+**Unit 8200 technology transfer:** IQT co-invests in cyber-security and AI companies founded by Unit 8200 (Israeli military intelligence) veterans — facilitating technology transfer between the U.S. and Israeli intelligence communities.
+
+## The Portfolio Chain
+
+IQT funds dual-use technology startups → companies achieve commercial viability → government contracts follow → technology is embedded in enforcement infrastructure → the companies that received IQT seed funding become essential to government operations IQT now helps improve.
+
+The Palantir case is the documented template: CIA seed funding → commercial law enforcement deployment (LAPD 2011) → federal immigration enforcement (ICE ImmigrationOS) → military targeting (Project Maven) → classified intelligence community cloud (Oracle partnership).
+
+## Citations
+
+- Founding, $2M Palantir seed, CIA as first customer: [AFSC Investigate April 2026](https://investigate.afsc.org/company/palantir) | [[CIA]] vault note
+- 1,000 companies reviewed annually, ~80 selected: [AIAA SciTech January 2026](https://aerospaceamerica.aiaa.org/institute/iqt-seeding-early-stage-private-sector-innovation-into-defense-programs/)
+- 2026 sovereign AI and space IoT focus: [IQT Library March 2026](https://www.iqt.org/library/iqts-look-at-the-year-ahead-what-2026-could-have-in-store-for-strategic-technologies)
