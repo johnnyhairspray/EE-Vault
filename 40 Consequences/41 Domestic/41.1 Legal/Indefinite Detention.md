@@ -1,32 +1,54 @@
 ---
-type: Consequence
-sub_type: Legal
-tags:
-  - pre-trial-detention
-  - material-support
-  - domestic-terrorism
-jurisdiction: Domestic
-links:
+Category: Entity
+Sub-category: Consequence
+Type: Legal
+Sub-type: Detention Policy
+Status: Active
+Confidence: Verified
+Connected-to:
   - "[[NSPM-7]]"
-  - "[[14321 - Ending Crime and Disorder on America's Streets]]"
-  - "[[Accountability Centers 1]]"
-  - "[[Sparta]]"
-status: "#evergreen"
+  - "[[ICE]]"
+  - "[[Department of Justice]]"
+Links:
+  - "[[NSPM-7]]"
+  - "[[ICE]]"
+  - "[[Antifa]]"
+Tags:
+  - consequence
+  - legal
+  - detention
+  - indefinite-detention
+  - domestic-terrorism
+  - NSPM-7
+  - due-process
+  - material-support
+Aliases:
 ---
+# Indefinite Detention
 
-# Indefinite Detention of American Citizens
+Policy and legal framework enabling detention of individuals — both U.S. citizens and non-citizens — without a defined release date through the application of domestic terrorism and material support statutes.
 
-## 🔍 Summary
-The operational state where U.S. citizens are held without a defined release date or traditional bail hearings. This is achieved by labeling "civil disorder" as **Domestic Terrorism** under **[[NSPM-7]]**, which triggers a "rebuttable presumption" against pre-trial release.
+## The Mechanism
 
-## 🧬 The "Kinetic" Piston
-* **Material Support Expansion:** **[[NSPM-7]]** tasks the DOJ to prosecute "all federal crimes" related to organized political violence, specifically defining organized doxing, swatting, and "civil disorder" as domestic terrorism priorities.
-* **The Accountability Center Trap:** Under the "Civil Commitment" framework of **[[14321 - Ending Crime and Disorder on America's Streets]]**, citizens are held indefinitely based on "risk to self/others" rather than a fixed criminal sentence.
-* **Mandatory Interrogation:** NSPM-7 mandates that federal law enforcement "question and interrogate" all individuals engaged in political violence regarding their organizational links and "financial sponsorship" prior to any potential release or plea.
+**NSPM-7 (September 2025)** is the primary operative document. It designates organized political violence, civil disorder, doxing, and swatting as domestic terrorism priorities — and explicitly flags anti-capitalism as a terrorism indicator. This creates the legal predicate for:
 
----
+1. Arresting protest participants under domestic terrorism statutes rather than standard criminal charges
+2. Triggering "rebuttable presumption" against pre-trial release — meaning the default is detention, not bail, with the defendant required to prove they should be released
+3. Mandatory interrogation of detained individuals about organizational affiliations and financial sponsors before any potential release
 
-## 📚 Citations
-1. **DLA Piper (Dec 2025):** [NSPM-7: New federal strategy for countering domestic terrorism](https://www.dlapiper.com/insights/publications/2025/12/new-federal-strategy-for-countering-domestic-terrorism-and-political-violence-adds-enforcement-risks)
-2. **The White House (Sept 2025):** [NSPM-7: Countering Domestic Terrorism and Organized Political Violence](https://www.whitehouse.gov/presidential-actions/2025/09/countering-domestic-terrorism-and-organized-political-violence/)
-3. **National Immigration Forum (Feb 2026):** [Legislative Bulletin: Mandatory and Indefinite Detention Policy](https://forumtogether.org/article/legislative-bulletin-friday-february-6-2026/)
+**The material support expansion:** Once an organization is designated as domestic terrorist (e.g., Antifa under the September 2025 EO), any individual with documented ties — attendance at events, donations, social media affiliation — can potentially be charged with material support for domestic terrorism. Material support charges carry significant penalties and can be filed without evidence of direct participation in violent acts.
+
+## Immigration Indefinite Detention
+
+For non-citizens, indefinite detention has a separate and longer-running legal track. The One Big Beautiful Bill (passed 2025) included provisions expanding mandatory detention without bond hearings for broad categories of immigration cases, reversing precedents that had required individualized bail determinations.
+
+Combined with the ImmigrationOS enforcement infrastructure, this means individuals can be detained based on algorithmic flagging, held without individualized hearing, and processed for removal through remote video hearings — all within the expanded detention infrastructure.
+
+## The Accountability Center Framework
+
+Executive Order 14321 established a "civil commitment" framework for individuals deemed a risk to self or others — allowing detention outside the criminal sentencing system on the basis of risk assessment rather than fixed criminal sentence. Civil commitment has traditionally been reserved for individuals with severe mental illness who are imminently dangerous; its application to protest participants and immigration detainees represents a significant expansion of the doctrine.
+
+## Citations
+
+- NSPM-7 domestic terrorism framework, civil disorder, material support: [DLA Piper](https://www.dlapiper.com/insights/publications/2025/12/new-federal-strategy-for-countering-domestic-terrorism-and-political-violence-adds-enforcement-risks) | [White House NSPM-7](https://www.whitehouse.gov/presidential-actions/2025/09/countering-domestic-terrorism-and-organized-political-violence/)
+- Mandatory detention legislation: [National Immigration Forum](https://forumtogether.org/article/legislative-bulletin-friday-february-6-2026/)
