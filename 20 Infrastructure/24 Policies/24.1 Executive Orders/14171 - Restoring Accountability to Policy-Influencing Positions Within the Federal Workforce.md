@@ -1,39 +1,60 @@
 ---
-type: Executive Order
-tags:
-  - administrative-state
-  - executive-power
-  - schedule-f
-  - technocracy
-architect:
+Category: Entity
+Sub-category: Infrastructure
+Type: Policy
+Sub-type: Executive Order
+Status: Active
+Confidence: Verified
+Date-signed: 2025-01-20
+Effective-date: 2026-03-09
+Connected-to:
   - "[[Donald Trump]]"
   - "[[Stephen Miller]]"
-date_signed: 2025-01-20
-effective_date: 2026-03-09
-status: "#evergreen"
+  - "[[DOGE]]"
+Links:
+  - "[[Donald Trump]]"
+  - "[[Stephen Miller]]"
+  - "[[DOGE]]"
+  - "[[Schedule F]]"
+Tags:
+  - policy
+  - executive-order
+  - Schedule-F
+  - civil-service
+  - administrative-state
+  - federal-workforce
+  - at-will-employment
+Aliases:
+  - EO 14171
+  - Schedule Policy/Career
+  - Schedule F reinstatement
 ---
-
 # Executive Order 14171
 
-## 🔍 Summary
-**Full Title:** *"Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce."* This order reinstated the original **[[20 Infrastructure/24 Policies/24.3 Frameworks/Schedule F]]** (EO 13957) and directed the OPM to finalize the **[[20 Infrastructure/24 Policies/24.3 Frameworks/Schedule F]]** classification, which became operational in **March 2026**.
+**Full title:** "Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce"
 
----
+Signed January 20, 2025 — Trump's first day in office. Reinstated the original Schedule F executive order (EO 13957, signed October 2020, revoked by Biden January 2021). Final rule effective March 2026.
 
-### 🧬 The "Convergence" Logic
-1.  **The Reinstatement Piston:** Reinstates EO 13957 with "full force and effect," nullifying previous civil service protections and establishing a top-down, "at-will" employment grid for approximately 50,000 federal roles.
-2.  **The Branding Shift:** Mandates the transition from "Schedule F" to "**Schedule Policy/Career**" to utilize existing statutory exemptions for "confidential" or "policy-influencing" roles under the **Civil Service Reform Act of 1978**.
-3.  **The Sovereignty Rail:** Asserts that Article II of the Constitution grants the President "sole and exclusive authority" to manage the federal workforce, treating career officials as personal delegates who must faithfully implement his technical directives or face dismissal.
+## What It Does
 
----
+Reinstates Schedule F "with full force and effect" — reclassifying approximately 50,000 career federal civil service positions in "policy-influencing" roles as Schedule F (rebranded "Schedule Policy/Career" to utilize existing statutory exemptions under the Civil Service Reform Act of 1978).
 
-### 🔗 Active 2026 Connections
-* **Operational:** Acts as the legal prerequisite for the **[[National Vetting Center]]**; only a compliant "Schedule P/C" workforce can execute the mass data-vetting requirements of **[[NSPM-7]]**.
-* **Infrastructure:** Used as a tool to remove "bureaucratic friction" within the DOE and DHS, accelerating the permitting and construction of **[[The Stargate Project]]**.
+**The practical effect:** Career civil servants in reclassified positions lose the termination protections that normally require cause for removal. They become effectively at-will employees — terminable by political appointees without the standard merit-based review process.
 
----
+## The Legal Architecture
 
-## 📚 Citations
-1.  **OPM.gov (Feb 2026):** "OPM Finalizes Schedule Policy/Career Rule to Strengthen Accountability."
-2.  **The American Presidency Project (Jan 2025):** "Executive Order 14171—Restoring Accountability to Policy-Influencing Positions."
-3.  **FedSupport Hub (March 2026):** "Analysis: The 2026 Final Rule on Policy/Career Reclassification."
+The order asserts that Article II of the Constitution grants the President "sole and exclusive authority" over the federal workforce. Career civil servants are characterized not as independent professional administrators but as personal delegates required to implement presidential directives.
+
+This assertion has significant constitutional implications: the civil service system was designed precisely to insulate federal administration from partisan control and protect government function from electoral disruption. EO 14171 frames that insulation as obstruction rather than governance design.
+
+## The RAGE Connection
+
+EO 14171 is the operational implementation of Curtis Yarvin's RAGE (Retire All Government Employees) framework — the NRx proposal for breaking the administrative state through mass civil service replacement. The [[DOGE]] operation provided the mass firings; EO 14171 provides the legal scaffolding for replacing career employees with political loyalists in policy-influencing positions.
+
+Washington Post confirmed in May 2025 that Yarvin's framework is the intellectual blueprint, with DOGE advisers on record: "Yarvin is the brain." EO 14171 is the legal mechanism that allows the blueprint to be executed.
+
+## Citations
+
+- EO text, Schedule F reinstatement: [American Presidency Project](https://www.presidency.ucsb.edu/)
+- OPM final rule March 2026: [OPM.gov]
+- Yarvin connection, DOGE as RAGE implementation: [[DOGE]] vault note | [[Curtis Yarvin]] vault note
