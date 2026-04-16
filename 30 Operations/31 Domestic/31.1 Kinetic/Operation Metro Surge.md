@@ -1,53 +1,79 @@
 ---
-type: Operation
-sub_type: Kinetic
-tags:
-  - mass-removal
-  - urban-siege
-  - ICE
-  - tactical-deployment
-location: Minneapolis–Saint Paul, MN
-date: 2025-12-04 – 2026-02-28
-commander:
-  - "[[Gregory Bovino]]"
-  - "[[Todd Lyons]]"
-links:
+Category: Entity
+Sub-category: Operation
+Type: Domestic
+Sub-type: Immigration Enforcement
+Status: Archived
+Confidence: Verified
+Date-range: "2025-12-04 – 2026-02-28"
+Location: "Minneapolis–Saint Paul, MN"
+Key-figures:
+  - Gregory Bovino
+  - Todd Lyons
+Connected-to:
   - "[[ICE]]"
-  - "[[One Big Beautiful Bill 1]]"
-  - "[[Mass Deportation]]"
-  - "[[Accountability Centers 1]]"
-status: "#archived"
+  - "[[Renée Good]]"
+  - "[[Alex Pretti]]"
+Links:
+  - "[[ICE]]"
+  - "[[Renée Good]]"
+  - "[[Alex Pretti]]"
+  - "[[Stephen Miller]]"
+Tags:
+  - operation
+  - domestic
+  - immigration-enforcement
+  - Minneapolis
+  - mass-deportation
+  - ICE
+  - BORTAC
+  - civilian-casualties
+Aliases:
+  - Metro Surge
 ---
-
 # Operation Metro Surge
 
-## 🔍 Summary
-Announced on December 4, 2025, and expanded on January 6, 2026, **Operation Metro Surge** was the largest immigration enforcement action in U.S. history. The operation deployed over **3,000 federal agents** to the Twin Cities to execute a "High-Velocity Removal" mandate, resulting in nearly 4,000 arrests and significant civil disruption.
+The largest immigration enforcement operation in U.S. history. Announced December 4, 2025, expanded January 6, 2026. Deployed over 3,000 federal agents to the Minneapolis–Saint Paul metropolitan area.
 
-## 🧬 The "Kinetic" Piston
+## Force Composition
 
-### 1. Force Composition
-* **Personnel:** The surge included 2,000 ICE Enforcement and Removal Operations (ERO) officers and 1,000 Customs and Border Protection (CBP) agents, including specialized BORTAC tactical units.
-* **Presence:** Federal agents exceeded the combined number of sworn local police officers in Minneapolis and St. Paul. Tactics included armored vehicle patrols, random traffic stops, and high-intensity neighborhood sweeps.
+- **2,000 ICE Enforcement and Removal Operations (ERO) officers**
+- **1,000 CBP agents** including BORTAC tactical units (Border Patrol Tactical Unit — a specialized border interdiction force not designed for urban domestic operations)
+- Federal agent presence exceeded the combined sworn officer count of Minneapolis and Saint Paul police departments
 
-### 2. Operational Impact
-* **Arrest Data:** By March 2026, data showed **3,789 total arrests**. DHS claimed the targets included "murderers and terrorists," but judicial review by Judge Jerry W. Blackwell found that the "overwhelming majority" of cases involved people lawfully present in the U.S..
-* **Fatalities & Injuries:**
-    * **Renée Good (U.S. Citizen):** Shot and killed by an ICE agent on January 7, 2026.
-    * **Alex Pretti (U.S. Citizen/Nurse):** Killed during a confrontation with agents while assisting a protester on January 24, 2026.
-    * **Custody Death:** One individual died while in ICE custody during the operation.
+Tactics included armored vehicle patrols, random traffic stops, license plate photography at school drop-off points, and high-intensity neighborhood sweeps.
 
-### 3. Economic & Societal Extraction
-* **Financial Loss:** The City of Minneapolis reported a **$203.1 million impact** for January 2026 alone, including $81 million in small business losses and $47 million in lost wages as residents went "underground".
-* **Civil Disruption:** Schools transitioned to remote learning as agents photographed license plates and parents at drop-off points; food insecurity affected an estimated 76,000 residents during the siege.
+## Outcomes
 
-## 🔗 The "Technate" Loop
-* **Targeting Source:** Removals were driven by **[[ImmigrationOS]]** and address-matching kernels funded by the **[[One Big Beautiful Bill 1]]**.
-* **Processing Hub:** Detainees were funneled through regional warehouse hubs before being transferred to long-term **[[Accountability Centers 1]]** or put on "Removal Flights" which doubled in frequency during the operation.
+**Arrests:** 3,789 total arrests through March 2026. DHS characterized targets as "murderers and terrorists." Federal Judge Jerry W. Blackwell reviewed cases and found the "overwhelming majority" involved people lawfully present in the United States.
 
----
+**Fatalities:**
+- **[[Renée Good]]** (U.S. citizen, legal observer) — shot and killed by ICE agent January 7, 2026
+- **[[Alex Pretti]]** (U.S. citizen, VA nurse, protester) — shot and killed by BORTAC agents January 24, 2026
+- One individual died in ICE custody during the operation
 
-## 📚 Citations
-1. **Wikipedia (Mar 2026):** [Operation Metro Surge - Tactical Overview](https://en.wikipedia.org/wiki/Operation_Metro_Surge)
-2. **City of Minneapolis (Feb 2026):** [Preliminary Impact Assessment of Operation Metro Surge](https://www.minneapolismn.gov/news/2026/february/oms-impact/)
-3. **Minnesota Attorney General (Jan 2026):** [Complaint against DHS regarding militarized deployments](https://www.ag.state.mn.us/Office/Communications/2026/docs/00190_DHS_Complaint.pdf)
+**Economic impact (Minneapolis assessment, February 2026):** $203.1 million impact for January 2026 alone — $81 million in small business losses, $47 million in lost wages as residents ceased normal economic activity. Estimated 76,000 residents experienced food insecurity during the operation.
+
+**Educational disruption:** Schools shifted to remote learning as federal agents photographed license plates and parents at drop-off locations.
+
+## The Legal Challenge
+
+Minnesota Attorney General filed complaint against DHS over the militarized deployment. Judge Blackwell's review of individual cases established a documented record that the "murderers and terrorists" characterization was not accurate for the overwhelming majority of those arrested.
+
+## Why This Matters Structurally
+
+Operation Metro Surge is the vault's primary documented case of the full federal enforcement infrastructure deployed against a civilian population center:
+
+- ImmigrationOS targeting → BORTAC tactical deployment → mass arrest → remote deportation hearings → removal flights
+- Two U.S. citizens killed by federal agents in 47 days
+- Military-adjacent units conducting domestic law enforcement
+- Economic disruption sufficient to register in city-level economic assessments
+
+The Minneapolis deployment was a test of the full stack. The same infrastructure is deployable to any metropolitan area.
+
+## Citations
+
+- Operation announcement, force composition, arrest totals: [Wikipedia — Operation Metro Surge](https://en.wikipedia.org/wiki/Operation_Metro_Surge)
+- Judge Blackwell "overwhelming majority lawfully present": [Minnesota reporting 2026]
+- $203.1M economic impact, small business losses, food insecurity: [City of Minneapolis Impact Assessment](https://www.minneapolismn.gov/news/2026/february/oms-impact/)
+- Minnesota AG complaint: [MN AG](https://www.ag.state.mn.us/Office/Communications/2026/docs/00190_DHS_Complaint.pdf)
