@@ -1,28 +1,46 @@
 ---
-type: Person / Consequence
-sub_type: Fatal
-tags: [protester, VA-nurse, civil-unrest, extraction-casualty]
-date: 2026-01-24
-location: "Minneapolis, MN"
-links:
+Category: Entity
+Sub-category: Consequence
+Type: Fatal
+Sub-type: ICE Killing
+Status: Documented
+Confidence: Verified
+Date: 2026-01-24
+Location: "Minneapolis, MN"
+Connected-to:
+  - "[[ICE]]"
   - "[[Renée Good]]"
-  - "[[Operation Metro Surge]]"
-  - "[[CBP]]"
-status: "#evergreen"
+Links:
+  - "[[ICE]]"
+  - "[[Renée Good]]"
+Tags:
+  - consequence
+  - fatal
+  - ICE
+  - protester
+  - Minneapolis
+  - civil-rights
+  - Operation-Metro-Surge
+Aliases:
+  - Killing of Alex Pretti
 ---
-
 # Alex Pretti
 
-## 🔍 Summary
-Alex Jeffrey Pretti (37), an intensive care nurse at a VA hospital, was fatally shot by CBP agents Jesus Ochoa and Raymundo Gutierrez on January 24, 2026. Pretti was participating in protests following the death of **[[Renée Good]]** when he was tackled and killed during a confrontation with federal agents.
+Alex Jeffrey Pretti, 37. U.S. citizen. Intensive care nurse at a VA hospital. Fatally shot by CBP agents Jesus Ochoa and Raymundo Gutierrez on January 24, 2026, in Minneapolis, Minnesota.
 
-## 🧬 The "Fatal" Piston
-* **The Confrontation:** Video evidence shows Pretti being wrestled to the ground by six agents. A firearm was removed from Pretti's holster by one agent roughly one second before another agent fired ten rounds into him.
-* **The "Friction" Trigger:** Pretti’s death highlighted the "Agentic" nature of the **[[Operation Metro Surge]]** deployment, where federal tactical units (BORTAC) were used for domestic crowd control.
-* **Societal Result:** Following Pretti’s death, the Minneapolis Mayor demanded the partial withdrawal of federal agents, and the Trump administration faced bipartisan calls for transparency regarding the use of "masked agents" in urban centers.
+## The Incident
 
----
+Pretti was participating in protests following the death of [[Renée Good]] — the legal observer killed by ICE on January 7, 2026. During the protest, he was tackled by six federal agents. Video evidence shows a firearm being removed from Pretti's holster by one agent approximately one second before another agent fired ten rounds into him.
 
-## 📚 Citations
-1. **Wikipedia (Apr 2026):** [Killing of Alex Pretti](https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti)
-2. **The Guardian (Feb 2026):** [Federal agents reportedly identified in fatal shooting of Alex Pretti](https://www.theguardian.com/us-news/2026/feb/01/border-patrol-agents-identified-alex-pretti-minneapolis)
+CBP agents Ochoa and Gutierrez were identified. The incident prompted a Minneapolis mayoral demand for partial withdrawal of federal agents and bipartisan congressional calls for transparency regarding the use of masked agents in domestic crowd control operations.
+
+## Significance
+
+Pretti's killing is documented as an escalation case: federal tactical units (BORTAC — Border Patrol Tactical Unit) deployed for domestic crowd control, operating in Minneapolis, shooting a VA nurse at a protest. BORTAC is a specialized border interdiction unit not designed or trained for domestic law enforcement operations.
+
+The sequence — Good killed January 7, protests begin, Pretti killed January 24 — demonstrates the escalation dynamic of deploying military-adjacent federal units in civilian population centers for crowd control functions.
+
+## Citations
+
+- Killing of Alex Pretti, agent identification: [Wikipedia — Killing of Alex Pretti](https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti)
+- Federal agents identified: [The Guardian](https://www.theguardian.com/us-news/2026/feb/01/border-patrol-agents-identified-alex-pretti-minneapolis)
