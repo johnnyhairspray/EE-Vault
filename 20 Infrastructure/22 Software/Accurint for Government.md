@@ -1,34 +1,68 @@
 ---
-type: Infrastructure
-sub_type: Software
-tags: [vetting, investigative-intelligence, data-fusion, skip-tracing]
-developer: "[[LexisNexis Risk Solutions]]"
-links:
-  - "[[National Vetting Center]]"
-  - "[[Stephen Miller]]"
-  - "[[NSPM-7]]"
+Category: Entity
+Sub-category: Infrastructure
+Type: Software
+Sub-type: Investigative Analytics
+Status: Active
+Confidence: Verified
+Developer: "[[LexisNexis Risk Solutions]]"
+Connected-to:
+  - "[[LexisNexis Risk Solutions]]"
   - "[[LexID]]"
-status: "#evergreen"
+  - "[[ICE]]"
+Links:
+  - "[[LexisNexis Risk Solutions]]"
+  - "[[LexID]]"
+  - "[[The Privatized Panopticon]]"
+Tags:
+  - infrastructure
+  - software
+  - investigative
+  - data-fusion
+  - government
+  - non-FCRA
+  - skip-tracing
+  - surveillance
+Aliases:
+  - Accurint
+  - Accurint Virtual Crime Center
 ---
-
 # Accurint for Government
 
-## 🔍 Summary
-The flagship investigative software suite from **[[LexisNexis Risk Solutions]]**. In 2026, it is used by over 3,000 government agencies to locate individuals, map social connections, and perform "Deep Vetting" on the domestic population. It is the primary dashboard used to execute the **[[NSPM-7]]** loyalty audits.
+LexisNexis Risk Solutions' flagship investigative intelligence platform for government agencies. Used by 3,000+ government agencies for individual location, social network mapping, and background investigation. The primary government-facing interface for the LexID identity resolution system.
 
-## 🧬 The "Intelligence" Piston
-1. **The LexID® Rail:** The core of the software is **LexID**, a proprietary linking technology that resolves billions of fragmented records into a single, permanent identifier for 98% of the U.S. adult population.
-2. **Accurint Virtual Crime Center:** A 2026-era upgrade that allows agencies to replace multiple tools with a single interface for geolocation analysis, link analysis, and cross-jurisdictional data sharing.
-3. **Non-FCRA Compliance:** Crucially, Accurint for Government operates outside the **Fair Credit Reporting Act (FCRA)**. This means it can be used for administrative and investigative "Extraction" without the transparency or dispute-rights required for credit or employment reports.
+## What It Does
 
----
+**Individual location and skip-tracing:** Aggregates address history, utility connections, associates' addresses, vehicle registrations, and property records to locate individuals — including those who have moved, changed names, or attempted to avoid identification.
 
-### 🧱 Other Key Modules
-* **[[EssentialID]]**: The "Front-end" tool for 2026 digital government portals, assessing risk and recognizing "trusted constituents" in real-time.
-* **[[FraudPoint]]**: A predictive scoring tool used to instantly identify high-risk applicants for government benefits or positions.
+**Link analysis:** Maps relationships between individuals — shared addresses, family connections, co-applicants, known associates — producing network visualizations of who is connected to whom.
 
----
+**Cross-jurisdictional data sharing:** Accurint Virtual Crime Center (2026 upgrade) allows agencies to replace multiple siloed tools with a single interface, and to share data across jurisdictions within the platform.
 
-## 📚 Citations
-1. **Lumpkin County (2026 Archive):** [LexisNexis Accurint for Government - Investigative Intelligence](https://www.lumpkincounty.gov/DocumentCenter/View/1678/accurint-for-government-ss)
-2. **LexisNexis Risk (April 2026):** [Accurint Virtual Crime Center - Linking Data Into One Interface](https://risk.lexisnexis.com/products/accurint-virtual-crime-center)
+**LexID anchoring:** Every person record in Accurint is anchored to their LexID — the persistent key that survives name changes, address changes, and legal status changes. See [[LexID]] note.
+
+## The FCRA Exemption
+
+Accurint for Government operates outside the Fair Credit Reporting Act (FCRA). This is the most legally significant feature. Under FCRA:
+- Individuals have the right to see reports generated about them
+- Individuals have the right to dispute inaccurate information
+- Permissible use cases are defined and limited
+
+Non-FCRA operation means:
+- No disclosure obligation to the subject
+- No dispute rights for inaccurate data
+- Broader permissible use cases
+
+An individual who is incorrectly flagged as associated with a targeted person in Accurint has no legal mechanism to discover they've been flagged or to correct the error — even if it affects their employment, benefits, or enforcement status.
+
+## The Enforcement Chain
+
+Accurint → LexID resolution → ImmigrationOS / ELITE targeting → ICE enforcement
+
+The platform is the search interface that converts a fragmentary enforcement lead (a partial address, a known associate, an employer record) into a high-confidence location target for operational enforcement.
+
+## Citations
+
+- Agency count, core capabilities: [Lumpkin County / LexisNexis documentation](https://www.lumpkincounty.gov/DocumentCenter/View/1678/accurint-for-government-ss)
+- Accurint Virtual Crime Center 2026: [LexisNexis Risk](https://risk.lexisnexis.com/products/accurint-virtual-crime-center)
+- FCRA exemption, non-FCRA operation: standard industry documentation
