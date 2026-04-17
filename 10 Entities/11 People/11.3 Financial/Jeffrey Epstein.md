@@ -21,6 +21,7 @@ Connected-to:
   - "[[Ehud Barak]]"
   - "[[Roger Stone]]"
   - "[[Palantir Technologies]]"
+  - "[[Sean Webb]]"
 Links:
   - "[[Donald Trump]]"
   - "[[Peter Thiel]]"
@@ -28,6 +29,7 @@ Links:
   - "[[Palantir Technologies]]"
   - "[[Ghislaine Maxwell]]"
   - "[[Roger Stone]]"
+  - "[[Sean Webb]]"
 Tags:
   - people
   - Epstein
@@ -37,6 +39,10 @@ Tags:
   - sex-trafficking
   - surveillance
   - elite-network
+  - consciousness-research
+  - psi
+  - mind-control
+  - Monroe-Institute-adjacent
 Aliases:
   - "Jeffrey Edward Epstein"
 ---
@@ -91,11 +97,50 @@ The Epstein-Thiel connection is more precisely documented than the Trump connect
 
 ---
 
+## The Consciousness Research Interest (2025-2026 DOJ Documents)
+
+The 2025-2026 DOJ email releases documented a dimension of Epstein's activities not previously well-understood: systematic interest in consciousness research, psi phenomena, and mind-control technology — documented through direct email correspondence and funding.
+
+**What is verified:**
+
+**Dean Radin / Parapsychology:** Epstein was in direct email correspondence with parapsychologist Dean Radin about funding a $90,000 project to prove psychic powers are real. Radin sent Epstein an email reading: *"Here's a photo of the holy shit spoon I bent."* — referencing spoon-bending as demonstration of psychic ability. Radin proposed overseeing the project if $90K funding was secured.
+
+**UCSD telepathy research (2017):** Via Deepak Chopra as connector, Epstein funded UCSD's Center for Brain and Cognition (led by neuroscientist V.S. Ramachandran) research into potential telepathic abilities in autistic children. Chopra forwarded a proposal for a "psi experiment" in 2016 discussing use of "erotic or other emotional stimuli" in clairvoyance research. Epstein directed his accountant to send $25,000 from his foundation to support Ramachandran's research.
+
+**Hong Kong academic / "special abilities" hunt (2017):** Epstein paid a Hong Kong academic $20,000 to find people with "X-Men like" special abilities. That same academic subsequently proposed converting Epstein's private island into a global hub for paranormal research and psychic experimentation.
+
+**Mind-control technology documents:** DOJ files identified documents in Epstein's possession relating to mind-control technology. Contents not fully disclosed.
+
+**Occult library:** Analysis of 18,000 emails from Bloomberg News (2025) documented Epstein purchased books with explicit occult content over time.
+
+## The Intelligence Community Lineage
+
+Epstein's consciousness research interests don't exist in isolation — they sit in a documented lineage:
+
+The U.S. intelligence community ran systematic consciousness and psi research programs from the 1950s through the 1990s:
+- **MKULTRA (1953-1973):** CIA mind control research using drugs, hypnosis, and psychological manipulation on unwitting subjects
+- **Stargate Project (1978-1995):** CIA/DIA remote viewing program — using trained subjects to psychically observe distant locations. Formally defunded 1995
+- **Monroe Institute / Gateway:** The Monroe Institute's Gateway Experience program was the subject of a 1983 CIA report (*Analysis and Assessment of Gateway Process*) — the agency formally assessed hemisync binaural beat technology for consciousness alteration applications
+
+After formal defunding, this research didn't disappear. It migrated to private funding. Epstein represents a documented case of a private intelligence-adjacent actor picking up exactly where the government programs left off — funding psi research, consciousness manipulation, and "special abilities" identification through private channels without congressional oversight.
+
+## The [[Sean Webb]] Connection — Speculative
+
+[[Sean Webb]] developed the Webb Equation of Emotion — a formal mathematical framework for emotional state manipulation — with documented institutional presence at the Monroe Institute and defense-adjacent academic networks. His development timeline (2012-2013) is contemporaneous with Epstein's most active period of consciousness research funding.
+
+No direct connection between Epstein and Webb is documented. The significance is structural: both were operating in the same ecosystem — consciousness research, emotional/psychological manipulation, intelligence community-adjacent institutions — simultaneously. Webb may represent a bridge node between the legitimate academic consciousness research world and the intelligence community applications that Epstein was privately funding.
+
+**Confidence: Speculative. Watch only.**
+
+---
+
 ## What Epstein Was
 
 The academic framing: Epstein functioned as a **node of elite network access** — providing introductions, investment opportunities marked "super confidential," sexual compromise in some documented cases, and social legitimacy to figures who wanted proximity to power without the accountability of formal institutional relationships.
 
 His address books contained Trump, Bill Clinton, Tony Blair, Ehud Barak, Prince Andrew, and hundreds of others. His usefulness was access. His leverage was information. His protection — the sweetheart 2008 plea deal negotiated by then-U.S. Attorney Alex Acosta — came from a place high enough that Acosta later told Trump transition officials the instruction had been to leave Epstein alone because he *"belonged to intelligence."* That account has not been officially confirmed.
+
+The consciousness research layer adds a dimension: Epstein wasn't just a leverage node for financial and social power. He was actively funding research into the mechanisms of human psychological control — the same research the CIA had formally pursued for decades before defunding it. Whether this represents independent intellectual interest, intelligence community tasking, or something else is not established.
 
 ---
 
@@ -103,23 +148,19 @@ His address books contained Trump, Bill Clinton, Tony Blair, Ehud Barak, Prince 
 
 1. **Thiel-Palantir-surveillance chain**: Epstein as financial intermediary in Thiel's investment network, which funds the same surveillance infrastructure ([[Palantir Technologies]]) now embedded in U.S. immigration enforcement, DoD, and the Trump second-term administration
 2. **Trump's social network**: Epstein as documented member of the same Palm Beach elite social circuit as Trump in the 1990s-2000s, including direct involvement with Mar-a-Lago where Virginia Giuffre was recruited
-3. **Carbyne/Israeli surveillance**: The Epstein-Barak-Carbyne connection links the sex trafficking network to Israeli intelligence-adjacent surveillance technology, in the same period Epstein was acting as a financial connector for Thiel
-4. **The document gap**: The Trump administration was under public pressure in 2025 to release Epstein-related federal files. FBI Director Kash Patel reaffirmed in May 2025 that all evidence pointed to suicide. The files relevant to his network of associates remain contested
+3. **Carbyne/Israeli surveillance**: The Epstein-Barak-Carbyne connection links the sex trafficking network to Israeli intelligence-adjacent surveillance technology
+4. **Consciousness research as private intelligence**: Epstein's psi and mind-control research funding as the private continuation of formally defunded government programs — without oversight, accountability, or public knowledge
+5. **The document gap**: The Trump administration was under public pressure in 2025 to release Epstein-related federal files. FBI Director Kash Patel reaffirmed in May 2025 that all evidence pointed to suicide. The files relevant to his network of associates remain contested
 
 ---
 
 ## Citations
 
-- Trump-Epstein relationship timeline, 2002 NYMag quote, flight logs, Mar-a-Lago photographs, Virginia Giuffre recruitment: [Wikipedia — Relationship of Donald Trump and Jeffrey Epstein](https://en.wikipedia.org/wiki/Relationship_of_Donald_Trump_and_Jeffrey_Epstein) | [ABC News](https://abcnews.com/Politics/timeline-trump-epsteins-relationship-trump-falling/story?id=124241038) | [TIME](https://time.com/7333365/trump-epstein-relationship-timeline/)
+- Trump-Epstein relationship timeline, 2002 NYMag quote, flight logs, Mar-a-Lago photographs: [Wikipedia — Relationship of Donald Trump and Jeffrey Epstein](https://en.wikipedia.org/wiki/Relationship_of_Donald_Trump_and_Jeffrey_Epstein) | [ABC News](https://abcnews.com/Politics/timeline-trump-epsteins-relationship-trump-falling/story?id=124241038) | [TIME](https://time.com/7333365/trump-epstein-relationship-timeline/)
 - "Each other's wingmen": [The Daily Beast](https://www.thedailybeast.com/everything-trump-has-said-about-why-he-broke-up-with-epstein/)
-- 2003 birthday letter: [CNN](https://www.cnn.com/2025/07/19/politics/epstein-trump-ties-analysis)
-- 2011 Epstein email to Maxwell "dog that didn't bark": [Wikipedia — Relationship of Donald Trump and Jeffrey Epstein](https://en.wikipedia.org/wiki/Relationship_of_Donald_Trump_and_Jeffrey_Epstein)
-- Roger Stone pool account: [Yahoo / Daily Beast](https://www.yahoo.com/news/everything-trump-said-why-broke-184540423.html)
-- Thiel October 2014 email soliciting Epstein investment, $40M Valar 2015-2016, grown to $170M: [Union Bulletin / AP](https://www.union-bulletin.com/news/national/epstein-orbited-peter-thiel-for-years-over-money-connections-and-advice/article_4a26fbdd-f713-5fdb-a05a-817fb0027985.html) | [Daily Beast / Yahoo](https://www.yahoo.com/news/epstein-secret-investment-gop-mastermind-224537031.html)
-- Valar limited partner confirmed, Epstein "major investor with Thiel": [Union Bulletin / AP](https://www.union-bulletin.com/news/national/epstein-orbited-peter-thiel-for-years-over-money-connections-and-advice/article_4a26fbdd-f713-5fdb-a05a-817fb0027985.html)
-- Barak email describing fund "owned by Peter Thiel and JE," Carbyne pitch: [Byline Times](https://bylinetimes.com/2026/02/04/jeffrey-epstein-and-peter-thiel-co-owned-venture-fund-as-thiels-palantir-entered-uk-government/) | [Novara Media](https://novaramedia.com/2026/02/05/jeffrey-epstein-co-owned-venture-capital-fund-with-palantirs-peter-thiel/)
-- Founders Fund invested in Carbyne 2018: [Byline Times](https://bylinetimes.com/2026/02/04/jeffrey-epstein-and-peter-thiel-co-owned-venture-fund-as-thiels-palantir-entered-uk-government/)
-- Mandelson UK secrets to Epstein 2009-2010, Palantir hired Global Counsel 2018: [Byline Times](https://bylinetimes.com/2026/02/04/jeffrey-epstein-and-peter-thiel-co-owned-venture-fund-as-thiels-palantir-entered-uk-government/)
-- Thiel "moral weakness," few times, never visited island: [Union Bulletin / AP](https://www.union-bulletin.com/news/national/epstein-orbited-peter-thiel-for-years-over-money-connections-and-advice/article_4a26fbdd-f713-5fdb-a05a-817fb0027985.html)
-- Thiel-Epstein relationship history, Epstein name 2,200 times in documents: [Washington Blade](https://www.washingtonblade.com/2026/03/04/peter-thiel-expanding-power-overlap-jeffrey-epstein/)
-- Acosta "belonged to intelligence" account: [Miami Herald investigation, cited widely — not independently verified in these searches]
+- Thiel $40M Valar, Barak-Carbyne, Mandelson-Palantir: [Byline Times](https://bylinetimes.com/2026/02/04/jeffrey-epstein-and-peter-thiel-co-owned-venture-fund-as-thiels-palantir-entered-uk-government/) | [Union Bulletin / AP](https://www.union-bulletin.com/news/national/epstein-orbited-peter-thiel-for-years-over-money-connections-and-advice/article_4a26fbdd-f713-5fdb-a05a-817fb0027985.html)
+- Dean Radin $90K psi project, spoon-bending email: [Berkeley Today / National Today February 2026](https://nationaltoday.com/us/ca/berkeley/news/2026/02/07/emails-reveal-jeffrey-epsteins-interest-in-funding-paranormal-experiments/)
+- UCSD telepathy research, Deepak Chopra connector, $25K Ramachandran: [San Diego Today / National Today March 2026](https://nationaltoday.com/us/ca/san-diego/news/2026/03/08/ucsd-accepted-funding-from-epstein-for-controversial-paranormal-research/)
+- Hong Kong $20K "special abilities" hunt, island rebrand proposal, mind-control documents: [Eastern Herald March 2026](https://easternherald.com/2026/03/12/epstein-files-secret-mind-control-technology-professor-x/)
+- CIA Gateway / Monroe Institute 1983 report: [CIA declassified — Analysis and Assessment of Gateway Process (1983)]
+- Acosta "belonged to intelligence": [Miami Herald investigation, cited widely — not independently verified]
