@@ -15,6 +15,7 @@ Nodes:
   - "[[Carl Grillmair]]"
   - "[[Nuno Loureiro]]"
   - "[[William McCasland]]"
+  - "[[Amy Eskridge]]"
   - "[[Mondaloy]]"
   - "[[C-HGB]]"
   - "[[Wright-Patterson AFB]]"
@@ -39,6 +40,8 @@ Tags:
   - speculative
   - working-hypothesis
   - Operation-Epic-Fury
+  - disclosure
+  - White-House
 Aliases:
   - "Mondaloy Chain"
   - "Scientist Deaths MOC"
@@ -47,6 +50,18 @@ Aliases:
 # The Mondaloy Chain
 
 **Status: Working hypothesis. The deaths and disappearances are documented facts. Their connection to C-HGB development and Operation Epic Fury is pattern analysis, not established causation. Confidence: Speculative.**
+
+---
+
+## April 2026 Development: White House Response
+
+**April 17, 2026** — The White House signaled it would seek updates from relevant agencies after a reporter directly asked whether anyone was investigating a possible connection between the scientist deaths and disappearances. This is the first documented executive-branch acknowledgment of the pattern as a subject of potential investigation.
+
+The same week, [[Amy Eskridge]] — a 2022 antigravity/UAP researcher death — emerged publicly as Case #11 in the cluster. The Newsweek report listing known cases includes: Anthony Chavez (LANL), William McCasland (AFRL/UAP), Monica Reza (JPL), and others documented in this MOC.
+
+**Epistemic note:** White House willingness to request briefings does not confirm a connection. It confirms the pattern has achieved sufficient public salience that ignoring it is no longer politically viable. The briefing request is a political management move as much as a genuine investigative signal.
+
+---
 
 ## The Verified Pattern
 
@@ -66,6 +81,22 @@ Between June 2025 and February 2026, five individuals connected to the U.S. defe
 
 **[[William McCasland]]** — Retired Air Force Major General, former Commander of AFRL at Wright-Patterson. Former Director of Special Programs at the Pentagon. Funding authority for the Mondaloy patent. Named in 2016 WikiLeaks Podesta emails as the key insider on classified aerospace programs and UAP materials at Wright-Patterson. Missing February 27, 2026.
 
+---
+
+## Peripheral Case: Amy Eskridge (Pre-Chain, Disclosure-Adjacent)
+
+**[[Amy Eskridge]]** — Co-founder, The Institute for Exotic Science. Antigravity/UAP propulsion researcher. Died June 11, 2022, Huntsville, Alabama. Official ruling: self-inflicted gunshot. Investigative report not publicly released. Predates the Mondaloy Chain cluster by three years.
+
+Filed here as a peripheral node because:
+- Her research field (antigravity/UAP propulsion) directly overlaps with McCasland's documented UAP-adjacent institutional knowledge
+- She documented threats and escalating harassment in a 2020 interview before her death
+- Retired British intelligence officer Franc Milburn concluded her death was not suicide; findings submitted to Congress 2023
+- She is Case #11 in the publicly circulating cluster list as of April 2026
+
+She is **not** a Mondaloy Chain node — no C-HGB or hypersonic weapons connection established. She belongs to the disclosure thread, which is a separate analytical frame. See [[Amy Eskridge]].
+
+---
+
 ## The Mondaloy Connection
 
 [[Mondaloy]] is a nickel superalloy patented by Monica Reza. Its operational significance: it enables booster survivability at hypersonic velocities — the critical materials science problem for the [[C-HGB]] (Conventional Hypersonic Glide Body) and its delivery systems Dark Eagle and the Conventional Prompt Strike weapon.
@@ -73,6 +104,8 @@ Between June 2025 and February 2026, five individuals connected to the U.S. defe
 The chain: **Reza** (Mondaloy inventor) → **[[AR1 engine]]** (Mondaloy application) → **C-HGB booster** → **Dark Eagle / CPS** (operational weapons systems).
 
 **[[William McCasland]]** funded the Mondaloy research program at AFRL. He is documented in the Podesta emails as having helped assemble Tom DeLonge's UAP advisory team and as possessing institutional knowledge of classified aerospace materials research at Wright-Patterson. He is the person who connected the materials science layer to the operational weapons layer.
+
+---
 
 ## The DOGE/NNSA Disruption
 
@@ -83,6 +116,8 @@ The people with the most current technical knowledge of C-HGB's operational para
 - The disappearance of its funding authority
 
 Whether this is catastrophic incompetence, routine bureaucratic chaos, or something more deliberate is a question the chain cannot answer from available evidence. The pattern is documented.
+
+---
 
 ## The 24-Hour Window
 
@@ -152,17 +187,22 @@ The man who told his wife he didn't want to live through his own deterioration m
 
 Whether he escaped, was taken, or chose his own ending after running as far as he could — the operational outcome for the chain is the same. The last person with direct institutional knowledge of C-HGB's developmental history is gone, unrecoverable, with no body, no note, and no electronic trace, 24 hours before the weapon's likely first use.
 
+---
+
 ## What Remains Unestablished
 
 - Whether the deaths and disappearances of Reza, Casias, Gustitus, Grillmair, and McCasland are connected or coincidental
 - Whether C-HGB was used in Operation Epic Fury
 - Whether McCasland's disappearance was voluntary, coerced, or staged
-- What specifically prompted Susan Wilkerson to call 911 after only three hours — what "indication" she had beyond the missing phone and changed clothes
+- What specifically prompted Susan Wilkerson to call 911 after only three hours
 - Whether the missing .38 caliber handgun has been located
-- Whether any body or remains have been found as of April 5, 2026 — **verify before publishing**
-- Whether the DOGE/NNSA disruption at Sandia in February 2026 was targeted, incidental, or unrelated
+- Whether any body or remains have been found — **verify before publishing**
+- Whether the DOGE/NNSA disruption at Sandia was targeted, incidental, or unrelated
 - Whether McCasland had contact with anyone in the days before his disappearance
 - Whether the Epstein/hypersonic weapons rumor has any documentable basis — not currently verifiable from open sources, kept out of vault pending sourcing
+- What the White House agency briefing request (April 2026) produces, if anything
+
+---
 
 ## What The Graph Shows
 
@@ -174,6 +214,8 @@ The chain does not require conspiracy to be analytically significant. It require
 
 **Eyes up.**
 
+---
+
 ## Citations
 
 - Monica Reza disappearance June 22, 2025, JPL, Mondaloy patent: [NewsNation](https://www.newsnationnow.com) | [The Sentinel Network](https://thesentinel.network)
@@ -181,12 +223,12 @@ The chain does not require conspiracy to be analytically significant. It require
 - Gustitus/Prichard killings October 25, 2025, Wright-Patterson: [The Salty Soldier](https://thesaltysoldier.com) | [KLTV](https://www.kltv.com) | [Conan Daily](https://conandaily.com)
 - Carl Grillmair shooting February 16, 2026, Caltech, infrared/hypersonic: [Wikipedia — Carl Grillmair](https://en.wikipedia.org/wiki/Carl_Grillmair) | [LA Magazine](https://www.lamag.com)
 - McCasland AFRL command, Pentagon Special Programs, Mondaloy funding: [Weird Darkness](https://weirddarkness.com/mccasland-missing/) | [Jessica Reed Kraus Substack](https://jessicareedkraus.substack.com)
-- McCasland Podesta emails connection, DeLonge "very important man": [WikiLeaks primary source](https://wikileaks.org/podesta-emails/emailid/3099) | [CBS Los Angeles](https://www.cbsnews.com/losangeles)
+- McCasland Podesta emails, DeLonge "very important man": [WikiLeaks primary source](https://wikileaks.org/podesta-emails/emailid/3099) | [CBS Los Angeles](https://www.cbsnews.com/losangeles)
 - McCasland disappearance February 27, 2026, Silver Alert, FBI involvement: [Newsweek](https://www.newsweek.com) | [NewsNation](https://www.newsnationnow.com)
-- 911 call — "planned not to be found," cognitive decline, no glasses/phone/smartwatch, missing firearm: [TMZ](https://www.tmz.com/2026/04/03/wife-of-missing-air-force-general-911-call/) | [NewsNation](https://www.newsnationnow.com/missing/missing-air-force-general-wife-911/) | [Irish Star](https://www.irishstar.com/news/us-news/chilling-911-call-missing-ufo-36966056)
+- 911 call — "planned not to be found," cognitive decline, missing firearm: [TMZ](https://www.tmz.com/2026/04/03/wife-of-missing-air-force-general-911-call/) | [NewsNation](https://www.newsnationnow.com/missing/missing-air-force-general-wife-911/) | [Irish Star](https://www.irishstar.com/news/us-news/chilling-911-call-missing-ufo-36966056)
 - Sheriff "most intelligent person in the room," not disoriented: [NewsNation](https://www.newsnationnow.com/missing/missing-air-force-general-wife-911/)
-- Rep. Tim Burchett "UFO gatekeeper," "group is very nervous": [Newsweek](https://www.newsweek.com/missing-us-general-has-information-ufos-congressman-11684617)
-- Ross Coulthart "most sensitive secrets," "grave national security crisis": [Weird Darkness](https://weirddarkness.com/mccasland-missing/)
-- DOGE NNSA firings February 2026, Sandia, ~27 not rehired: [Bulletin of the Atomic Scientists](https://thebulletin.org)
-- Operation Epic Fury February 28, 2026, Iran strikes, Khamenei killed: [Technocracy News](https://www.technocracy.news/why-trumps-takeover-in-gaza-preceded-the-war-in-iran/)
+- DOGE NNSA firings February 2026, Sandia: [Bulletin of the Atomic Scientists](https://thebulletin.org)
+- Operation Epic Fury February 28, 2026: [Technocracy News](https://www.technocracy.news/why-trumps-takeover-in-gaza-preceded-the-war-in-iran/)
 - Mondaloy → AR1 → C-HGB → Dark Eagle chain: [Wikipedia — Long-Range Hypersonic Weapon](https://en.wikipedia.org/wiki/Long-Range_Hypersonic_Weapon) | [CRS Report IF11991](https://congress.gov/crs-product/IF11991)
+- White House agency briefing signal April 17, 2026: [Newsweek](https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659)
+- Amy Eskridge Case #11, death 2022, Milburn investigation: [[Amy Eskridge]] vault note | [Newsweek April 17, 2026](https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659)
