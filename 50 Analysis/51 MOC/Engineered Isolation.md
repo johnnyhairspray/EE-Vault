@@ -153,6 +153,22 @@ The dependency is then real, not manufactured in the sense of being false. Peopl
 
 ---
 
+## Academic Citations
+
+**Social Capital Decline:**
+- Putnam, R.D. (1995). "Bowling Alone: America's Declining Social Capital." *Journal of Democracy*, 6(1), 65–78. — Foundational documentation of civic decline since the 1960s. Distinguishes bonding (in-group) vs. bridging (cross-group) social capital. Key finding: every 10 additional commute minutes decreases community participation ~10%.
+- Putnam, R.D. (2000). *Bowling Alone: The Collapse and Revival of American Community*. Simon & Schuster. — Full treatment. Documents decline across union membership, religious participation, civic organizations, informal social connections, and social trust. Suburban sprawl and television identified as primary structural drivers.
+- Murthy, V. (2023). U.S. Surgeon General Advisory on Loneliness and Isolation. — Approximately half of American adults report loneliness; highest rates among young adults. Documents measurable health, civic, and economic consequences.
+- Haidt, J. (2024). *The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness*. — Documents smartphone/social media adoption correlated with adolescent mental health deterioration, isolation, and anxiety.
+
+**Algorithmic Substitution:**
+- Frontiers in Social Psychology (2025). "Social media, AI, and the rise of extremism during intergroup conflict." — Dual-pathway radicalization model: introducing vulnerable individuals to extremist content AND reinforcing existing beliefs via confirmation bias. Algorithmic negativity bias amplifies divisive content far beyond users' stated preferences.
+- MDPI (2025). Systematic review of 30 studies (2015–2025): filter bubbles, echo chambers, algorithmic bias. *Social Sciences*, 15(11), 301. — Three consistent findings: (1) algorithmic systems structurally amplify ideological homogeneity; (2) youth agency constrained by opaque recommender systems; (3) echo chambers serve both ideological polarization and identity reinforcement.
+- Rathje et al. (2021, 2024). Twitter/X algorithm studies. — Demonstrated X algorithm amplifies divisive content significantly beyond users' stated preferences.
+- Haroon, M. et al. (UC Davis, 2024). YouTube algorithm and political radicalization study. — Found statistically significant ideological drift in recommendations based on prior watch history; radicalization effect present but pathway-dependent.
+
+---
+
 ## Personal Context Note
 
 This framework is not purely analytical. The experience of deleting social media after twenty-plus years — and the feeling of being cut off from social connection that follows — is a direct demonstration of the substitution mechanism. The platform had replaced social infrastructure rather than supplementing it. Its removal reveals the extent to which the infrastructure it substituted for had been allowed to degrade.
