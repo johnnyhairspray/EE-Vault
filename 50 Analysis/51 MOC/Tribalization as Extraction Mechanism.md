@@ -145,3 +145,24 @@ The Extraction Engine essay's central argument is that late-stage capitalism man
 Tribalization is the primary mechanism by which this incapacity is produced and maintained. It is not sufficient on its own — the other mechanisms (algorithmic surveillance, manufactured scarcity, debt dependency, information control) are also required. But without tribalization, the other mechanisms become visible as what they are: instruments of extraction. With tribalization, they remain invisible behind the demographic conflicts that occupy the population's attention.
 
 The extraction engine does not require a tribalized population to be stupid or manipulated in a simple sense. It requires a population whose genuine grievances are routed into channels that cannot threaten the structure producing those grievances. Tribalization performs that routing function.
+
+---
+
+## Academic Citations
+
+**Race as Solidarity Suppression — Bacon's Rebellion (1676):**
+- Wikipedia — Bacon's Rebellion. "Historians believe the rebellion hastened the hardening of racial lines associated with slavery, as a way for planters and the colony to control some of the poor." — Documents that cross-racial alliance of indentured servants and enslaved workers "alarmed the ruling class" and produced the Virginia Slave Codes of 1705 as a direct structural response.
+- Morgan, E.S. (1975). *American Slavery, American Freedom: The Ordeal of Colonial Virginia*. W.W. Norton. — Seminal historical analysis. Documents how Virginia elites deliberately constructed racial hierarchy after Bacon's Rebellion to prevent future cross-racial solidarity. Established the foundational academic framework for understanding race as a tool of class control.
+- Du Bois, W.E.B. (1935). *Black Reconstruction in America*. — Developed the "wages of whiteness" concept: non-economic psychological and social benefits conferred on white workers in exchange for racial loyalty, preventing cross-racial solidarity. Developed further by Roediger, D. (1991). *The Wages of Whiteness*. Verso.
+- AFL-CIO Labor Commission on Racial and Economic Justice. "A Brief History of Labor, Race and Solidarity." — Documents deliberate use of racial and ethnic differences by business interests to undermine labor unity in the interwar period.
+
+**Algorithmic Tribalization:**
+- Kramer, A.D.I., Guillory, J.E., Hancock, J.T. (2014). "Experimental evidence of massive-scale emotional contagion through social networks." *PNAS*, 111(24), 8788–8790. — Proves emotional states can be induced at population scale (N=689,003) through feed curation without awareness. Full analysis in [[The Emotional Contagion Experiment]].
+- Science (2024). "Reranking partisan animosity in algorithmic social media feeds alters affective polarization." — Field experiment demonstrating causal relationship between feed algorithm content and affective polarization. Platform-independent method; 10-day preregistered study.
+- Van Bavel et al. (2021). "Using social and behavioural science to support COVID-19 pandemic response." *Nature Human Behaviour*. — Reviews evidence on how identity threat content drives engagement and polarization across platforms.
+
+**Gender and Economic Independence:**
+- Van Ditmars, M.M. & Shorrocks, R. (2025). "Social Change and Women's Left Vote." *Comparative Political Studies*. — Women's labor force participation, higher education, and economic autonomy statistically associated with increased left-wing voting orientation across Germany, Switzerland, and UK panels.
+- PNAS (2023). "Race, gender, and partisan politics in the United States." — Increase in women's labor force participation "facilitated the political independence of women from the men in their lives and the emergence of an enduring partisan gap between men and women."
+- Tandfonline (2019). "Factors influencing women political participation: The case of the SADC region." — "Statistically significant positive relationship between female labour participation and women political participation." Countries with high female labor participation show higher female political participation.
+- Huber, E. et al. (2009). "The Politics of Women's Economic Independence." *Social Politics*, 16(1). — Women's mobilization shapes welfare state policy and poverty reduction; women's wages relative to partners a function of female labor force participation and women's organizational capacity.
