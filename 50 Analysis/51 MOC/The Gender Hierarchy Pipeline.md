@@ -155,13 +155,11 @@ The extraction engine requires a workforce that cannot organize collectively acr
 
 1. **Labor market pressure** — women in the workforce create competition for wages, which benefits workers collectively and reduces capital's wage-setting power. Removing women from the labor market allows wages to be suppressed at a lower floor.
 
-2. **Political pressure** — women who are economically independent vote their own interests. Women who are economically dependent on husbands tend to vote household interests — which under patriarchal household structures means voting the husband's interests. The gender hierarchy pipeline is also a voter suppression mechanism.
+2. **Political pressure** — women who are economically independent vote their own interests. The relationship is empirically documented: female labor force participation is statistically associated with increased female political participation and left-wing voting orientation across multiple national datasets.
 
 3. **Solidarity disruption** — a workforce divided by gender cannot organize across gender lines. Every union action, every strike, every collective bargaining campaign requires cross-gender solidarity. The wedge strategy documented here fractures that solidarity structurally.
 
-4. **Rage routing** — men experiencing economic precarity in a deindustrialized economy are a destabilizing force. The manosphere and gender war content routes that precarity into gender grievance rather than class grievance. The tradwife pipeline routes women's economic anxiety into voluntary submission rather than collective action. Both routes serve the same function: horizontal conflict that cannot escalate into vertical challenge.
-
-See [[Tribalization as Extraction Mechanism]] for the full analytical framework.
+4. **Rage routing** — men experiencing economic precarity in a deindustrializing economy are a destabilizing force. The manosphere and gender war content routes that precarity into gender grievance rather than class grievance. The tradwife pipeline routes women's economic anxiety into voluntary submission rather than collective action. Both routes serve the same function: horizontal conflict that cannot escalate into vertical challenge.
 
 ---
 
@@ -187,13 +185,24 @@ This connects the gender hierarchy pipeline directly to the white supremacy infr
 
 ---
 
-## Citations
+## Academic Citations
 
-- NRx Cathedral definition includes women's suffrage: [Wikipedia — Dark Enlightenment](https://en.wikipedia.org/wiki/Dark_Enlightenment)
-- DE proponents believe in biologically inevitable gender roles, share red pill with MRAs: [Public Medievalist — Dark Enlightenment](https://publicmedievalist.com/dark-enlightenment/)
-- Land hyper-racism, assortative mating, eugenics: [Britannica — Dark Enlightenment](https://www.britannica.com/topic/Dark-Enlightenment)
-- P2025 HHS "married mother, father, children foundation": [[Project 2025]] vault note
-- P2025 delete gender equality from federal law: [[Project 2025]] vault note
-- Technocracy Inc. gender-neutral energy certificates, male-dominated in practice: [Encyclopedia.com — Technocracy Movement](https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/technocracy-movement)
-- 7MM family mountain, divine mandate: [[Seven Mountains Mandate]] vault note
-- Emotional contagion mechanism, identity formation via algorithm: [[The Emotional Contagion Experiment]] vault note
+**Women's Economic Independence and Political Participation:**
+- Van Ditmars, M.M. & Shorrocks, R. (2025). "Social Change and Women's Left Vote." *Comparative Political Studies*. — Three-country panel study (Germany, Switzerland, UK). Women's labor force participation, education, and economic autonomy statistically linked to left-wing voting orientation. Mechanism: economic independence produces political independence from household interests.
+- PNAS (2023). "Race, gender, and partisan politics in the United States." — "Mutually reinforcing changes in gender role norms and the increase in women entering the labor force or living independently of a male spouse facilitated the political independence of women from the men in their lives."
+- Tandfonline (2019). "Factors influencing women political participation: SADC region." — Statistically significant positive relationship between female labour participation and female political participation across national data.
+- Huber, E. et al. (2009). "The Politics of Women's Economic Independence." *Social Politics*, 16(1), 1. — Women's organizational capacity and labor market participation are primary determinants of women's relative wages and poverty reduction. Women's mobilization shapes welfare state policy outcomes.
+- Cebula, R.J. & Alexander, G.M. (2017). "Female Labor Force Participation and Voter Turnout: Evidence from American Presidential Elections." *Review of Economics and Institutions*, 8(2). — Documents relationship between female labor force participation and voter turnout in US presidential elections.
+
+**Algorithmic Identity Formation:**
+- Kramer et al. (2014). *PNAS* — Emotional contagion at scale. Full analysis in [[The Emotional Contagion Experiment]].
+- MDPI (2025). Systematic review, 30 studies (2015–2025). — Echo chambers serve "both ideological polarization AND identity reinforcement and cultural belonging." This is the mechanism through which tradwife content produces identity integration rather than mere preference adoption.
+
+**NRx and Gender:**
+- Wikipedia — Dark Enlightenment. The NRx "Cathedral" definition explicitly lists women's suffrage as part of the progressive corruption of natural order.
+- Public Medievalist (2018). "A Brief History of a Terrible Idea: The Dark Enlightenment." — "DE proponents also believe in biologically inevitable gender roles" and share the "red pill" metaphor with Men's Rights movements.
+- Britannica — Dark Enlightenment. Land's "hyper-racism" framework advocates assortative mating and eugenics — genetic separation of cognitive elites from general population.
+
+**P2025 Gender Provisions:**
+- Project 2025 full PDF, p. HHS chapter (Severino): "Families comprised of a married mother, father, and their children are the foundation of a well-ordered nation."
+- ACLU. "Project 2025 Explained." — Documents deletion of gender equality language, Title IX rollback, faith-based discrimination provisions.
