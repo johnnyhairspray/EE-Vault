@@ -22,6 +22,11 @@ Connected-to:
   - "[[Roger Stone]]"
   - "[[Palantir Technologies]]"
   - "[[Sean Webb]]"
+  - "[[Les Wexner]]"
+  - "[[Elon Musk]]"
+  - "[[Peter Mandelson]]"
+  - "[[Prince Andrew]]"
+  - "[[Virginia Giuffre]]"
 Links:
   - "[[Donald Trump]]"
   - "[[Peter Thiel]]"
@@ -30,6 +35,8 @@ Links:
   - "[[Ghislaine Maxwell]]"
   - "[[Roger Stone]]"
   - "[[Sean Webb]]"
+  - "[[Les Wexner]]"
+  - "[[Elon Musk]]"
 Tags:
   - people
   - Epstein
@@ -43,6 +50,8 @@ Tags:
   - psi
   - mind-control
   - Monroe-Institute-adjacent
+  - document-release
+  - Wexner
 Aliases:
   - "Jeffrey Edward Epstein"
 ---
@@ -50,117 +59,154 @@ Aliases:
 
 Born: 01/20/1953. Died: 08/10/2019 (suicide per FBI determination; contested). Financier, registered sex offender (2008 Florida conviction), federal child sex trafficking indictee (2019). His primary relevance to this vault is not the crimes themselves — it is his position as a **node of elite network access** connecting the political, intelligence, financial, and technology power structures documented here, and the documented overlap between those connections and the actors running the current U.S. government.
 
-**Epistemic note:** No criminal wrongdoing has been established against Donald Trump or Peter Thiel in connection with Epstein's crimes. What is established: documented social and financial relationships, corroborated by flight logs, photographs, emails, and court documents. This note maps what is verified, not what is alleged.
+**Epistemic note:** No criminal wrongdoing has been established against Donald Trump, Peter Thiel, Elon Musk, or other named figures in connection with Epstein's crimes. What is established: documented social and financial relationships, corroborated by flight logs, photographs, emails, and court documents. This note maps what is verified, not what is alleged.
+
+---
+
+## 2025-2026: The Document Releases
+
+### The Epstein Files Transparency Act
+
+Passed the House 427-1 (sole dissent: Rep. Clay Higgins, Louisiana), passed the Senate unanimously, signed by Trump November 19, 2025. Required DOJ to release all Epstein-related files within 30 days.
+
+**The releases:**
+- **December 19, 2025:** Initial batch, heavily redacted. Bipartisan criticism. Over 500 pages entirely blacked out. Within hours, 16 files disappeared from the public webpage without explanation, including at least one photograph showing Donald Trump. No explanation was given for the removal or subsequent republication.
+- **January 30, 2026:** Over 3 million pages, 180,000 images, 2,000 videos. DOJ declared this the final release. Rep. Ro Khanna disputed this — DOJ had identified 6 million pages as potentially responsive but released only half.
+- **February 2026:** Members of Congress allowed to review unredacted files at secure DOJ facilities.
+
+**The redaction scandal:** The DOJ redacted perpetrators' names while exposing victims'. A group of 18 survivors stated: *"Once again, survivors are having their names and identifying information exposed, while the men who abused us remain hidden and protected."* Virginia Giuffre's family described the release as retraumatizing.
+
+**The faulty redaction exploit:** Digital redaction in the December 2025 release was technically flawed — blacked-out text could be revealed by copying and pasting into another application. This traced to a 2021 court filing incorporated into the DOJ release. Social media users recovered withheld content before it was corrected.
+
+**The deleted Trump photo:** 16 files removed from the DOJ website hours after the December 2025 release, including a photograph showing Trump. The files were later republished without explanation. The political management of what gets released — and what temporarily disappears — is analytically significant.
+
+### Major New Names from the 2026 Releases
+
+**Elon Musk** — Named in the January 30, 2026 release. The Commerce Department confirmed Commerce Secretary Howard Lutnick also appeared. Nature of Musk's connection not yet fully characterized from public documents. Directly relevant to vault nodes: see [[Elon Musk]].
+
+**Howard Lutnick** — Trump's Commerce Secretary. Manhattan neighbor of Epstein. Lutnick stated he had "limited interactions with Mr. Epstein in the presence of his wife" and described being shown Epstein's massage room in 2005, finding it disturbing, and avoiding him thereafter.
+
+**Peter Mandelson "my best pal"** — The January 2026 release escalated the documented Mandelson-Epstein relationship significantly. Mandelson called Epstein "my best pal" in the files. Documents indicate he may have leaked internal UK government information to Epstein, allowing Epstein to benefit financially. Mandelson was fired from his UK ambassadorship by PM Keir Starmer in September 2025 before the full release; resigned from the Labour Party and the House of Lords in February 2026. **The vault's existing Mandelson/Palantir/UK government thread now sits directly adjacent to a documented intelligence leak from a senior UK official to a convicted sex trafficker.** See [[Palantir Technologies]].
+
+**Jack Lang** — France's former Minister of Culture under Mitterrand. Head of the Arab World Institute. A video in the DOJ release shows Epstein and Lang outside the Louvre. Lang announced his resignation from the Arab World Institute in February 2026.
+
+**Dr. Mehmet Oz** — A 2016 email from Oz to Epstein appears in the files (content redacted). Oz has served as CMS administrator since 2025.
+
+**Peter Attia** — Longevity influencer and physician. His name appeared approximately 1,700 times in the January 2026 release. Attia resigned from CBS News contributor role and as chief science officer at the protein bar company David in early 2026.
+
+**Martin Nowak** — Harvard mathematics professor. Named as a $5 million beneficiary in Epstein's will.
+
+### Virginia Giuffre — Death April 2025
+
+Virginia Giuffre (née Roberts) — Epstein's most prominent accuser, who alleged she was trafficked to Prince Andrew, Alan Dershowitz, and others — died by suicide in April 2025. She was 41. Her posthumous memoir was published containing new allegations. The DOJ's January 2026 release then exposed her name and details she had shared with FBI investigators in confidence. Her brother Skye Roberts stated: *"They're redacting the names of perpetrators and they're unredacting the names of victims, quite the opposite of what the Epstein Files Transparency Act was meant to do."*
+
+### Prince Andrew — Stripped of Titles, Arrested
+
+- **October 2025:** Charles III stripped Prince Andrew of his titles.
+- **February 2026:** Andrew Mountbatten-Windsor arrested on suspicion of misusing his public office — specifically, supplying Epstein with confidential documents that Andrew had accessed through his royal role. His arrest represents the first criminal action against a named Epstein associate at royal/political level.
 
 ---
 
 ## The Trump Relationship
 
-Trump and Epstein's relationship began in the late 1980s — Trump told *New York* magazine in 2002 that he'd known Epstein "for 15 years." Their social connection centered on Palm Beach, where both owned properties: Mar-a-Lago and Epstein's nearby mansion on El Brillo Way, two miles north.
+Trump and Epstein's relationship began in the late 1980s — Trump told *New York* magazine in 2002 that he'd known Epstein "for 15 years." Their social connection centered on Palm Beach.
 
 **Documented facts:**
-- Flight logs from Epstein's private jet confirm Trump flew aboard at least **seven to eight times** in the 1990s, between New York and Palm Beach
-- 1992: NBC archival footage shows Trump and Epstein at Mar-a-Lago, chatting and pointing at women dancing. Same year: Florida businessman George Houraney organized a "calendar girl" event at Mar-a-Lago — only guests were Trump and Epstein
-- 1993: Trump attended Epstein's wedding to Marla Maples (photographs obtained by CNN)
-- 1997: Trump and Epstein photographed together at Mar-a-Lago
-- 2000: Trump, Melania, Epstein and Ghislaine Maxwell photographed together at Mar-a-Lago on February 12. Virginia Giuffre (then Virginia Roberts) was employed at Mar-a-Lago that year; she alleges Maxwell recruited her into Epstein's trafficking network while she worked there as a locker-room attendant
-- 2002: Trump told *New York* magazine: *"I've known Jeff for fifteen years. Terrific guy. He's a lot of fun to be with. It is even said that he likes beautiful women as much as I do, and many of them are on the younger side. No doubt about it — Jeffrey enjoys his social life."* Washington Post source: at their social peak, the two men *"were each other's wingmen"*
-- 2003: A letter bearing Trump's signature — sent to Epstein's associate Ghislaine Maxwell for a leather-bound birthday album — included a crude drawing of a naked woman, per Wall Street Journal. Trump has denied writing it and filed a libel lawsuit
-- ~2004-2005: The relationship cooled. Trump and Epstein competed over a Palm Beach property; Trump won at auction
-- ~2007: Epstein banned from Mar-a-Lago. Trump's account: Epstein had made inappropriate advances toward the teenage daughter of a Mar-a-Lago member. Epstein denied being banned, told the press he'd been invited to an event there "recently"
+- Flight logs confirm Trump flew on Epstein's private jet at least seven to eight times in the 1990s
+- 1992: NBC footage shows Trump and Epstein at Mar-a-Lago; same year, a private "calendar girl" event at Mar-a-Lago with only Trump and Epstein as guests
+- 2000: Trump, Melania, Epstein, and Ghislaine Maxwell photographed together at Mar-a-Lago on February 12. Virginia Giuffre was employed at Mar-a-Lago that year; she alleged Maxwell recruited her there
+- 2002: Trump told *New York* magazine: *"I've known Jeff for fifteen years. Terrific guy... he likes beautiful women as much as I do, and many of them are on the younger side."*
+- ~2004-2005: Relationship cooled after competing for a Palm Beach property; Trump won at auction
+- ~2007: Epstein reportedly banned from Mar-a-Lago after allegedly making inappropriate advances toward a teenage daughter of a member
 
-**November 2025 document release:** Democrats on the House Oversight Committee released thousands of Epstein emails. A 2011 email from Epstein to Ghislaine Maxwell stated that Trump had spent hours at his house with Virginia Giuffre and that Trump was *"the dog that didn't bark."* Giuffre, who died by suicide in April 2025, did not accuse Trump of wrongdoing. No criminal wrongdoing against Trump has been established.
+**November 2025 House Oversight release:** A 2011 Epstein email to Maxwell stated Trump had spent time at his house with Virginia Giuffre and described Trump as *"the dog that didn't bark."* Giuffre did not accuse Trump of wrongdoing.
 
-**Roger Stone** in his 2016 book described Trump recounting a visit to Epstein's Palm Beach estate: *"The swimming pool was filled with beautiful young girls. 'How nice,' I thought, 'he let the neighborhood kids use his pool.'"* Stone also said Trump left after 15 minutes because he was "uncomfortable."
+**The deleted Trump photo:** A photograph showing Trump was among the 16 files removed from the DOJ website hours after the December 2025 release. Subsequently republished without explanation.
+
+**Trump's house manager testimony:** In a September 2009 deposition, Epstein's former house manager Juan Alessi said Trump "never" stayed at Epstein's Palm Beach home and never received a massage there. He did say Trump came for dinner but ate with Alessi in the kitchen.
 
 ---
 
-## The Thiel Relationship
-
-The Epstein-Thiel connection is more precisely documented than the Trump connection due to the DOJ document releases, and more directly relevant to this vault because of the institutional overlap.
+## The Thiel / Valar Relationship
 
 **Timeline:**
-- **October 2014**: Thiel personally emailed Epstein soliciting $10-20M for [[Valar Ventures]]. *"I'd be happy to discuss more when I see you in person."* Meeting arranged at Epstein's Manhattan townhouse — the same property where numerous women alleged sexual abuse — with Valar principals Andrew McCormack and James Fitzgerald
-- **June 2015**: Epstein committed $15M through his Southern Trust Company as a limited partner in a key Valar fund
-- **2015-2016**: Total Epstein investment in Valar funds reaches **$40 million** across two funds. This is documented by Valar Ventures itself in confirmation to the New York Times
-- Epstein described himself to a cryptocurrency startup as a **"major investor with Thiel"** and encouraged them to reach out to Thiel to vouch for him — July 2018 emails
-- By time of Epstein's death (August 2019), the $40M investment had grown to approximately **$170 million** — the largest single asset in Epstein's estate
-- The investment remained locked in Valar funds as of 2025
+- **October 2014:** Thiel personally emailed Epstein soliciting $10-20M for [[Valar Ventures]], arranging a meeting at Epstein's Manhattan townhouse with Valar principals
+- **2015:** Epstein committed $15M through Southern Trust Company as Valar limited partner
+- **2015-2016:** Total Epstein investment reaches **$40 million** across two Valar funds (confirmed by Valar to the New York Times; confirmed by House Oversight 2026)
+- By death in 2019, the $40M had grown to approximately **$170 million** — the largest single asset in Epstein's estate
 
-**The Barak-Carbyne connection**: Former Israeli Prime Minister Ehud Barak emailed German investor Nicole Junckermann describing a meeting with Valar Ventures executives at *"a new Investment Fund owned by Peter Thiel and JE [Jeffrey Epstein]."* Thiel's spokesman denied co-ownership, confirmed Epstein was a limited partner. Barak and Epstein also pitched an Israeli surveillance tech firm — then called Reporty, later renamed **Carbyne** — to Valar Ventures in 2016. The pitch was rejected. In 2018, Thiel's Founders Fund invested in Carbyne.
+**The Barak-Carbyne connection:** Former Israeli PM Ehud Barak described a meeting with Valar executives at *"a new Investment Fund owned by Peter Thiel and JE."* Thiel's spokesman denied co-ownership. Barak and Epstein also pitched Carbyne (formerly Reporty, Israeli surveillance tech) to Valar in 2016 — pitch rejected. In 2018, Thiel's Founders Fund invested in Carbyne anyway.
 
-**The Palantir adjacency**: DOJ documents include emails in which Epstein discusses Palantir by name, asks Thiel about fundraising rounds, and encourages Barak to "look at" Palantir. Epstein acted as a connector between Thiel's investment apparatus and intelligence-adjacent figures. Palantir has denied Epstein ever invested in or held equity in the company.
+**The Mandelson-Palantir thread:** Mandelson leaked sensitive UK government information to Epstein (2009-2010). Thiel's Palantir hired Mandelson's lobbying company Global Counsel in 2018, facilitating Palantir's UK government penetration. Palantir now holds £670M+ in UK contracts. Mandelson has resigned from Labour and the Lords following the 2026 document release.
 
-**The Mandelson thread**: Former UK Labour grandee and Ambassador to the U.S. Peter Mandelson leaked sensitive UK secrets to Epstein between 2009 and 2010. Thiel's firm Palantir hired Mandelson's lobbying company Global Counsel in 2018 to facilitate Palantir's penetration of UK government contracts. This occurred while Epstein remained an active Valar limited partner receiving confidential investment opportunities. Palantir now holds £670M+ in UK government contracts including NHS patient data, Ministry of Defence operations, police intelligence databases, and nuclear weapons management.
-
-**Thiel's public account**: Told Joe Rogan in 2024 he met Epstein "a few times" after being introduced by Reid Hoffman as "one of the smartest tax people in the world." Called his decision to meet Epstein a "moral weakness." Said he assumed Epstein's jail time was short because "the crimes were not as serious as had been alleged." He confirmed he never visited Epstein's private island in the U.S. Virgin Islands. The DOJ documents — 900+ pages including Epstein's name appearing 2,200 times across Thiel-connected correspondence — contradict his characterization of the relationship as limited to a few meetings.
+**Thiel's public account:** Told Joe Rogan in 2024 he met Epstein "a few times" after Reid Hoffman introduced him as "one of the smartest tax people in the world." Called it a "moral weakness." The 900+ pages of Thiel-connected correspondence in DOJ documents — Epstein's name appearing 2,200 times — contradict the "few times" characterization.
 
 ---
 
-## The Consciousness Research Interest (2025-2026 DOJ Documents)
+## Les Wexner — The Primary Financial Patron
 
-The 2025-2026 DOJ email releases documented a dimension of Epstein's activities not previously well-understood: systematic interest in consciousness research, psi phenomena, and mind-control technology — documented through direct email correspondence and funding.
+See [[Les Wexner]] for full node. The most important and least explained financial relationship in Epstein's network.
 
-**What is verified:**
+Wexner — founder of L Brands (Victoria's Secret, Bath & Body Works, Abercrombie & Fitch) — was Epstein's primary financial patron for over a decade. Key documented facts:
 
-**Dean Radin / Parapsychology:** Epstein was in direct email correspondence with parapsychologist Dean Radin about funding a $90,000 project to prove psychic powers are real. Radin sent Epstein an email reading: *"Here's a photo of the holy shit spoon I bent."* — referencing spoon-bending as demonstration of psychic ability. Radin proposed overseeing the project if $90K funding was secured.
+- Wexner gave Epstein his **Manhattan townhouse** at 9 East 71st Street, valued at $77M — the property that became central to trafficking allegations
+- Epstein served as Wexner's financial manager and had **power of attorney** over Wexner's estate
+- The financial relationship gave Epstein access to Wexner's extensive social network and philanthropic infrastructure (Wexner Foundation, Ohio State University connections)
+- Wexner claimed to have cut ties with Epstein in 2007 after discovering he had misappropriated "vast sums" from his accounts. The claimed discovery in 2007 — not 2006, not 2008, but the exact year of Epstein's first arrest — strains credulity
+- Wexner was never charged with any crime
+- The mechanism by which a registered sex offender retained a $77 million Manhattan mansion gifted by one of America's wealthiest men has never been legally explained
 
-**UCSD telepathy research (2017):** Via Deepak Chopra as connector, Epstein funded UCSD's Center for Brain and Cognition (led by neuroscientist V.S. Ramachandran) research into potential telepathic abilities in autistic children. Chopra forwarded a proposal for a "psi experiment" in 2016 discussing use of "erotic or other emotional stimuli" in clairvoyance research. Epstein directed his accountant to send $25,000 from his foundation to support Ramachandran's research.
+---
 
-**Hong Kong academic / "special abilities" hunt (2017):** Epstein paid a Hong Kong academic $20,000 to find people with "X-Men like" special abilities. That same academic subsequently proposed converting Epstein's private island into a global hub for paranormal research and psychic experimentation.
+## The Consciousness Research Interest
+
+The 2025-2026 DOJ email releases documented systematic interest in consciousness research, psi phenomena, and mind-control technology:
+
+**Dean Radin / Parapsychology:** Epstein in direct correspondence about funding a $90,000 project to prove psychic powers are real. Radin emailed: *"Here's a photo of the holy shit spoon I bent."*
+
+**UCSD telepathy research (2017):** Via Deepak Chopra as connector, Epstein funded UCSD Center for Brain and Cognition research into potential telepathic abilities in autistic children. Epstein directed $25,000 from his foundation to neuroscientist V.S. Ramachandran.
+
+**Hong Kong "special abilities" hunt (2017):** Paid a Hong Kong academic $20,000 to find people with "X-Men like" special abilities. Same academic later proposed converting Epstein's private island into a global paranormal research hub.
 
 **Mind-control technology documents:** DOJ files identified documents in Epstein's possession relating to mind-control technology. Contents not fully disclosed.
 
-**Occult library:** Analysis of 18,000 emails from Bloomberg News (2025) documented Epstein purchased books with explicit occult content over time.
+This sits in a documented lineage: CIA MKULTRA (1953-1973), Stargate Project (1978-1995), Monroe Institute Gateway assessment (CIA 1983). After formal defunding, private actors picked up where the government left off — without oversight or congressional accountability.
 
-## The Intelligence Community Lineage
-
-Epstein's consciousness research interests don't exist in isolation — they sit in a documented lineage:
-
-The U.S. intelligence community ran systematic consciousness and psi research programs from the 1950s through the 1990s:
-- **MKULTRA (1953-1973):** CIA mind control research using drugs, hypnosis, and psychological manipulation on unwitting subjects
-- **Stargate Project (1978-1995):** CIA/DIA remote viewing program — using trained subjects to psychically observe distant locations. Formally defunded 1995
-- **Monroe Institute / Gateway:** The Monroe Institute's Gateway Experience program was the subject of a 1983 CIA report (*Analysis and Assessment of Gateway Process*) — the agency formally assessed hemisync binaural beat technology for consciousness alteration applications
-
-After formal defunding, this research didn't disappear. It migrated to private funding. Epstein represents a documented case of a private intelligence-adjacent actor picking up exactly where the government programs left off — funding psi research, consciousness manipulation, and "special abilities" identification through private channels without congressional oversight.
-
-## The [[Sean Webb]] Connection — Speculative
-
-[[Sean Webb]] developed the Webb Equation of Emotion — a formal mathematical framework for emotional state manipulation — with documented institutional presence at the Monroe Institute and defense-adjacent academic networks. His development timeline (2012-2013) is contemporaneous with Epstein's most active period of consciousness research funding.
-
-No direct connection between Epstein and Webb is documented. The significance is structural: both were operating in the same ecosystem — consciousness research, emotional/psychological manipulation, intelligence community-adjacent institutions — simultaneously. Webb may represent a bridge node between the legitimate academic consciousness research world and the intelligence community applications that Epstein was privately funding.
-
-**Confidence: Speculative. Watch only.**
+The [[Sean Webb]] connection remains speculative but structurally interesting: Webb developed the Webb Equation of Emotion — a formal framework for emotional state manipulation — with documented Monroe Institute ties. Development timeline (2012-2013) contemporaneous with Epstein's most active consciousness research funding period. No direct connection documented. Watch only.
 
 ---
 
-## What Epstein Was
+## The Intelligence Community Thread
 
-The academic framing: Epstein functioned as a **node of elite network access** — providing introductions, investment opportunities marked "super confidential," sexual compromise in some documented cases, and social legitimacy to figures who wanted proximity to power without the accountability of formal institutional relationships.
+Alex Acosta — Trump's Labor Secretary, architect of Epstein's sweetheart 2008 plea deal — reportedly told Trump transition officials that Epstein *"belonged to intelligence"* and that the instruction had been to leave him alone. This account has not been officially confirmed in documents released to date.
 
-His address books contained Trump, Bill Clinton, Tony Blair, Ehud Barak, Prince Andrew, and hundreds of others. His usefulness was access. His leverage was information. His protection — the sweetheart 2008 plea deal negotiated by then-U.S. Attorney Alex Acosta — came from a place high enough that Acosta later told Trump transition officials the instruction had been to leave Epstein alone because he *"belonged to intelligence."* That account has not been officially confirmed.
-
-The consciousness research layer adds a dimension: Epstein wasn't just a leverage node for financial and social power. He was actively funding research into the mechanisms of human psychological control — the same research the CIA had formally pursued for decades before defunding it. Whether this represents independent intellectual interest, intelligence community tasking, or something else is not established.
+The 2008 plea deal: Epstein pleaded guilty to two Florida state prostitution charges, served 13 months with extensive work release, avoided federal charges despite a 53-page federal indictment having been drafted. The Justice Department Inspector General found the deal to be inappropriately lenient.
 
 ---
 
 ## Relevance to This Vault
 
-1. **Thiel-Palantir-surveillance chain**: Epstein as financial intermediary in Thiel's investment network, which funds the same surveillance infrastructure ([[Palantir Technologies]]) now embedded in U.S. immigration enforcement, DoD, and the Trump second-term administration
-2. **Trump's social network**: Epstein as documented member of the same Palm Beach elite social circuit as Trump in the 1990s-2000s, including direct involvement with Mar-a-Lago where Virginia Giuffre was recruited
-3. **Carbyne/Israeli surveillance**: The Epstein-Barak-Carbyne connection links the sex trafficking network to Israeli intelligence-adjacent surveillance technology
-4. **Consciousness research as private intelligence**: Epstein's psi and mind-control research funding as the private continuation of formally defunded government programs — without oversight, accountability, or public knowledge
-5. **The document gap**: The Trump administration was under public pressure in 2025 to release Epstein-related federal files. FBI Director Kash Patel reaffirmed in May 2025 that all evidence pointed to suicide. The files relevant to his network of associates remain contested
+1. **Thiel-Palantir-surveillance chain:** Epstein as financial intermediary in Thiel's investment network, funding the surveillance infrastructure now embedded in U.S. government
+2. **Mandelson/Palantir/UK:** Documented government information leak from a senior UK official to a convicted sex trafficker who was simultaneously connected to the company now holding £670M in UK government contracts
+3. **Trump's social network:** Documented Palm Beach social circuit; Mar-a-Lago as Maxwell/Giuffre recruitment location
+4. **Musk in documents:** January 2026 release; full characterization pending
+5. **Consciousness/mind-control research:** Private continuation of formally defunded government programs
+6. **The document suppression pattern:** 16 files deleted including Trump photo; perpetrators redacted while victims exposed; 3M of potential 6M pages released; political management of the information release is itself analytically significant
+7. **The Wexner question:** How did a convicted sex offender retain a $77M mansion gifted by one of America's wealthiest men, remain connected to his network, and emerge from a 2007 criminal investigation with the financial relationship intact
 
 ---
 
 ## Citations
 
-- Trump-Epstein relationship timeline, 2002 NYMag quote, flight logs, Mar-a-Lago photographs: [Wikipedia — Relationship of Donald Trump and Jeffrey Epstein](https://en.wikipedia.org/wiki/Relationship_of_Donald_Trump_and_Jeffrey_Epstein) | [ABC News](https://abcnews.com/Politics/timeline-trump-epsteins-relationship-trump-falling/story?id=124241038) | [TIME](https://time.com/7333365/trump-epstein-relationship-timeline/)
-- "Each other's wingmen": [The Daily Beast](https://www.thedailybeast.com/everything-trump-has-said-about-why-he-broke-up-with-epstein/)
-- Thiel $40M Valar, Barak-Carbyne, Mandelson-Palantir: [Byline Times](https://bylinetimes.com/2026/02/04/jeffrey-epstein-and-peter-thiel-co-owned-venture-fund-as-thiels-palantir-entered-uk-government/) | [Union Bulletin / AP](https://www.union-bulletin.com/news/national/epstein-orbited-peter-thiel-for-years-over-money-connections-and-advice/article_4a26fbdd-f713-5fdb-a05a-817fb0027985.html)
-- Dean Radin $90K psi project, spoon-bending email: [Berkeley Today / National Today February 2026](https://nationaltoday.com/us/ca/berkeley/news/2026/02/07/emails-reveal-jeffrey-epsteins-interest-in-funding-paranormal-experiments/)
-- UCSD telepathy research, Deepak Chopra connector, $25K Ramachandran: [San Diego Today / National Today March 2026](https://nationaltoday.com/us/ca/san-diego/news/2026/03/08/ucsd-accepted-funding-from-epstein-for-controversial-paranormal-research/)
-- Hong Kong $20K "special abilities" hunt, island rebrand proposal, mind-control documents: [Eastern Herald March 2026](https://easternherald.com/2026/03/12/epstein-files-secret-mind-control-technology-professor-x/)
-- CIA Gateway / Monroe Institute 1983 report: [CIA declassified — Analysis and Assessment of Gateway Process (1983)]
-- Acosta "belonged to intelligence": [Miami Herald investigation, cited widely — not independently verified]
+- Trump-Epstein timeline, 2002 NYMag quote, flight logs, Mar-a-Lago: [Wikipedia — Relationship of Donald Trump and Jeffrey Epstein](https://en.wikipedia.org/wiki/Relationship_of_Donald_Trump_and_Jeffrey_Epstein)
+- Thiel $40M Valar, Barak-Carbyne, Mandelson: [Byline Times](https://bylinetimes.com/2026/02/04/jeffrey-epstein-and-peter-thiel-co-owned-venture-fund-as-thiels-palantir-entered-uk-government/)
+- Epstein Files Transparency Act, passage 427-1, Trump signing: [Congress.gov H.R.4405](https://www.congress.gov/bill/119th-congress/house-bill/4405/text)
+- Document release timeline, 3M pages Jan 30, deleted files, faulty redaction: [Wikipedia — Epstein files](https://en.wikipedia.org/wiki/Epstein_files)
+- Mandelson "my best pal," resigned Labour/Lords: [Britannica Epstein Files Timeline 2026](https://www.britannica.com/topic/The-Epstein-Files-A-Timeline/2026-Contempt-delays-and-more-documents)
+- Prince Andrew stripped of titles October 2025, arrested February 2026: [Britannica Epstein Files Timeline 2026](https://www.britannica.com/topic/The-Epstein-Files-A-Timeline/2026-Contempt-delays-and-more-documents)
+- Virginia Giuffre death April 2025: [CBS News Epstein files live updates](https://www.cbsnews.com/live-updates/epstein-files-released-doj-2026/)
+- Musk named in January 2026 release, Lutnick: [NBC News Epstein files live updates](https://www.nbcnews.com/politics/justice-department/live-blog/epstein-files-trump-doj-release-live-updates-rcna256639)
+- Survivors: "perpetrators redacted, victims exposed": [NBC News](https://www.nbcnews.com/politics/justice-department/live-blog/epstein-files-trump-doj-release-live-updates-rcna256639)
+- Dean Radin $90K psi, spoon-bending: [National Today February 2026](https://nationaltoday.com/us/ca/berkeley/news/2026/02/07/emails-reveal-jeffrey-epsteins-interest-in-funding-paranormal-experiments/)
+- UCSD telepathy $25K, Ramachandran: [National Today March 2026](https://nationaltoday.com/us/ca/san-diego/news/2026/03/08/ucsd-accepted-funding-from-epstein-for-controversial-paranormal-research/)
+- Acosta "belonged to intelligence": Miami Herald investigation — not officially confirmed in released documents
