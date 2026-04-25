@@ -35,6 +35,8 @@ Nodes:
   - "[[SpaceX]]"
   - "[[Starshield]]"
   - "[[NRO]]"
+  - "[[Cape Canaveral Space Force Station]]"
+  - "[[UAP Disclosure Thread]]"
 Tags:
   - analysis
   - MOC
@@ -56,6 +58,9 @@ Tags:
   - SpaceX
   - Starshield
   - privatization
+  - Florida
+  - Cape-Canaveral
+  - UAP-cover-hypothesis
 Aliases:
   - "Mondaloy Chain"
   - "Scientist Deaths MOC"
@@ -71,15 +76,13 @@ Aliases:
 
 As of April 20-21, 2026, the cluster has escalated from online speculation to formal federal multi-agency investigation.
 
-**White House:** Press Secretary Karoline Leavitt confirmed the Trump administration is "actively working with all relevant agencies and the FBI to holistically review all of the cases together and identify any potential commonalities." Trump stated directly: *"I hope it is random, but some of them were very important people and we're going to look at it over the next short period."* He called it *"pretty serious stuff."*
+**White House:** Press Secretary Karoline Leavitt confirmed the Trump administration is "actively working with all relevant agencies and the FBI to holistically review all of the cases together and identify any potential commonalities." Trump stated directly: *"I hope it is random, but some of them were very important people and we're going to look at it over the next short period."*
 
 **FBI:** Director Kash Patel confirmed federal coordination with state and local agencies on Fox News.
 
 **DOE/NNSA:** Confirmed independent investigation.
 
 **House Oversight Committee:** Chairman James Comer and Rep. Eric Burlison sent a formal letter to DOD dated **April 20, 2026** demanding a staff-level briefing by **April 27, 2026**. DOD responded that there are "no active national security investigations" of any missing person with DoW clearance in special access programs. The committee called this inadequate.
-
-The DOD denial is analytically significant in both directions: either there is genuinely no connection, or the connection exists at a level that wouldn't generate discoverable investigation records.
 
 ---
 
@@ -101,13 +104,13 @@ The DOD denial is analytically significant in both directions: either there is g
 
 ### Peripheral Cases
 
-**[[Michael David Hicks]]** — NASA JPL 1998-2022. DART, Deep Space 1. **Died July 30, 2023.** No public cause, no autopsy record.
+**[[Michael David Hicks]]** — NASA JPL 1998-2022. DART, Deep Space 1. **Died July 30, 2023.**
 
 **[[Frank Maiwald]]** — Principal researcher, NASA JPL. **Died July 4, 2024.**
 
 **[[Anthony Chavez]]** — Former LANL foreman. Age 78. **Missing May 8, 2025.**
 
-**[[Steven Garcia]]** — Government contractor, Kansas City National Security Campus (nuclear weapons production). **Missing August 2025.**
+**[[Steven Garcia]]** — Government contractor, Kansas City National Security Campus. **Missing August 2025.**
 
 **[[Nuno Loureiro]]** — MIT Plasma Science and Fusion Center director. **Shot December 15, 2025; died December 16.**
 
@@ -115,80 +118,58 @@ The DOD denial is analytically significant in both directions: either there is g
 
 ### Disclosure-Adjacent
 
-**[[Amy Eskridge]]** — Co-founder, Institute for Exotic Science. Antigravity/UAP propulsion. **Died June 11, 2022.** Official ruling: self-inflicted gunshot. Case #11 in federally tracked cluster. Belongs to disclosure thread, not chain core.
+**[[Amy Eskridge]]** — Co-founder, Institute for Exotic Science. Antigravity/UAP propulsion. **Died June 11, 2022.** Case #11 in federally tracked cluster. Disclosure thread, not chain core.
 
-**[[David Wilcock]]** — UAP/paranormal author, disclosure movement figure. **Died April 20, 2026.** Official ruling: suicide, mental health crisis, Boulder County. Two days before his death, his final livestream explicitly named the missing scientists pattern and expressed fear about it: *"People are disappearing. Scientists are going missing….It's a little bit scary."* Not a chain node — no defense research connection. Belongs to disclosure thread as the civilian media layer's most visible public node at time of death. See [[David Wilcock]].
+**[[David Wilcock]]** — UAP/paranormal author. **Died April 20, 2026.** Family confirmed suicide — depression and financial debt. Final livestream named missing scientists pattern and expressed fear. Disclosure thread only. See [[David Wilcock]].
+
+---
+
+## The Florida Testing Timeline — Cape Canaveral
+
+This section documents confirmed C-HGB/Dark Eagle testing from Cape Canaveral Space Force Station — directly relevant to both the Mondaloy Chain (materials survivability) and the UAP Disclosure Thread (cover hypothesis).
+
+**Test history:**
+
+- **October 21, 2021:** Booster failure — C-HGB never deployed. "No test."
+- **June 2022:** Second test failure. Program delayed for root cause investigation.
+- **December 12, 2024:** First confirmed successful end-to-end flight test from Cape Canaveral using Battery Operations Center and Transporter Erector Launcher. Pentagon officially announced.
+- **April 2025:** Second confirmed successful test from Cape Canaveral. Program formally designated "Dark Eagle" April 24, 2025.
+- **February 28, 2026:** Operation Epic Fury — alleged first operational use of C-HGB against Iran.
+- **March 26, 2026:** Third suspected Dark Eagle test from Cape Canaveral — one month after Epic Fury. Pentagon did not confirm. Eyewitness imagery by photographer Jerry Pike consistent with prior LRHW tests. Missile Defense Agency's HALO 52 and 53 Gulfstream 550s deployed from Melbourne, FL to observe.
+
+**March 20, 2026:** Army official stated the Dark Eagle battery at Joint Base Lewis-McChord, Pacific Northwest, "will receive its first operational missiles soon."
+
+**The Sandia/NNSA connection:** C-HGB is explicitly documented as based on the Alternate Re-Entry System developed by the Army and **Sandia National Laboratories**. DOGE fired 177 NNSA staff at Sandia in February 2026 — the same month McCasland disappeared and Epic Fury launched.
+
+**The Mondaloy materials connection:** The Florida tests validated thermal protection at sustained hypersonic speeds — aerodynamic temperatures approaching 3,000°F. This is precisely the engineering problem Mondaloy addresses. The Florida test program is the operational validation of the materials chain: Reza → Mondaloy → C-HGB booster survivability.
+
+**The UAP cover hypothesis:** C-HGB travels at sustained speeds up to Mach 17, makes unpredictable lateral and vertical maneuvers, generates intense infrared signatures from aerodynamic heating, and follows no ballistic arc — exactly the characteristics observers describe in UAP encounters in restricted military airspace. The 46 videos Luna is demanding from the Pentagon may include footage of classified hypersonic test vehicles being observed and misidentified. See [[UAP Disclosure Thread]] for full analysis.
 
 ---
 
 ## The SpaceX Institutional Displacement Layer
 
-**This section documents a structural pattern that does not require the deaths and disappearances to be connected — it operates independently of that hypothesis and would be significant even if every death in the cluster is coincidental.**
+**This section documents a structural pattern that would be significant even if every death in the cluster is coincidental.**
 
-The question: is SpaceX positioned to absorb the institutional functions these scientists performed? The answer is documented and alarming independent of any conspiracy framing.
+**Infrared tracking / space observation** (Hicks, Maiwald, Grillmair — JPL/Caltech): Starshield satellites outfitted with advanced infrared sensors for hypersonic missile tracking. Same sensor domain as JPL scientists' careers. $1.8B NRO contract for continuous global surveillance. 200+ satellites launched.
 
-### Direct Functional Overlap
+**Hypersonic tracking** (Reza — Mondaloy/C-HGB): $150M SDA contract to develop hypersonic tracking satellites. Reza's Mondaloy addressed the booster survivability end of the same weapon Starshield now tracks.
 
-**Infrared tracking / space observation** (Hicks, Maiwald, Grillmair — JPL/Caltech)
+**Golden Dome** (McCasland — C-HGB institutional knowledge): SpaceX primary bidder. McCasland held the developmental history, materials limits, and operational parameters of exactly the weapons Golden Dome intercepts. That knowledge is gone.
 
-Starshield — SpaceX's classified military satellite division — launched its first satellites specifically outfitted with advanced infrared sensors to detect and track ballistic and hypersonic missiles. This is the same sensor domain Hicks, Maiwald, and Grillmair spent careers in at JPL and Caltech. The institutional knowledge base is identical. Starshield is doing from a military satellite what JPL scientists spent careers doing from civilian platforms — but classified, privatized, and controlled by a single company whose CEO ran DOGE.
+**The DOGE-NNSA Nexus:** DOGE fired 177 NNSA staff at Sandia — lead C-HGB design agent — in February 2026. SpaceX is the private entity positioned to absorb the functions those staff performed. Musk ran both DOGE and SpaceX simultaneously.
 
-SpaceX's NRO contract: $1.8 billion classified contract with the National Reconnaissance Office to construct hundreds of spy satellites providing "continuous real-time monitoring of targets around the globe." As of 2026, 200+ Starshield satellites launched across 11+ missions. NRO director Scolese: system is "reducing time to insights from minutes to seconds — strengthening national security with improved prospects for lethality, when necessary."
+**The Northrop Grumman thread:** Starshield built in cooperation with Northrop Grumman — the same prime contractor on NEOWISE, NEO Surveyor, and C-HGB adjacent programs the cluster scientists contributed to.
 
-**Hypersonic tracking** (Reza — JPL/Rocketdyne, Mondaloy/C-HGB)
-
-SpaceX received a $150 million dual-use contract from the Space Development Agency in 2020 specifically to develop satellites to detect and track ballistic and hypersonic missiles. Reza's Mondaloy superalloy addressed hypersonic booster survivability — the materials engineering problem for the weapons Starshield now tracks. Different ends of the same weapons system.
-
-**Golden Dome / hypersonic defense** (McCasland — AFRL, C-HGB institutional knowledge)
-
-SpaceX is the primary bidder for contracts for the Golden Dome space weapons system — Trump's Iron Dome for America, explicitly designed to intercept hypersonic weapons. McCasland held the institutional knowledge of the developmental history, materials limits, and operational parameters of exactly the weapons Golden Dome is built to intercept. That knowledge is now gone.
-
-### The DOGE-NNSA Nexus — The Structural Link
-
-This is the tightest connection and it runs through Musk directly.
-
-Musk through DOGE fired 177 NNSA staff at Sandia — the lead C-HGB design agent — in **February 2026**, the same month McCasland disappeared and Operation Epic Fury launched. Most were rehired, but the institutional disruption was real and deliberate in timing.
-
-The triangulated relationship:
-- SpaceX is the private entity competing for functions the NNSA institutional staff performed
-- DOGE, run by SpaceX's CEO, initiated the disruption vacating those institutional roles
-- The timing aligns with C-HGB's first operational use
-
-Whether deliberate or incidentally aligned, the structural effect is identical: public institutional knowledge nodes disrupted; private contractor positioned to absorb the functions.
-
-### Non-Obvious Common Links
-
-**1. The institutional privatization transition point.** All 11 were connected to programs at peak institutional sensitivity — first operational use of C-HGB, JPL's institutional role being squeezed by commercial space, NNSA being disrupted by DOGE. They weren't just researchers. They were the institutional memory holders of programs entering the transition from public to private control at the most sensitive possible moment.
-
-**2. Geographic overlap with SpaceX's operational footprint.** The defense research triangle — Southern California (JPL, Rocketdyne, Caltech), New Mexico (LANL, Sandia, Kirtland), Ohio (Wright-Patterson/AFRL) — maps precisely onto SpaceX's primary government client geography. Vandenberg SFB is SpaceX's primary West Coast launch site. Kirtland AFB interfaces with Starshield operations. Wright-Patterson is AFRL's headquarters — SpaceX's primary Air Force research interface.
-
-**3. TS/SCI clearance with special access programs.** The House Oversight letter specifically referenced "current or former DoW clearance holder and involved in special access programs." Starshield is itself a special access program. The people who held institutional knowledge of what Starshield was designed to replace are exactly this population.
-
-**4. The Northrop Grumman thread.** Starshield satellites are made in cooperation with Northrop Grumman. Northrop is the prime contractor on multiple programs the cluster scientists worked adjacent to — NEOWISE, NEO Surveyor (Grillmair), hypersonic weapons (C-HGB adjacent). The same private contractor now partnering with SpaceX on classified satellite systems was the institutional home of programs these scientists contributed to.
-
-### The Analytical Frame
-
-SpaceX isn't necessarily targeting these scientists' functions through any deliberate operation. What's happening is structurally worse: SpaceX is absorbing the institutional *capabilities* through a combination of:
-
-- **DOGE disruption** — firing institutional staff at the agency responsible for the weapons these scientists helped develop
-- **Classified contracts** — Starshield replacing JPL/NRO functions at scale and speed civilian institutions cannot match
-- **Private consolidation** — xAI/Cursor acquisition controlling the developer tools for AI systems running on targeting infrastructure
-
-The scientists held institutional memory — the materials science, the infrared physics, the plasma behavior, the targeting logic. That knowledge is what distinguishes the public institutional model (hard to replicate, embedded in human expertise) from the private contractor model (replicate the output, not the knowledge).
-
-The chain doesn't need to be conspiratorial to be alarming. The privatization of defense research is documented policy. The displacement of JPL functions by Starshield is documented contract reality. DOGE's disruption of NNSA is documented fact.
-
-What the cluster adds: the specific human nodes whose absence makes that transition cleaner.
+**Non-obvious common links:** All 11 connected to programs at peak institutional sensitivity — C-HGB's first operational use, JPL squeezed by commercial space, NNSA disrupted by DOGE. They were the institutional memory holders of programs entering the transition from public to private control at the most sensitive moment.
 
 ---
 
 ## The Mondaloy Connection
 
-[[Mondaloy]] is a nickel superalloy patented by Monica Reza. Its operational significance: it enables booster survivability at hypersonic velocities — the critical materials science problem for the [[C-HGB]] and its delivery systems Dark Eagle and the Conventional Prompt Strike weapon.
+**Reza** (Mondaloy inventor) → **[[AR1 engine]]** (Mondaloy application) → **C-HGB booster** → **Dark Eagle / CPS** (operational weapons systems).
 
-The chain: **Reza** (Mondaloy inventor) → **[[AR1 engine]]** (Mondaloy application) → **C-HGB booster** → **Dark Eagle / CPS** (operational weapons systems).
-
-**[[William McCasland]]** funded the Mondaloy research program at AFRL. Monica Reza worked on a government-funded rocket materials project directly overseen by McCasland — confirmed in House Oversight Committee documentation.
+McCasland funded the Mondaloy research program at AFRL. Reza's project was directly overseen by McCasland — confirmed in House Oversight documentation.
 
 ---
 
@@ -198,13 +179,11 @@ The chain: **Reza** (Mondaloy inventor) → **[[AR1 engine]]** (Mondaloy applica
 
 **February 28, 2026** — Operation Epic Fury. US-Israel strikes on Iran. Supreme Leader Khamenei killed.
 
-A gray U.S. Air Force sweatshirt was found 1.25 miles east of his residence. No body. No note. No electronic trace. 50+ days later.
+Gray USAF sweatshirt found 1.25 miles east of his residence. No body. No note. No electronic trace. 50+ days later.
 
-The suicide narrative fails its own internal logic. A man motivated by love to spare his family turns off his phone — not leaves it on silent, turns it off — eliminating even the cold-trail data that would eventually lead his family to his body and allow them to grieve. That is not protective. That is operational.
+The suicide narrative fails its own internal logic. A man motivated by love to spare his family turns off his phone — eliminating even the cold-trail data that would let his family find his body and grieve. That is not protective. That is operational.
 
-The Final Domino reading: McCasland was the last standing node who could see the pattern, had the clearance to understand what it meant, and had the institutional knowledge to be the next target. He ran before someone else decided the terms. The turned-off phone isn't about preventing his family from finding a body. It's about preventing whoever is looking for him from finding him first.
-
-Whether he escaped, was taken, or chose his own ending — the outcome for the chain is identical.
+The Final Domino reading: McCasland was the last standing node who could see the pattern, had the clearance to understand what it meant, and had the institutional knowledge to be the next target. He ran before someone else decided the terms.
 
 ---
 
@@ -213,20 +192,23 @@ Whether he escaped, was taken, or chose his own ending — the outcome for the c
 - Whether the deaths and disappearances are connected or coincidental
 - Whether C-HGB was used in Operation Epic Fury
 - Whether McCasland's disappearance was voluntary, coerced, or staged
-- What the April 27 House Oversight / DOD briefing produces
+- What the April 27 House Oversight / DOD briefing produced
 - Whether any body or remains have been found — **verify before publishing**
 - Whether the DOGE/NNSA disruption at Sandia was targeted or incidental
-- Whether the SpaceX displacement pattern is deliberate or structurally emergent
+- Whether the 46 UAP videos include footage of C-HGB test vehicles
+- Whether the UAP disclosure push is genuine, managed, or both
 
 ---
 
 ## What The Graph Shows
 
-[[Monica Reza]] → [[Mondaloy]] → [[William McCasland]] (funding authority) → [[C-HGB]] → [[Operation Epic Fury]].
+**Reza → Mondaloy → McCasland → C-HGB → Operation Epic Fury**
 
-[[SpaceX]] / [[Starshield]] → absorbing JPL infrared/tracking functions → hypersonic detection → [[Golden Dome]] contracts → [[DOGE]] → [[NNSA]] disruption → same timeline.
+**SpaceX/Starshield → JPL infrared functions → hypersonic detection → Golden Dome → DOGE → NNSA disruption → same timeline**
 
-McCasland is the hub connecting materials science (Reza/Mondaloy), operational weapons (C-HGB/Dark Eagle), UAP disclosure (Podesta emails/DeLonge), and the privatization transition (AFRL → SpaceX).
+**Florida Eastern Range → December 2024 test → April 2025 test → Epic Fury February 2026 → March 2026 test → UAP 46 videos withheld**
+
+McCasland sits at the intersection of all three threads: materials science (Reza/Mondaloy), operational weapons (C-HGB/Dark Eagle), UAP disclosure (Podesta emails/DeLonge), and privatization transition (AFRL → SpaceX).
 
 The chain does not require conspiracy to be analytically significant. It requires the pattern to be taken seriously.
 
@@ -236,15 +218,14 @@ The chain does not require conspiracy to be analytically significant. It require
 
 ## Citations
 
-- Federal investigation, Leavitt, FBI Patel, House Oversight April 20: [Newsweek April 2026](https://www.newsweek.com/fbi-investigating-missing-dead-scientists-what-we-know-11852176) | [CNN April 21, 2026](https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation) | [House Oversight press release](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/)
-- Starshield $1.8B NRO contract, infrared hypersonic tracking satellites, 200+ launched: [Wikipedia — SpaceX Starshield](https://en.wikipedia.org/wiki/SpaceX_Starshield)
-- SDA $150M hypersonic tracking contract 2020: [Wikipedia — SpaceX Starshield](https://en.wikipedia.org/wiki/SpaceX_Starshield)
-- NRO "reducing time to insights, improved prospects for lethality": [Spaceflight Now April 2025](https://spaceflightnow.com/2025/04/12/live-coverage-spacex-to-launch-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-vandenberg/)
-- Northrop Grumman / Starshield partnership: [Wikipedia — SpaceX Starshield](https://en.wikipedia.org/wiki/SpaceX_Starshield)
-- Golden Dome primary SpaceX bid: [Wikipedia — SpaceX Starshield](https://en.wikipedia.org/wiki/SpaceX_Starshield)
-- DOGE NNSA firings February 2026, Sandia: [Bulletin of the Atomic Scientists](https://thebulletin.org)
-- Monica Reza / McCasland connection, House Oversight: [FOX 11 Los Angeles](https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza)
-- McCasland disappearance, 911 call, sweatshirt: [TMZ](https://www.tmz.com) | [NewsNation](https://www.newsnationnow.com)
-- David Wilcock final livestream, "people are disappearing": [The News International April 2026](https://www.thenews.com.pk/latest/1399953-david-wilcocks-final-message-what-he-said-just-two-days-before-his-tragic-death)
-- Operation Epic Fury February 28, 2026: EE-Vault [[Operation Epic Fury]]
-- Mondaloy → AR1 → C-HGB → Dark Eagle: [Wikipedia — Long-Range Hypersonic Weapon](https://en.wikipedia.org/wiki/Long-Range_Hypersonic_Weapon)
+- Federal investigation confirmation: [Newsweek April 2026](https://www.newsweek.com/fbi-investigating-missing-dead-scientists-what-we-know-11852176) | [CNN April 21, 2026](https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation) | [House Oversight](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/)
+- Florida test history December 2024, April 2025: [Congress.gov CRS IF11991](https://www.congress.gov/crs-product/IF11991)
+- March 26, 2026 Cape Canaveral test: [Army Recognition](https://www.armyrecognition.com/news/army-news/2026/u-s-conducts-suspected-dark-eagle-lrhw-hypersonic-missile-test-from-cape-canaveral) | [Space Coast Daily](https://spacecoastdaily.com/2026/03/pentagon-conducts-successful-test-of-dark-eagle-hypersonic-weapon-from-cape-canaveral-space-force-station/)
+- C-HGB based on Sandia ARS, Dynetics manufacture: [Congress.gov CRS](https://www.congress.gov/crs-product/IF11991) | [Defense Post](https://thedefensepost.com/2025/08/26/dark-eagle-hypersonic-weapon-guide/)
+- Dark Eagle formally named April 24, 2025: [USNI News](https://news.usni.org/2026/04/09/report-to-congress-on-u-s-armys-dark-eagle-hypersonic-weapon)
+- JBLM first operational missiles statement March 20, 2026: [Eurasia Review](https://www.eurasiareview.com/08042026-u-s-armys-dark-eagle-americas-long-range-hypersonic-weapon-lrhw-analysis/)
+- Starshield NRO $1.8B, infrared sensors: [Wikipedia — SpaceX Starshield](https://en.wikipedia.org/wiki/SpaceX_Starshield)
+- DOGE NNSA Sandia firings: [Bulletin of the Atomic Scientists](https://thebulletin.org)
+- Reza/McCasland connection: [FOX 11 Los Angeles](https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza)
+- McCasland disappearance: [TMZ](https://www.tmz.com) | [NewsNation](https://www.newsnationnow.com)
+- Operation Epic Fury: EE-Vault [[Operation Epic Fury]]
