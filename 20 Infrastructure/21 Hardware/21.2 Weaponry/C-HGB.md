@@ -56,6 +56,17 @@ The C-HGB detaches from a booster rocket at the edge of space, then glides throu
 
 **Unresolved testing concern:** A March 2026 DOT&E (Director, Operational Test and Evaluation) assessment noted "insufficient data" regarding C-HGB survivability in contested electromagnetic environments — meaning the weapon was fielded before testing was complete.
 
+## May 2026 — Sonic Boom Clustering (Notation)
+
+Late May 2026 saw an unusual cluster of unexplained atmospheric sonic boom events:
+
+- **May 29 — South Carolina:** Unexplained sonic boom across the Midlands. USGS ruled out seismic activity. NASA ruled out launches and meteors. No official explanation provided.
+- **May 30 — New England:** Sonic boom across NH/MA/RI. Subsequently attributed to a ~1-yard meteor entering the atmosphere off the coast of Boston, impacting Cape Cod Bay at ~100ft depth. Energy estimated at 300 tons TNT equivalent.
+
+**The South Carolina event remains unexplained.** Standard CONUS test ranges (Pacific Missile Range at Kauai, Cape Canaveral) make C-HGB testing over South Carolina's interior unlikely by standard protocol. However, the LRHW battery at JBLM entered operational status the same month, and DOT&E noted insufficient operational testing data as recently as March 2026.
+
+*This notation records a temporal correlation, not a confirmed connection. Filed as pattern of interest.*
+
 ## The Mondaloy Chain Connection
 
 The C-HGB development chain runs directly through the cluster of deaths and disappearances documented in [[The Mondaloy Chain]]:
@@ -71,4 +82,6 @@ Whether C-HGB was used in Operation Epic Fury is not confirmed in open-source re
 - Army Dark Eagle fielding March 2026, battery at JBLM: [DefenseScoop January 2026](https://defensescoop.com/2026/01/21/dark-eagle-hypersonic-weapon-army-fielding-plans/)
 - 20-minute China strike capability, DOT&E insufficient data: [19FortyFive March 2026](https://www.19fortyfive.com/2026/03/hypersonic-dark-eagle-missile-can-hit-china-or-russia-in-under-20-minutes-the-pentagon-just-admitted-it-hasnt-finished-testing-it/)
 - USS Zumwalt CPS conversion: [Warrior Maven December 2025](https://warriormaven.com/news/sea/us-navy-zumwalt-destroyers-to-fire-hypersonic-cps-missiles-in-2026)
+- South Carolina sonic boom May 29 2026: multiple news sources
+- New England sonic boom/meteor May 30 2026: NASA, CBS Boston, Boston Globe
 - Mondaloy materials chain: [[Mondaloy]] vault note | [[The Mondaloy Chain]] MOC
