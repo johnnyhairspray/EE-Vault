@@ -85,6 +85,22 @@ TOOLS = [
 ]
 
 
+{
+        "name": "str_replace_note",
+        "description": "Replace a unique string in a note with another string. old_str must match exactly and appear exactly once in the note.",
+        "inputSchema": {
+            "type": "object",
+            "required": ["path", "old_str", "new_str"],
+            "properties": {
+                "path": {"type": "string", "description": "File path relative to vault root"},
+                "old_str": {"type": "string", "description": "Exact string to find and replace (must be unique in the file)"},
+                "new_str": {"type": "string", "description": "String to replace it with"},
+                "vault": {"type": "string", "description": "Vault name. Defaults to first vault."},
+                "commit_message": {"type": "string", "description": "Git commit message (optional)"},
+            },
+        },
+    },
+
 def resolve_repo(vault: str = ""):
     for r in VAULT_REPOS:
         if not vault:
@@ -207,7 +223,46 @@ async def call_tool(name: str, args: dict) -> str:
         if r.status_code in (200, 201):
             return f"{'Updated' if sha else 'Created'}: {repo['name']}/{path}"
         return f"Write error {r.status_code}: {r.text[:200]}"
+    if name == "str_replace_note":
+        path = args.get("path", "")
+        old_str = args.get("old_str", "")
+        new_str = args.get("new_str", "")
+        commit_message = args.get("commit_message", "")
 
+        url = f"https://api.github.com/repos/{repo['owner']}/{repo['repo']}/contents/{path}"
+        async with httpx.AsyncClient(timeout=15) as client:
+            r = await client.get(url, headers=GH_HEADERS)
+
+        if r.status_code == 404:
+            return f"Note not found: {path}"
+        if r.status_code != 200:
+            return f"GitHub error {r.status_code}"
+
+        data = r.json()
+        if data.get("encoding") != "base64":
+            return "Could not read file."
+
+        sha = data["sha"]
+        content = base64.b64decode(data["content"]).decode("utf-8")
+
+        count = content.count(old_str)
+        if count == 0:
+            return f"No match found for old_str in {path}. Nothing changed."
+        if count > 1:
+            return f"old_str matches {count} times in {path} — must be unique. Nothing changed."
+
+        new_content = content.replace(old_str, new_str, 1)
+        encoded = base64.b64encode(new_content.encode("utf-8")).decode("utf-8")
+        msg = commit_message or f"Edit {path.split('/')[-1]}"
+        payload = {"message": msg, "content": encoded, "sha": sha}
+
+        async with httpx.AsyncClient(timeout=15) as client:
+            r = await client.put(url, headers=GH_HEADERS, json=payload)
+
+        if r.status_code in (200, 201):
+            return f"Updated: {repo['name']}/{path}"
+        return f"Write error {r.status_code}: {r.text[:200]}"
+    
     return f"Unknown tool: {name}"
 
 
